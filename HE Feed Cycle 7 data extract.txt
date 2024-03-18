@@ -1,0 +1,284 @@
+T
+
+		WITH
+Transactions as (
+SELECT
+        fir.policy_number as policy_number,
+        'HE' ::text as product,
+        policy_sequence as pol_seq,
+        dcp.coverage_product_description as cover,
+        fir.account_number as client_ref,
+        CASE WHEN dcp.coverage_product_description = 'Renters' THEN 'Y' ELSE 'N' END as renters_flag,
+        CASE WHEN dpt.policy_transaction_type_description = 'New Business' THEN 1 ELSE 0 END as nbs_flag,        
+        CASE WHEN dpt.policy_transaction_type_description in ('Policy Change', 'Amendment') THEN 1 ELSE 0 END as mta_flag,
+        CASE WHEN dpt.policy_transaction_type_description = 'Renewal' THEN 1 ELSE 0 END as ren_flag,
+        CASE WHEN dpt.policy_transaction_type_description = 'Cancellation' THEN 1 ELSE 0 END as can_flag,    
+		CASE WHEN dpt.policy_transaction_type_description = 'Reinstatement' THEN 1 ELSE 0 END as rin_flag,    
+        to_char(dcs.cal_date,'ddmmyyyy') as incept_date, 
+        to_char(dce.cal_date,'ddmmyyyy') as expiry_date,
+        to_char(def.cal_date,'ddmmyyyy') as eff_from_date,    
+        to_char(dtc.cal_date,'ddmmyyyy') as transaction_created_date,    
+        to_char(fir.transaction_created_time,'hhmmss')  as transaction_created_time,        
+        to_char(dta.cal_date,'ddmmyyyy') as transaction_accepted_date,
+        to_char(fir.transaction_accepted_time,'hhmmss')  as transaction_accepted_time,
+-- Derive policy transaction type code
+        CASE    WHEN policy_transaction_type_description = 'New Business' THEN 'N'
+                WHEN policy_transaction_type_description in ('Policy Change', 'Amendment') THEN 'A'
+                WHEN policy_transaction_type_description ='Renewal' THEN 'R'
+                WHEN policy_transaction_type_description ='Cancellation' THEN 'C'  
+                WHEN policy_transaction_type_description='Reinstatement' THEN 'I'
+                ELSE policy_transaction_type_description
+        END as transaction_type,
+        -- Derive policy transaction description code
+        CASE    WHEN policy_transaction_type_description ='New Business' THEN 'NEW'
+                WHEN policy_transaction_type_description in ('Policy Change', 'Amendment') THEN 'AMD' 
+                WHEN policy_transaction_type_description ='Renewal' THEN 'REN'
+                WHEN policy_transaction_type_description ='Cancellation' THEN 'CAN'  
+                WHEN policy_transaction_type_description='Reinstatement' THEN 'RIN'
+                ELSE policy_transaction_type_description
+        END as transaction_description,
+         -- Derive policy status code
+        CASE     WHEN dcr.policy_cancel_reason_id = 0 THEN 'C'
+                ELSE 'Z'
+       END as policy_status,
+         -- Derive Brand Code        
+        CASE   WHEN dbr.brand_code in ( 'Direct Line','Royal Bank of Scotland','Privilege' ) THEN 'DL'
+                WHEN dbr.brand_code = 'Natwest' THEN 'NA'
+                WHEN dbr.brand_code = 'Ulster Bank' THEN 'UL'
+                WHEN dbr.brand_code = 'Churchill' THEN 'CI'
+                ELSE dbr.brand_code
+         END as brand,
+        -- Derive Scheme
+        CASE
+            WHEN dbr.brand_code ='Direct Line' AND dcp.coverage_product_description  = 'Standard' THEN '985' --Directline                     
+            WHEN dbr.brand_code = 'Direct Line' AND dcp.coverage_product_description  = 'Enhanced' THEN '570'
+            WHEN dbr.brand_code = 'Royal Bank of Scotland' AND dcp.coverage_product_description  = 'Standard'  THEN '976'
+            WHEN dbr.brand_code = 'Royal Bank of Scotland' AND dcp.coverage_product_description  = 'Enhanced' THEN '596'
+            WHEN dbr.brand_code = 'Privilege'  THEN '571' 
+            WHEN dbr.brand_code = 'Natwest' AND dcp.coverage_product_description  = 'Standard'  THEN '941'
+            WHEN dbr.brand_code = 'Natwest' AND dcp.coverage_product_description  = 'Enhanced' THEN '595' 
+            WHEN dbr.brand_code = 'Ulster Bank ' THEN '573' 
+            WHEN dbr.brand_code = 'Churchill' AND dcp.coverage_product_description  = 'Renters' THEN '798'  
+            WHEN dbr.brand_code = 'Churchill' AND dcp.coverage_product_description  = 'Standard' THEN '813'  
+            WHEN dbr.brand_code = 'Churchill' AND dcp.coverage_product_description  = 'Enhanced' THEN '814' 
+            ELSE 'Unknown Scheme:  for ' ||  brand_code || ' ' || dcp.coverage_product_description
+        END as scheme,   
+	-- Derive Cover level
+		CASE
+            WHEN dbr.brand_code ='Direct Line' AND dcp.coverage_product_description  = 'Standard' THEN '2312' --Directline                     
+            WHEN dbr.brand_code = 'Direct Line' AND dcp.coverage_product_description  = 'Enhanced' THEN '2288'
+            WHEN dbr.brand_code = 'Royal Bank of Scotland' AND dcp.coverage_product_description  in ('Standard','Enhanced')  THEN '2312'
+            WHEN dbr.brand_code = 'Privilege' AND dcp.coverage_product_description  = 'Enhanced' THEN '2289' 
+            WHEN dbr.brand_code = 'Privilege' AND dcp.coverage_product_description  = 'Standard' THEN '2312' 
+            WHEN dbr.brand_code = 'Natwest' AND dcp.coverage_product_description   in ('Standard','Enhanced')  THEN '2312'
+            WHEN dbr.brand_code = 'Ulster Bank ' THEN '2312' 
+            WHEN dbr.brand_code = 'Churchill' AND dcp.coverage_product_description  in ('Renters','Standard') THEN '2312'  
+            WHEN dbr.brand_code = 'Churchill' AND dcp.coverage_product_description  = 'Enhanced' THEN '2288' 
+           ELSE 'Unknown Coverlevel:  for ' ||  brand_code || ' ' || dcp.coverage_product_description 
+        END as Coverlevel, 
+  -- Personal Details
+		dph.prefix_name as title,
+        dph.first_name  as forename,
+        dph.last_name as surname,
+		title ||' '|| forename ||' '||  surname as contact_details,
+        to_char(dph.date_of_birth,'ddmmyyyy') as dob,        
+        dpr.postcode as postcode,
+		coalesce(dph.home_phone,' ')   as home_phone,
+		coalesce(dph.work_phone,' ')  as work_phone,
+		coalesce(dph.mobile_phone,' ')  as mobile_phone,
+		dph.email_address as email_address,
+        dpr.risk_address_line1 as add_line1,
+        dph.address_line1,
+        dph.address_line2,
+        dph.address_line3,
+        dpr.risk_address_line2 as add_line2,
+        dpr.risk_address_line3 as add_line3,
+        dph.decalred_vulnerable_customer_ind as Vulnerable_customer
+	FROM dap_lsm_home.fact_insured_risk fir
+        INNER JOIN dap_lsm_home.dim_brand dbr ON (fir.brand_id = dbr.brand_id)
+        INNER JOIN dap_lsm_home.dim_coverage_product dcp ON (fir.coverage_product_id=dcp.coverage_product_id)    
+        INNER JOIN dap_lsm_home.dim_policy_transaction_type dpt ON (fir.policy_transaction_type_id = dpt.policy_transaction_type_id)   
+        INNER JOIN dap_lsm_home.dim_calendar dta ON (fir.transaction_accepted_date_id    = dta.date_id)
+        INNER JOIN dap_lsm_home.dim_calendar dcs ON (fir.contract_start_date_id = dcs.date_id)
+        INNER JOIN dap_lsm_home.dim_calendar dce ON (fir.contract_end_date_id = dce.date_id)        
+        INNER JOIN dap_lsm_home.dim_calendar dtc ON (fir.transaction_created_date_id = dtc.date_id)            
+        INNER JOIN dap_lsm_home.dim_calendar def ON (fir.transaction_effective_from_id = def.date_id)
+        INNER JOIN dap_lsm_home.dim_calendar det ON (fir.transaction_effective_to_id = det.date_id)        
+		LEFT JOIN dap_lsm_home.dim_policy_holder dph ON (fir.policy_holder_id = dph.policy_holder_id
+													AND	dph.policy_holder_type = 'Primary Holder' )
+		LEFT JOIN dap_lsm_home.dim_property dpr ON (fir.property_id = dpr.property_id)
+        LEFT JOIN dap_lsm_home.dim_policy_cancel_reason dcr ON (fir.contract_cancel_reason_id = dcr.policy_cancel_reason_id)
+    WHERE  he24_flag= 1
+            AND fir.dap_source_system_name = 'PC10'
+            AND fir.policy_number in (('8110001578','8110001586','3110001116','3110003930','3110004789','3110004789',
+'3110003930','8110001594','8110001610','8110001628','8110001636','8110001644')
+			), 
+
+JointAccountholder_ind as
+(SELECT 
+		policy_number,
+		jph_sequence,
+		case when jph_sequence <> 0 and  policy_holder_type = 'Joint Policy Holder' then '1'
+		Else '0' end as JointAccountholder_ind
+		 FROM dap_lsm_home.dim_policy_holder
+					),			
+Policy_holder1 as
+(SELECT 
+		policy_number,
+		first_name as Customer2FirstName,
+		last_name as Customer2LastName, 
+		prefix_name ||' '|| first_name ||' '||  last_name as jph_1 
+		FROM 
+		(SELECT RANK() OVER(PARTITION BY policy_number ORDER BY jph_sequence ASC) AS Rank_PH,* 
+			FROM dap_lsm_home.dim_policy_holder
+			WHERE policy_holder_type = 'Joint Policy Holder'
+			ORDER BY policy_number)
+	WHERE Rank_PH=1
+	),
+Policy_holder2 as
+(SELECT 
+		policy_number,
+		first_name as Customer3FirstName,
+		last_name	as Customer3LastName,
+		prefix_name ||' '|| first_name ||' '||  last_name as jph_2 
+		FROM 
+		(SELECT RANK() OVER(PARTITION BY policy_number ORDER BY jph_sequence ASC) AS Rank_PH,* 
+			FROM dap_lsm_home.dim_policy_holder
+			WHERE policy_holder_type = 'Joint Policy Holder'
+			ORDER BY policy_number)
+	WHERE Rank_PH=2
+	)
+   (SELECT
+        'PL' :: varchar(2) || 
+       to_char(current_timestamp,'yymmddhhmm') || '| ' || 
+        to_char(current_date,'DDMMYYYY') || '| ' || -- may need to use a date paramater for scheduled job 
+        to_char(current_date,'hhmmss')  || '| ' || --  may need to use a date paramater for scheduled job
+        sum(nbs_flag) over () :: int ||'| ' || 
+        sum(mta_flag) over () :: int ||'| ' || 
+        sum(ren_flag) over () :: int ||'| ' || 
+        sum(can_flag) over () :: int ||'| ' ||
+        COUNT(policy_number) over () :: int as "POLICY-REF",
+        '' :: varchar(50) as "POLICY-PROD",
+        null :: int as  "POLICY-SEQ",
+        '' as "TRANS-DATE",
+        '' as "TRANS-TIME",
+        null  :: int as "AMEND-SEQ",   -- PLACEHOLDER
+        '' :: varchar(50) as "TRANS-TYPE",
+        '' :: varchar(50) as "TRANS-DESC",
+        '' :: varchar(50) as "POLICY-STATUS",
+        '' :: varchar(50)  as "SCHEME",
+        '' :: varchar(50) as "BRAND",
+        ''  as "INCEP-DATE",
+        ''  as "INCEP-TIME", -- time not available
+        ''  as "EFF-DATE",
+        ''  as "EFF-TIME", -- time not available
+        ''  as "EXPIRY-DATE",
+        '' :: varchar(50)  as "CLIENT-REF" ,  -- account number
+        '' :: varchar(50) as "RENTERS-FLAG", -- changed label from currency to rentersflag
+        '' :: varchar(50) as "HOME-POL-IND",
+        '' :: varchar(50) as "CONTACT-DETAIL",
+        '' :: varchar(50) as "TITLE",
+        '' :: varchar(50) as "FORENAME",
+        '' :: varchar(50) as "SURNAME",
+        '' as "DOB-DATE",
+        '' :: varchar(50) as "CLIENT-VIP",
+        '' :: varchar(50) as "HOME-PHONE",
+        '' :: varchar(50) as "WORK-PHONE",
+        '' :: varchar(50) as "MOBILE-PHONE",
+        '' :: varchar(50) as "OTHER-PHONE",        
+        '' :: varchar(100)  as "CLIENT-ADD-1",
+        '' :: varchar(100) as "CLIENT-ADD-2",
+        '' :: varchar(100) as "CLIENT-ADD-3",
+        '' as "CLIENT-ADD-4",
+        '' as "CLIENT-ADD-5",
+        '' :: varchar(50) as "CLIENT-PST-CDE",
+        '' as "HEAT-SOURCE",
+        '' as "BOILER-AGE",
+        '' as "BOILER-MAKE",
+        '' as "BOILER-MODEL",
+        '' as "HEAT-TYPE",
+        '' :: varchar(50)  as "COVER-LEVEL",
+        '' as "LEVEL-DESC",
+        '' as "HEAT",
+        '' as "WATER",
+        '' as "ELECTRICITY",
+        '' as "LOCKS",
+        '' :: varchar(50) as "EMAIL-ADDRESS",
+        --'' :: varchar(50)  as   "SEQUENCE",
+		'' :: varchar(50) as "CUSTOMER2 FORENAME",
+		'' :: varchar(50) as "CUSTOMER2 SURNAME",
+        '' :: varchar(50) as "CUSTOMER3 FORENAME",
+		'' :: varchar(50) as "CUSTOMER3 SURNAME",
+        '' :: varchar(50) as "VULNERABLE-CUSTOMER" ,
+        '' :: varchar(50) as "JOINT ACCOUNT HOLDER IND"
+    FROM transactions tx
+limit 1)
+union
+(SELECT
+        -- Transactions
+        tx.policy_number :: varchar(50) as "POLICY-REF",
+        tx.product :: varchar(50) 		as "POLICY-PROD",
+        tx.pol_seq :: int 				as  "POLICY-SEQ",
+        tx.transaction_created_date 	as "TRANS-DATE",
+        tx.transaction_created_time 	as "TRANS-TIME",
+        tx.pol_seq :: int 				as "AMEND-SEQ",   -- PLACEHOLDER
+        tx.transaction_type :: varchar(50) 	as "TRANS-TYPE",
+        tx.transaction_description :: varchar(50) as "TRANS-DESC",
+        policy_status :: varchar(50) 	as "POLICY-STATUS",
+        tx.scheme ::  varchar(50)  		as "SCHEME",
+        tx.brand :: varchar(50) 		as "BRAND",
+        tx.incept_date  				as "INCEP-DATE",
+        '000000'  						as "INCEP-TIME", -- time not available
+        tx.eff_from_date  				as "EFF-DATE",
+        '000000'   						as "EFF-TIME", -- time not available
+        tx.expiry_date  				as "EXPIRY-DATE",
+        tx.client_ref :: varchar(50)  	as "CLIENT-REF" ,  -- account number
+        tx.renters_flag :: varchar(50) 	as "RENTERS-FLAG", -- changed label from currency to rentersflag
+        'Y' :: varchar(50) 				as "HOME-POL-IND",
+        tx.contact_details :: varchar(50) as "CONTACT-DETAIL",
+        tx.title  :: varchar(50) 		as "TITLE",
+        tx.forename  :: varchar(50) 	as "FORENAME",
+        tx.surname :: varchar(50) 		as "SURNAME",
+        tx.dob 							as "DOB-DATE",
+        '' :: varchar(50) 				as "CLIENT-VIP",
+        tx.home_phone  :: varchar(50) 	as "HOME-PHONE",
+        tx.work_phone :: varchar(50) 	as "WORK-PHONE",
+        tx.mobile_phone:: varchar(50) 	as "MOBILE-PHONE",
+        ' ' :: varchar(50) 				as "OTHER-PHONE",        
+        tx.add_line1 :: varchar(100)  	as "CLIENT-ADD-1",
+        tx.add_line2 :: varchar(100) 	as "CLIENT-ADD-2",
+        tx.add_line3 :: varchar(100) 	as "CLIENT-ADD-3",
+        '' as "CLIENT-ADD-4",
+        '' as "CLIENT-ADD-5",
+        tx.postcode :: varchar(50) 		as "CLIENT-PST-CDE",
+        '' as "HEAT-SOURCE",
+        '' as "BOILER-AGE",
+        '' as "BOILER-MAKE",
+        '' as "BOILER-MODEL",
+        '' as "HEAT-TYPE",
+        tx.Coverlevel :: varchar(50)  	as "COVER-LEVEL",
+        '' as "LEVEL-DESC",
+        '' as "HEAT",
+        '' as "WATER",
+        '' as "ELECTRICITY",
+        '' as "LOCKS",
+        tx.email_address 		:: varchar(50) as "EMAIL-ADDRESS",
+        --jph.jph_sequence :: varchar(50)  AS "SEQUENCE",
+        jp1.Customer2FirstName 	:: varchar(50) as "CUSTOMER2 FORENAME",
+		jp1.Customer2LastName 	:: varchar(50) as "CUSTOMER2 SURNAME",
+        jp2.Customer3FirstName 	:: varchar(50) as "CUSTOMER3 FORENAME",
+		jp2.Customer3LastName 	:: varchar(50) as "CUSTOMER3 SURNAME",
+        tx.Vulnerable_customer 	:: varchar(50) as "VULNERABLE-CUSTOMER",
+        jph.JointAccountholder_ind :: varchar(50) as "JOINT ACCOUNT HOLDER IND"
+    FROM transactions tx
+    left join Policy_holder1 jp1
+    on tx.policy_number=jp1.policy_number
+    left join Policy_holder2 jp2
+    on tx.policy_number=jp2.policy_number  
+    left join JointAccountholder_ind jph
+    on tx.policy_number=jph.policy_number
+)  
+ 
+order by "POLICY-REF" desc
+ 
+ 
