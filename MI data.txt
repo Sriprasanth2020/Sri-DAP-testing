@@ -1,0 +1,21 @@
+policy_number	accepts_policy_number	policy_transaction_type_id	ownership	claim_free_year_buildings	claim_free_year_contents	property_type	property_sub_type	exterior_wall_type	property_built_era	flat_roof	listed_building	roof_type	employment_status	property_built_year	claims_history_count	voluntary_excess_amount	compulsory_excess_amount	policy_excess_amount	subsidence_excess_amount	escape_of_water_excess_amount	policyholder_age	accepts_coverage_product_id	preferred_payment_schedule_id	accepts_payment_schedule_id	contract_renewal_flag	floodre_ceded_flag	auto_renewal_intent_flag	flat_roof	cais_group_risk	credit_score	experian_point_of_quote_score	quote_to_inception_banding
+	8090279756	2	Owned	0		House	Semi-Detached House	Brick		None	NOT_LIS	TILE	HSWF	1990		0	100	100	1000	550	34	1	1	3	0	0	0	None	14	699.00	0.00	6-10
+	8090279871	2	Owned	3		House	Semi-Detached House	Brick		None	NOT_LIS	TILE	EMPF	2006		250	100	350	1000	550	28	1	1	3	0	0	0	None	14	699.00	0.00	2-5
+	8090279863	2	Mortgaged		3	Flat	Flat - Ground Floor	Brick		0-25	NOT_LIS	CONCRETE	EMPF	1965		250	100	350	1000	550	38	3	1	4	0	0	0	0-25	14	699.00	0.00	6-10
+	8090279913	2	Mortgaged	2	2	House	Mid Terraced House	Stone Construction		None	NOT_LIS	TILE	EMPF	1890		250	100	350	1000	550	39	1	2	3	0	0	0	None	14	699.00	0.00	6-10
+	8090279814	2	Owned	0		House	Detached House	Brick		None	NOT_LIS	TILE	HSWF	1930		0	100	100	1000	550	43	1	2	4	0	0	0	None	14	699.00	0.00	6-10
+	8090279855	2	Mortgaged		2	House	Detached House	Brick		0-25	NOT_LIS	TILE	RETD	1996		250	100	350	1000	550	24	3	2	3	0	0	0	0-25	14	699.00	0.00	6-10
+	8090279921	2	Mortgaged	1		House	Semi-Detached House	Brick		None	NOT_LIS	SLATE	UNEMP	2005		250	100	350	1000	550	37	1	2	4	0	0	0	None	14	699.00	0.00	6-10
+	8090279905	2	Mortgaged	3		House	Semi-Detached House	Brick		None	NOT_LIS	CONCRETE	RETD	1930		250	100	350	1000	550	41	1	1	3	0	0	0	None	14	699.00	0.00	2-5
+	8090279764	2	Owned		0	Bungalow	Semi-Detached Bungalow	Stone Construction		None	NOT_LIS	TILE	RETD	1988		0	100	100	1000	550	39	3	2	3	0	0	0	None	14	699.00	0.00	6-10
+	8090279848	2	Mortgaged	3		House	Detached House	Concrete		None	NOT_LIS	TILE	RETD	1925		250	100	350	1000	550	25	3	2	4	0	1	0	None	14	699.00	0.00	6-10
+	8090279822	2	Owned		0	House	Detached House	Brick		None	NOT_LIS	TILE	HSWF	2012		0	100	100	1000	550	40	3	1	3	0	0	0	None	14	699.00	0.00	2-5
+	8090279939	2	Owned		2	House	Mid Terraced House	Brick		None	NOT_LIS	TILE	EMPF	1940		250	100	350	1000	550	39	1	1	3	0	0	0	None	14	699.00	0.00	6-10
+	8090279772	2	Owned	0	0	Town House	Detached Town House	Brick		None	NOT_LIS	TILE	SEMPF	1980		0	100	100	1000	550	40	1	2	4	0	0	0	None	14	699.00	0.00	6-10
+	8090279830	2	Owned	0	0	Flat	Flat - Basement	Brick		None	NOT_LIS	TILE	HSWF	1983		0	100	100	1000	550	37	1	1	4	0	0	0	None	14	699.00	0.00	2-5
+	8090279897	2	Owned	2	2	House	Detached House	Brick		0-25	NOT_LIS	TILE	EMPF	1993		250	100	350	1000	550	38	1	2	4	0	0	0	0-25	14	699.00	0.00	6-10
+	8090279889	2	Mortgaged	1		House	Mid Terraced House	Brick		None	NOT_LIS	TILE	RETD	1890		250	100	350	1000	550	29	1	1	4	0	0	0	None	14	699.00	0.00	6-10
+	8090279798	2	Owned	0		Flat	Flat - Basement	Brick		None	NOT_LIS	TILE	HSWF	1980		0	100	100	1000	550	37	3	2	4	0	0	0	None	14	699.00	0.00	6-10
+	8090279749	2	Owned	0	0	Flat	Flat - Basement	Brick		None	NOT_LIS	TILE	HSWF	1980		0	100	100	1000	550	35	3	1	4	0	0	0	None	14	699.00	0.00	6-10
+	8090279806	2	Owned	0	0	House	Semi-Detached House	Brick		None	NOT_LIS	TILE	SEMPF	1980		0	100	100	1000	550	37	1	1	3	0	0	0	None	14	699.00	0.00	6-10
+	8090279780	2	Owned		0	Flat	Flat - Basement	Brick		None	NOT_LIS	TILE	HSWF	1980		0	100	100	1000	550	43	3	1	3	0	0	0	None	14	699.00	0.00	6-10
