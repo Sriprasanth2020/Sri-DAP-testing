@@ -1,0 +1,8 @@
+quote_persist_reference	policy_number	standard_quote_uw_rule_group_id	postcode	policy_transaction_type_code	transaction_effective_from_id	contract_start_date_id	contract_accepted_date_id	rule_code	channel_code	sub_channel_code	rule_description	transaction_created_date_id
+PRV70000047437		2868	SE7 8SH	New Business	20230622	20230622	20230622	HD0023	Contact Centre	Contact Centre	If good state of repair = 'undergoing building work' then decline	20240627
+PRV70000048448		1465	M26 3WJ	New Business	20230508	20230508	20230508	HD0084	Contact Centre	Contact Centre	If Empty for >30 days in a row = Yes then decline	20240704
+PRV70000048855		1517	E5 9BB	New Business	20231227	20231227	20231227	HD0016	Contact Centre	Contact Centre	If property type = flat and 'self contained' = no then decline	20240705
+PRV70000048867		1517	WA3 6PX	Submission	20230508	20230508	20230508	HD0016	Contact Centre	Contact Centre	If property type = flat and 'self contained' = no then decline	20240705
+PRV70000048882		1517	E5 9BB	New Business	20230508	20230508	20230508	HD0016	Contact Centre	Contact Centre	If property type = flat and 'self contained' = no then decline	20240705
+PRV70000048886		1577	E5 9BB	New Business	20230508	20230508	20230508	HD0016	Contact Centre	Contact Centre	If property type = flat and 'self contained' = no then decline	20240705
+PRV70000048889		1577	WA3 6PX	New Business	20231227	20231227	20231227	HD0016	Contact Centre	Contact Centre	If property type = flat and 'self contained' = no then decline	20240705
