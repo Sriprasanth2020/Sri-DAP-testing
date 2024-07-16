@@ -1,0 +1,2 @@
+policy_number	quote_persist_reference	standard_quote_uw_rule_group_id	transaction_effective_from_id	contract_start_date_id	contract_accepted_date_id	rule_code	channel_code	sub_channel_code	rule_description	transaction_created_date_id
+	PRV70000048889	1577	20231026	20231026	20231026	HD0016	Contact Centre	Contact Centre	If property type = flat and 'self contained' = no then decline	20240705
