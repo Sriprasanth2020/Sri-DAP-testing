@@ -1,0 +1,21 @@
+policy_number	accepts_policy_number	quote_persist_reference	policy_transaction_type_id	ownership	claim_free_year_buildings	claim_free_year_contents	property_type	property_sub_type	exterior_wall_type	property_built_era	flat_roof	listed_building	roof_type	employment_status	property_built_year	claims_history_count	voluntary_excess_amount	compulsory_excess_amount	policy_excess_amount	subsidence_excess_amount	escape_of_water_excess_amount	policyholder_age	accepts_coverage_product_id	preferred_payment_schedule_id	accepts_payment_schedule_id	contract_renewal_flag	floodre_ceded_flag	auto_renewal_intent_flag	flat_roof	cais_group_risk	credit_score	experian_point_of_quote_score	quote_to_inception_banding	no_of_bedrooms
+		PRV70000046783	2	Owned	3	3	Bungalow	Link Detached Bungalow	Concrete		0-50	NOT_LIS	TILE	Retired	1999		200	100	300	1000	550	42	0	1	-1	0	0	0	0-50	14	699.00	0.00	0	3
+		PRV70000046778	2	Owned	2	2	House	Mid Terraced House	Timber Frame with Brick Walls		0-25	NOT_LIS	ASPHALT	Not employed due to disability	2000		100	100	200	1000	550	42	0	2	-1	0	0	0	0-25	14	699.00	0.00	0	1
+		PRV70000046779	2	Owned	1	1	Dorma Bungalow	Semi-Detached Dorma Bungalow	Brick		0-25	NOT_LIS	CONCRETE	Independent Means	1990		100	100	200	1000	550	37	0	1	-1	0	0	0	0-25	14	699.00	0.00	0	1
+		PRV70000046792	2	Owned	3	3	Town House	Detached Town House	Brick		0-25	NOT_LIS	TILE	Employed (Full time)	1988		100	100	200	1000	550	39	0	1	-1	0	0	0	0-25	14	699.00	0.00	0	3
+		PRV70000046775	2	Owned	3	3	Bungalow	Mid Terraced Bungalow	Stone Construction		0-50	NOT_LIS	TILE	Full time education (student)	1998		150	100	250	1000	550	33	0	1	-1	0	0	0	0-50	14	699.00	0.00	0	3
+		PRV70000046790	2	Owned	2	2	Town House	Semi-Detached Town House	Concrete		0-50	NOT_LIS	ASPHALT	Voluntary	1992		200	100	300	1000	550	39	0	2	-1	0	0	0	0-50	14	699.00	0.00	0	2
+		PRV70000046791	2	Owned	2	2	House	Mid Terraced House	Stone Construction		0-50	NOT_LIS	SLATE	Retired	2000		100	100	200	1000	550	42	0	2	-1	0	0	0	0-50	14	699.00	0.00	0	2
+		PRV70000046781	2	Owned	2	2	Dorma Bungalow	Detached Dorma Bungalow	Stone Construction		0-50	NOT_LIS	ASPHALT	Not employed due to disability	1995		150	100	250	1000	550	35	0	2	-1	0	0	0	0-50	14	699.00	0.00	0	2
+		PRV70000046782	2	Owned	2	2	House	Detached House	Stone Construction		0-50	NOT_LIS	SLATE	Self-employed (full time)	2000		100	100	200	1000	550	42	0	2	-1	0	0	0	0-50	14	699.00	0.00	0	2
+		PRV70000046780	2	Owned	1	1	House	Semi-Detached House	Brick		0-50	NOT_LIS	TILE	Self-employed (full time)	2000		100	100	200	1000	550	42	0	1	-1	0	0	0	0-50	14	699.00	0.00	0	1
+		PRV70000046777	2	Owned	4	4	Bungalow	End Terraced Bungalow	Concrete		0-50	NOT_LIS	SLATE	Housewife/Househusband	1999		200	100	300	1000	550	39	0	2	-1	0	0	0	0-50	14	699.00	0.00	0	4
+		PRV70000046785	2	Owned	4	4	Dorma Bungalow	Mid Terraced Dorma Bungalow	Brick		0-25	NOT_LIS	SLATE	Self-employed (full time)	1991		100	100	200	1000	550	41	0	2	-1	0	0	0	0-25	14	699.00	0.00	0	4
+		PRV70000046794	2	Owned	1	1	House	Semi-Detached House	Concrete		0-50	NOT_LIS	CONCRETE	Self-employed (full time)	2000		100	100	200	1000	550	42	0	1	-1	0	0	0	0-50	14	699.00	0.00	0	1
+		PRV70000046788	2	Owned	1	1	House	Detached House	Brick		0-25	NOT_LIS	TILE	Retired	2000		100	100	200	1000	550	42	0	1	-1	0	0	0	0-25	14	699.00	0.00	0	1
+		PRV70000046797	2	Owned	4	4	Town House	Link Detached Town House	Stone Construction		0-50	NOT_LIS	SLATE	Full time education (student)	1985		150	100	250	1000	550	40	0	2	-1	0	0	0	0-50	14	699.00	0.00	0	4
+		PRV70000046787	2	Owned	1	1	Dorma Bungalow	End Terraced Dorma Bungalow	Stone Construction		0-50	NOT_LIS	CONCRETE	Unemployed	1992		150	100	250	1000	550	36	0	1	-1	0	0	0	0-50	14	699.00	0.00	0	1
+		PRV70000046786	2	Owned	2	2	House	Semi-Detached House	Timber Frame with Brick Walls		0-25	NOT_LIS	ASPHALT	Housewife/Househusband	2000		100	100	200	1000	550	42	0	2	-1	0	0	0	0-25	14	699.00	0.00	0	1
+		PRV70000046798	2	Owned	2	2	House	Detached House	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Retired	2000		100	100	200	1000	550	42	0	2	-1	0	0	0	0-50	14	699.00	0.00	0	1
+		PRV70000046784	2	Owned	1	1	House	Mid Terraced House	Concrete		0-50	NOT_LIS	CONCRETE	Retired	2000		100	100	200	1000	550	42	0	1	-1	0	0	0	0-50	14	699.00	0.00	0	1
+		PRV70000046776	2	Owned	1	1	House	Detached House	Concrete		0-25	NOT_LIS	CONCRETE	Retired	2000		100	100	200	1000	550	42	0	1	-1	0	0	0	0-25	14	699.00	0.00	0	1
