@@ -1,0 +1,226 @@
+policy_number	accepts_policy_number	quote_persist_reference	policy_transaction_type_id	ownership	claim_free_year_buildings	claim_free_year_contents	property_type	property_sub_type	exterior_wall_type	property_built_era	flat_roof	listed_building	roof_type	employment_status	property_built_year	claims_history_count	voluntary_excess_amount	compulsory_excess_amount	policy_excess_amount	subsidence_excess_amount	escape_of_water_excess_amount	policyholder_age	accepts_coverage_product_id	preferred_payment_schedule_id	accepts_payment_schedule_id	contract_renewal_flag	floodre_ceded_flag	auto_renewal_intent_flag	flat_roof	cais_group_risk	credit_score	experian_point_of_quote_score	quote_to_inception_banding	no_of_bedrooms
+	8090330179	CHU60000013853	2	Mortgaged	1	1	House	Detached House	Brick		None	NOT_LIS	TILE	Employed (Full time)	1998	1	150	100	250	1000	450	80	1	1	3	0	0	0	None	14	699.00	0.00	0	1
+	8090330187	CHU60000013854	2	Owned	2	3	Town House	Mid Terraced Town House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1899	1	150	100	250	1000	450	77	1	1	3	0	0	0	None	14	699.00	0.00	0	2
+	8090330195	CHU60000013855	2	Owned	3	1	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1888	1	150	100	250	1000	450	42	1	1	3	0	0	0	None	14	699.00	0.00	0	3
+	8090330203	CHU60000013856	2	Owned	4	0	Town House	Detached Town House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1979	1	150	100	250	2000	450	75	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090330229	CHU60000013858	2	Owned	2	3	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Full time)	1873	1	150	100	250	1000	450	39	1	1	3	0	0	0	None	14	699.00	0.00	0	5
+	8090330237	CHU60000013859	2	Mortgaged	1	3	Town House	Semi-Detached Town House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1874		150	100	250	1000	450	74	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090330245	CHU60000013860	2	Owned	NO_INS12	2	House	Semi-Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	2000		150	100	250	1000	450	67	1	1	3	0	0	0	None	14	699.00	0.00	0	3
+	8090330252	CHU60000013861	2	Owned	1	2	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Full time)	2001	1	150	100	250	1000	450	72	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090330278	CHU60000013864	2	Owned	2	3	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1873	1	150	100	250	1000	450	68	1	1	3	0	0	0	None	14	699.00	0.00	0	5
+	8090330286	CHU60000013865	2	Owned	3	2	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1956		150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	1
+	8090330294	CHU60000013868	2	Mortgaged	4	1	Town House	Semi-Detached Town House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1990	1	150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090330328	CHU60000013869	2	Owned	5+	2	Town House	Semi-Detached Town House	Brick		None	NOT_LIS	SLATE	Employed (Full time)	1991	1	150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	3
+	8090330336	CHU60000013870	2	Mortgaged	1	1	Town House	End Terraced Town House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1992		150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090330344	CHU60000013871	2	Owned	3	3	House	Mid Terraced House	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1993		150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	5
+	8090330351	CHU60000013872	2	Mortgaged	4	0	Town House	Mid Terraced Town House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1983		150	100	250	1000	450	30	1	1	3	0	0	0	None	14	699.00	0.00	0	1
+	8090330369	CHU60000013874	2	Owned	1	3	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Part time)	2005	1	150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	3
+	8090330385	CHU60000013875	2	Owned	3	3	Town House	End Terraced Town House	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1982	1	150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	4
+	8090330393	CHU60000013876	2	Mortgaged	0	3	Town House	Mid Terraced Town House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1983		150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	5
+	8090330401	CHU60000013877	2	Mortgaged	4	0	House	End-Terraced House	Brick		None	NOT_LIS	SLATE	Employed (Full time)	1890		150	100	250	2000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090330419	CHU60000013878	2	Mortgaged	2	NO_INS12	Maisonette	Maisonette	Brick		None	NOT_LIS	TILE	Employed (Part time)	1891		150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090330427	CHU60000013880	2	Mortgaged	2	1	House	Link Detached House	Brick		None	NOT_LIS	TILE	Self-employed (full time)	2010		150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	3
+	8090330435	CHU60000013882	2	Mortgaged	5+	1	Town House	Semi-Detached Town House	Brick		None	NOT_LIS	TILE	Self-employed (part-time)	2011		150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090330443	CHU60000013883	2	Mortgaged	NO_INS	2	House	End-Terraced House	Brick		None	NOT_LIS	TILE	Employed (Full time)	2012		150	100	250	1000	450	32	1	1	3	0	0	0	None	14	699.00	0.00	0	5
+	8090330468	CHU60000013884	2	Owned	0	2	Maisonette	Maisonette	Brick		None	NOT_LIS	TILE	Employed (Part time)	2013		150	100	250	1000	450	32	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090330476	CHU60000013885	2	Mortgaged	3	1	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	2003		150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	2
+	8090330484	CHU60000013888	2	Owned	4	0	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	1991		150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	3
+	8090330492	CHU60000013889	2	Mortgaged	5+	1	Town House	End Terraced Town House	Stone Construction		None	NOT_LIS	TILE	Employed (Full time)	1992		150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090330500	CHU60000013890	2	Mortgaged	NO_INS	2	House	Mid Terraced House	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	1993		150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	5
+	8090330518	CHU60000013891	2	Mortgaged	0	2	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	1983		150	100	250	1000	450	30	1	1	3	0	0	0	None	14	699.00	0.00	0	1
+	8090330534	CHU60000013894	2	Owned	3	1	House	Semi-Detached House	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	1986		150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090330542	CHU60000013895	2	Mortgaged	5+	0	Town House	End Terraced Town House	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	1982	1	150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	4
+	8090330559	CHU60000013896	2	Mortgaged	NO_INS	0	Town House	Detached Town House	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	1983		150	100	250	2000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	5
+	8090330567	CHU60000013898	2	Mortgaged	0	2	House	End-Terraced House	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	1890		150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090330583	CHU60000013901	2	Mortgaged	5+	1	Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Employed (Full time)	1891	1	150	100	250	2000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090330591	CHU60000013902	2	Mortgaged	NO_INS	NO_INS	House	Link Detached House	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	2010		150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	3
+	8090330609	CHU60000013915	2	Mortgaged	1		Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	2001	1	150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	5
+	8090330617	CHU60000013916	2	Mortgaged	2		Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Employed (Full time)	2002	1	150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	1
+	8090330625	CHU60000013917	2	Mortgaged	2		Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	2003		150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090330633	CHU60000013918	2	Owned	4		Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	2004		150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	3
+	8090330658	CHU60000013920	2	Mortgaged	1		House	Semi-Detached House	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	2005		150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	4
+	8090330666	CHU60000013922	2	Mortgaged	2		House	Semi-Detached House	Stone Construction		None	NOT_LIS	TILE	Employed (Full time)	2006	1	150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	5
+	8090330674	CHU60000013923	2	Owned	0		Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	2007	1	150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090330682	CHU60000013924	2	Mortgaged	4		Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	2008		150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090330690	CHU60000013925	2	Owned	1		Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	2009	1	150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	3
+	8090330708	CHU60000013926	2	Owned	1		House	Mid Terraced House	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	2011		150	100	250	1000	450	32	1	1	3	0	0	0	None	14	699.00	0.00	0	5
+	8090330724	CHU60000013928	2	Owned	1		Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	2012		150	100	250	1000	450	31	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090330732	CHU60000013929	2	Mortgaged	2		Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	2008	1	150	100	250	1000	450	31	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090330740	CHU60000013930	2	Owned	2		Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Employed (Full time)	2009	1	150	100	250	2000	450	31	1	1	3	0	0	0	None	14	699.00	0.00	0	3
+	8090330757	CHU60000013932	2	Owned	2		Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	2010		150	100	250	1000	450	31	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090330765	CHU60000013935	2	Mortgaged	NO_INS		House	Detached House	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	2001		150	100	250	1000	450	31	1	1	3	0	0	0	None	14	699.00	0.00	0	5
+	8090330781	CHU60000013937	2	Owned	2		Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	2012	1	150	100	250	1000	450	31	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090330799	CHU60000013939	2	Mortgaged	1		Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Employed (Full time)	2001		150	100	250	1000	450	31	1	1	3	0	0	0	None	14	699.00	0.00	0	2
+	8090330807	CHU60000013940	2	Mortgaged	NO_INS		Maisonette	Maisonette	Concrete		None	NOT_LIS	TILE	Employed (Part time)	2002	1	150	100	250	1000	450	31	1	1	3	0	0	0	None	14	699.00	0.00	0	3
+	8090330815	CHU60000013941	2	Mortgaged	3		Town House	Semi-Detached Town House	Concrete		None	NOT_LIS	TILE	Self-employed (full time)	2003	1	150	100	250	1000	450	31	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090330823	CHU60000013943	2	Owned		3	Maisonette	Maisonette	Concrete		None	NOT_LIS	TILE	Self-employed (part-time)	2007	1	150	100	250	1000	450	31	1	2	3	0	0	0	None	14	699.00	0.00	0	5
+	8090330831	CHU60000013945	2	Mortgaged		3	House	Link Detached House	Concrete		None	NOT_LIS	TILE	Employed (Full time)	2008	1	150	100	250	1000	450	31	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090330856	CHU60000013946	2	Mortgaged		4	Town House	Semi-Detached Town House	Concrete		None	NOT_LIS	TILE	Employed (Part time)	2009	1	150	100	250	1000	450	31	1	1	3	0	0	0	None	14	699.00	0.00	0	2
+	8090330880	CHU60000013948	2	Mortgaged		NO_INS12	Maisonette	Maisonette	Concrete		None	NOT_LIS	TILE	Self-employed (full time)	2010	1	150	100	250	1000	450	31	1	1	3	0	0	0	None	14	699.00	0.00	0	3
+	8090330930	CHU60000013949	2	Mortgaged		1	Town House	End Terraced Town House	Concrete		None	NOT_LIS	SLATE	Self-employed (part-time)	2011	1	150	100	250	1000	450	31	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090330955	CHU60000013952	2	Mortgaged		1	House	End-Terraced House	Concrete		None	NOT_LIS	SLATE	Employed (Part time)	2013	1	150	100	250	1000	450	31	1	1	3	0	0	0	None	14	699.00	0.00	0	1
+	8090330971	CHU60000013953	2	Mortgaged		0	Maisonette	Maisonette	Concrete		None	NOT_LIS	SLATE	Self-employed (full time)	2014	1	150	100	250	1000	450	31	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090330997	CHU60000013954	2	Owned		2	Maisonette	Maisonette	Concrete		None	NOT_LIS	SLATE	Self-employed (part-time)	2015	1	150	100	250	1000	450	31	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090331003	CHU60000013957	2	Mortgaged		2	Maisonette	Maisonette	Concrete		None	NOT_LIS	SLATE	Employed (Full time)	1990	1	150	100	250	1000	450	31	1	1	3	0	0	0	None	14	699.00	0.00	0	4
+	8090331037	CHU60000013959	2	Mortgaged	3	1	Maisonette	Maisonette	Concrete		None	NOT_LIS	SLATE	Employed (Part time)	1917	1	150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	5
+	8090331052	CHU60000013960	2	Mortgaged	4	1	House	End-Terraced House	Concrete		None	NOT_LIS	SLATE	Self-employed (full time)	1845	1	150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	1
+	8090331060	CHU60000013962	2	Mortgaged	1	0	Town House	Semi-Detached Town House	Concrete		None	NOT_LIS	SLATE	Self-employed (part-time)	2011	1	150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090331110	CHU60000013963	2	Mortgaged	NO_INS	2	Town House	Semi-Detached Town House	Concrete		None	NOT_LIS	SLATE	Employed (Full time)	2012	1	150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090331243	CHU60000013970	2	Mortgaged	0	0	House	Mid Terraced House	Concrete		None	NOT_LIS	SLATE	Employed (Part time)	2013	1	150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090331276	CHU60000013971	2	Mortgaged	1	1	Maisonette	Maisonette	Concrete		None	NOT_LIS	SLATE	Self-employed (full time)	2014	1	150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	5
+	8090331326	CHU60000013974	2	Mortgaged	1	2	Maisonette	Maisonette	Concrete		None	NOT_LIS	SLATE	Self-employed (part-time)	2015		150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090331359	CHU60000013975	2	Mortgaged	3	1	House	End-Terraced House	Concrete		None	NOT_LIS	SLATE	Employed (Full time)	2016		150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090331391	CHU60000013978	2	Mortgaged	4	1	Town House	End Terraced Town House	Concrete		None	NOT_LIS	SLATE	Employed (Part time)	2011		150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	3
+	8090331433	CHU60000013981	2	Mortgaged	3	5+	Maisonette	Maisonette	Concrete		None	NOT_LIS	SLATE	Self-employed (full time)	1838	1	150	100	250	1000	450	54	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090331474	CHU60000013982	2	Mortgaged	3	NO_INS	House	Detached House	Concrete		None	NOT_LIS	SLATE	Self-employed (part-time)	1839	1	150	100	250	1000	450	71	1	2	3	0	0	0	None	14	699.00	0.00	0	5
+	8090331524	CHU60000013983	2	Mortgaged	2	5+	Town House	Semi-Detached Town House	Concrete		None	NOT_LIS	SLATE	Employed (Part time)	1860	1	150	100	250	1000	450	45	1	1	3	0	1	0	None	14	699.00	0.00	0	2
+	8090331755	CHU60000014001	2	Owned	2		Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	2010		150	100	250	1000	450	31	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090331789	CHU60000014003	2	Mortgaged	NO_INS		House	Detached House	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	2001		150	100	250	1000	450	31	1	1	3	0	0	0	None	14	699.00	0.00	0	5
+	8090331797	CHU60000014005	2	Owned	2		Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	2012	1	150	100	250	1000	450	31	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090331805	CHU60000014006	2	Mortgaged	1		Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Employed (Full time)	2001		150	100	250	1000	450	31	1	1	3	0	0	0	None	14	699.00	0.00	0	2
+	8090331821	CHU60000014008	2	Mortgaged	NO_INS		Maisonette	Maisonette	Concrete		None	NOT_LIS	TILE	Employed (Part time)	2002	1	150	100	250	1000	450	31	1	1	3	0	0	0	None	14	699.00	0.00	0	3
+	8090331847	CHU60000014011	2	Mortgaged	3		Town House	Semi-Detached Town House	Concrete		None	NOT_LIS	TILE	Self-employed (full time)	2003	1	150	100	250	1000	450	31	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090331854	CHU60000014013	2	Owned		3	Maisonette	Maisonette	Concrete		None	NOT_LIS	TILE	Self-employed (part-time)	2007	1	150	100	250	1000	450	31	1	2	3	0	0	0	None	14	699.00	0.00	0	5
+	8090331870	CHU60000014014	2	Mortgaged		3	House	Link Detached House	Concrete		None	NOT_LIS	TILE	Employed (Full time)	2008	1	150	100	250	1000	450	31	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090331888	CHU60000014015	2	Mortgaged		4	Town House	Semi-Detached Town House	Concrete		None	NOT_LIS	TILE	Employed (Part time)	2009	1	150	100	250	1000	450	31	1	1	3	0	0	0	None	14	699.00	0.00	0	2
+	8090331896	CHU60000014016	2	Mortgaged		NO_INS12	Maisonette	Maisonette	Concrete		None	NOT_LIS	TILE	Self-employed (full time)	2010	1	150	100	250	1000	450	31	1	1	3	0	0	0	None	14	699.00	0.00	0	3
+	8090331904	CHU60000014018	2	Mortgaged		1	Town House	End Terraced Town House	Concrete		None	NOT_LIS	SLATE	Self-employed (part-time)	2011	1	150	100	250	1000	450	31	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090331912	CHU60000014020	2	Mortgaged		1	House	End-Terraced House	Concrete		None	NOT_LIS	SLATE	Employed (Part time)	2013	1	150	100	250	1000	450	31	1	1	3	0	0	0	None	14	699.00	0.00	0	1
+	8090331938	CHU60000014022	2	Mortgaged		0	Maisonette	Maisonette	Concrete		None	NOT_LIS	SLATE	Self-employed (full time)	2014	1	150	100	250	1000	450	31	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090331953	CHU60000014024	2	Owned		2	Maisonette	Maisonette	Concrete		None	NOT_LIS	SLATE	Self-employed (part-time)	2015	1	150	100	250	1000	450	31	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090331961	CHU60000014026	2	Mortgaged		2	Maisonette	Maisonette	Concrete		None	NOT_LIS	SLATE	Employed (Full time)	1990	1	150	100	250	1000	450	31	1	1	3	0	0	0	None	14	699.00	0.00	0	4
+	8090331979	CHU60000014027	2	Mortgaged	3	1	Maisonette	Maisonette	Concrete		None	NOT_LIS	SLATE	Employed (Part time)	1917	1	150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	5
+	8090331995	CHU60000014028	2	Mortgaged	4	1	House	End-Terraced House	Concrete		None	NOT_LIS	SLATE	Self-employed (full time)	1845	1	150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	1
+	8090332001	CHU60000014029	2	Mortgaged	1	0	Town House	Semi-Detached Town House	Concrete		None	NOT_LIS	SLATE	Self-employed (part-time)	2011	1	150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090332019	CHU60000014030	2	Mortgaged	NO_INS	2	Town House	Semi-Detached Town House	Concrete		None	NOT_LIS	SLATE	Employed (Full time)	2012	1	150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090332035	CHU60000014031	2	Mortgaged	0	0	House	Mid Terraced House	Concrete		None	NOT_LIS	SLATE	Employed (Part time)	2013	1	150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090332043	CHU60000014032	2	Mortgaged	1	1	Maisonette	Maisonette	Concrete		None	NOT_LIS	SLATE	Self-employed (full time)	2014	1	150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	5
+	8090332050	CHU60000014033	2	Mortgaged	1	2	Maisonette	Maisonette	Concrete		None	NOT_LIS	SLATE	Self-employed (part-time)	2015		150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090332068	CHU60000014034	2	Mortgaged	3	1	House	End-Terraced House	Concrete		None	NOT_LIS	SLATE	Employed (Full time)	2016		150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090332076	CHU60000014035	2	Mortgaged	4	1	Town House	End Terraced Town House	Concrete		None	NOT_LIS	SLATE	Employed (Part time)	2011		150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	3
+	8090332084	CHU60000014036	2	Mortgaged	3	5+	Maisonette	Maisonette	Concrete		None	NOT_LIS	SLATE	Self-employed (full time)	1838	1	150	100	250	1000	450	54	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090332837	CHU60000014114	2	Mortgaged	1	1	House	Detached House	Brick		None	NOT_LIS	TILE	Employed (Full time)	1998	1	150	100	250	1000	450	80	1	1	3	0	0	0	None	14	699.00	0.00	0	1
+	8090332845	CHU60000014116	2	Owned	2	3	Town House	Mid Terraced Town House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1899	1	150	100	250	1000	450	77	1	1	3	0	0	0	None	14	699.00	0.00	0	2
+	8090332852	CHU60000014118	2	Owned	3	1	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1888	1	150	100	250	1000	450	42	1	1	3	0	0	0	None	14	699.00	0.00	0	3
+	8090332860	CHU60000014120	2	Owned	4	0	Town House	Detached Town House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1979	1	150	100	250	2000	450	75	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090332878	CHU60000014121	2	Owned	2	3	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Full time)	1873	1	150	100	250	1000	450	39	1	1	3	0	0	0	None	14	699.00	0.00	0	5
+	8090332886	CHU60000014124	2	Mortgaged	1	3	Town House	Semi-Detached Town House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1874		150	100	250	1000	450	74	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090332894	CHU60000014125	2	Owned	NO_INS12	2	House	Semi-Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	2000		150	100	250	1000	450	67	1	1	3	0	0	0	None	14	699.00	0.00	0	3
+	8090332910	CHU60000014126	2	Owned	1	2	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Full time)	2001	1	150	100	250	1000	450	72	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090332928	CHU60000014127	2	Owned	2	3	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1873	1	150	100	250	1000	450	68	1	1	3	0	0	0	None	14	699.00	0.00	0	5
+	8090332936	CHU60000014128	2	Owned	3	2	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1956		150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	1
+	8090332944	CHU60000014129	2	Mortgaged	4	1	Town House	Semi-Detached Town House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1990	1	150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090332951	CHU60000014130	2	Owned	5+	2	Town House	Semi-Detached Town House	Brick		None	NOT_LIS	SLATE	Employed (Full time)	1991	1	150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	3
+	8090332969	CHU60000014131	2	Mortgaged	1	1	Town House	End Terraced Town House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1992		150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090332977	CHU60000014132	2	Owned	3	3	House	Mid Terraced House	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1993		150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	5
+	8090332985	CHU60000014133	2	Mortgaged	4	0	Town House	Mid Terraced Town House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1983		150	100	250	1000	450	30	1	1	3	0	0	0	None	14	699.00	0.00	0	1
+	8090332993	CHU60000014134	2	Owned	1	3	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Part time)	2005	1	150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	3
+	8090333009	CHU60000014135	2	Owned	3	3	Town House	End Terraced Town House	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1982	1	150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	4
+	8090333017	CHU60000014136	2	Mortgaged	0	3	Town House	Mid Terraced Town House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1983		150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	5
+	8090333025	CHU60000014137	2	Mortgaged	4	0	House	End-Terraced House	Brick		None	NOT_LIS	SLATE	Employed (Full time)	1890		150	100	250	2000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090333033	CHU60000014138	2	Mortgaged	2	NO_INS12	Maisonette	Maisonette	Brick		None	NOT_LIS	TILE	Employed (Part time)	1891		150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090333041	CHU60000014139	2	Mortgaged	2	1	House	Link Detached House	Brick		None	NOT_LIS	TILE	Self-employed (full time)	2010		150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	3
+	8090333058	CHU60000014140	2	Mortgaged	5+	1	Town House	Semi-Detached Town House	Brick		None	NOT_LIS	TILE	Self-employed (part-time)	2011		150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090333066	CHU60000014141	2	Mortgaged	NO_INS	2	House	End-Terraced House	Brick		None	NOT_LIS	TILE	Employed (Full time)	2012		150	100	250	1000	450	32	1	1	3	0	0	0	None	14	699.00	0.00	0	5
+	8090333074	CHU60000014142	2	Owned	0	2	Maisonette	Maisonette	Brick		None	NOT_LIS	TILE	Employed (Part time)	2013		150	100	250	1000	450	32	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090333082	CHU60000014143	2	Mortgaged	3	1	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	2003		150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	2
+	8090333090	CHU60000014144	2	Owned	4	0	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	1991		150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	3
+	8090333108	CHU60000014146	2	Mortgaged	5+	1	Town House	End Terraced Town House	Stone Construction		None	NOT_LIS	TILE	Employed (Full time)	1992		150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090333116	CHU60000014147	2	Mortgaged	NO_INS	2	House	Mid Terraced House	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	1993		150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	5
+	8090333124	CHU60000014149	2	Mortgaged	0	2	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	1983		150	100	250	1000	450	30	1	1	3	0	0	0	None	14	699.00	0.00	0	1
+	8090333132	CHU60000014150	2	Owned	3	1	House	Semi-Detached House	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	1986		150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090333140	CHU60000014151	2	Mortgaged	5+	0	Town House	End Terraced Town House	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	1982	1	150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	4
+	8090333157	CHU60000014152	2	Mortgaged	NO_INS	0	Town House	Detached Town House	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	1983		150	100	250	2000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	5
+	8090333173	CHU60000014153	2	Mortgaged	0	2	House	End-Terraced House	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	1890		150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090333181	CHU60000014154	2	Mortgaged	5+	1	Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Employed (Full time)	1891	1	150	100	250	2000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090333199	CHU60000014155	2	Mortgaged	NO_INS	NO_INS	House	Link Detached House	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	2010		150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	3
+	8090333207	CHU60000014156	2	Owned	0	2	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	1917	1	150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090333215	CHU60000014157	2	Mortgaged	1		Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	2001	1	150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	5
+	8090333223	CHU60000014158	2	Mortgaged	2		Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Employed (Full time)	2002	1	150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	1
+	8090333231	CHU60000014160	2	Mortgaged	2		Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	2003		150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090333249	CHU60000014161	2	Owned	4		Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	2004		150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	3
+	8090333256	CHU60000014162	2	Mortgaged	1		House	Semi-Detached House	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	2005		150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	4
+	8090333264	CHU60000014163	2	Mortgaged	2		House	Semi-Detached House	Stone Construction		None	NOT_LIS	TILE	Employed (Full time)	2006	1	150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	5
+	8090333272	CHU60000014164	2	Owned	0		Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	2007	1	150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090333280	CHU60000014165	2	Mortgaged	4		Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	2008		150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090333298	CHU60000014166	2	Owned	1		Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	2009	1	150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	3
+	8090333306	CHU60000014167	2	Owned	1		House	Mid Terraced House	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	2011		150	100	250	1000	450	32	1	1	3	0	0	0	None	14	699.00	0.00	0	5
+	8090333314	CHU60000014168	2	Owned	1		Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	2012		150	100	250	1000	450	31	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090333322	CHU60000014169	2	Mortgaged	2		Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	2008	1	150	100	250	1000	450	31	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090333330	CHU60000014170	2	Owned	2		Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Employed (Full time)	2009	1	150	100	250	2000	450	31	1	1	3	0	0	0	None	14	699.00	0.00	0	3
+	8090333348	CHU60000014171	2	Owned	2		Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	2010		150	100	250	1000	450	31	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090333355	CHU60000014172	2	Mortgaged	NO_INS		House	Detached House	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	2001		150	100	250	1000	450	31	1	1	3	0	0	0	None	14	699.00	0.00	0	5
+	8090333363	CHU60000014173	2	Owned	2		Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	2012	1	150	100	250	1000	450	31	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090333371	CHU60000014174	2	Mortgaged	1		Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Employed (Full time)	2001		150	100	250	1000	450	31	1	1	3	0	0	0	None	14	699.00	0.00	0	2
+	8090333389	CHU60000014175	2	Mortgaged	NO_INS		Maisonette	Maisonette	Concrete		None	NOT_LIS	TILE	Employed (Part time)	2002	1	150	100	250	1000	450	31	1	1	3	0	0	0	None	14	699.00	0.00	0	3
+	8090333397	CHU60000014176	2	Mortgaged	3		Town House	Semi-Detached Town House	Concrete		None	NOT_LIS	TILE	Self-employed (full time)	2003	1	150	100	250	1000	450	31	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090333405	CHU60000014177	2	Owned		3	Maisonette	Maisonette	Concrete		None	NOT_LIS	TILE	Self-employed (part-time)	2007	1	150	100	250	1000	450	31	1	2	3	0	0	0	None	14	699.00	0.00	0	5
+	8090333413	CHU60000014178	2	Mortgaged		3	House	Link Detached House	Concrete		None	NOT_LIS	TILE	Employed (Full time)	2008	1	150	100	250	1000	450	31	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090333421	CHU60000014179	2	Mortgaged		4	Town House	Semi-Detached Town House	Concrete		None	NOT_LIS	TILE	Employed (Part time)	2009	1	150	100	250	1000	450	31	1	1	3	0	0	0	None	14	699.00	0.00	0	2
+	8090333439	CHU60000014180	2	Mortgaged		NO_INS12	Maisonette	Maisonette	Concrete		None	NOT_LIS	TILE	Self-employed (full time)	2010	1	150	100	250	1000	450	31	1	1	3	0	0	0	None	14	699.00	0.00	0	3
+	8090333447	CHU60000014181	2	Mortgaged		1	Town House	End Terraced Town House	Concrete		None	NOT_LIS	SLATE	Self-employed (part-time)	2011	1	150	100	250	1000	450	31	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090333454	CHU60000014182	2	Mortgaged		1	House	End-Terraced House	Concrete		None	NOT_LIS	SLATE	Employed (Part time)	2013	1	150	100	250	1000	450	31	1	1	3	0	0	0	None	14	699.00	0.00	0	1
+	8090333462	CHU60000014183	2	Mortgaged		0	Maisonette	Maisonette	Concrete		None	NOT_LIS	SLATE	Self-employed (full time)	2014	1	150	100	250	1000	450	31	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090333470	CHU60000014184	2	Owned		2	Maisonette	Maisonette	Concrete		None	NOT_LIS	SLATE	Self-employed (part-time)	2015	1	150	100	250	1000	450	31	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090333488	CHU60000014185	2	Mortgaged		2	Maisonette	Maisonette	Concrete		None	NOT_LIS	SLATE	Employed (Full time)	1990	1	150	100	250	1000	450	31	1	1	3	0	0	0	None	14	699.00	0.00	0	4
+	8090333496	CHU60000014187	2	Mortgaged	3	1	Maisonette	Maisonette	Concrete		None	NOT_LIS	SLATE	Employed (Part time)	1917	1	150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	5
+	8090333512	CHU60000014189	2	Mortgaged	4	1	House	End-Terraced House	Concrete		None	NOT_LIS	SLATE	Self-employed (full time)	1845	1	150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	1
+	8090333520	CHU60000014190	2	Mortgaged	1	0	Town House	Semi-Detached Town House	Concrete		None	NOT_LIS	SLATE	Self-employed (part-time)	2011	1	150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090333538	CHU60000014191	2	Mortgaged	NO_INS	2	Town House	Semi-Detached Town House	Concrete		None	NOT_LIS	SLATE	Employed (Full time)	2012	1	150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090333546	CHU60000014192	2	Mortgaged	0	0	House	Mid Terraced House	Concrete		None	NOT_LIS	SLATE	Employed (Part time)	2013	1	150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090333553	CHU60000014193	2	Mortgaged	1	1	Maisonette	Maisonette	Concrete		None	NOT_LIS	SLATE	Self-employed (full time)	2014	1	150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	5
+	8090333561	CHU60000014194	2	Mortgaged	1	2	Maisonette	Maisonette	Concrete		None	NOT_LIS	SLATE	Self-employed (part-time)	2015		150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090333579	CHU60000014195	2	Mortgaged	3	1	House	End-Terraced House	Concrete		None	NOT_LIS	SLATE	Employed (Full time)	2016		150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090333587	CHU60000014196	2	Mortgaged	4	1	Town House	End Terraced Town House	Concrete		None	NOT_LIS	SLATE	Employed (Part time)	2011		150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	0	3
+	8090333595	CHU60000014197	2	Mortgaged	3	5+	Maisonette	Maisonette	Concrete		None	NOT_LIS	SLATE	Self-employed (full time)	1838	1	150	100	250	1000	450	54	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090333603	CHU60000014198	2	Mortgaged	3	NO_INS	House	Detached House	Concrete		None	NOT_LIS	SLATE	Self-employed (part-time)	1839	1	150	100	250	1000	450	71	1	2	3	0	1	0	None	14	699.00	0.00	0	5
+	8090334965	CHU60000014360	2	Owned	4	0	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	1991		150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	1	3
+	8090334973	CHU60000014361	2	Mortgaged	5+	1	Town House	End Terraced Town House	Stone Construction		None	NOT_LIS	TILE	Employed (Full time)	1992		150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	1	4
+	8090334981	CHU60000014363	2	Mortgaged	NO_INS	2	House	Mid Terraced House	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	1993		150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	1	5
+	8090334999	CHU60000014365	2	Mortgaged	0	2	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	1983		150	100	250	1000	450	30	1	1	3	0	0	0	None	14	699.00	0.00	1	1
+	8090335004	CHU60000014367	2	Owned	3	1	House	Semi-Detached House	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	1986		150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	1	2
+	8090335012	CHU60000014368	2	Mortgaged	5+	0	Town House	End Terraced Town House	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	1982	1	150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	1	4
+	8090335020	CHU60000014369	2	Mortgaged	NO_INS	0	Town House	Detached Town House	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	1983		150	100	250	2000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	1	5
+	8090335038	CHU60000014370	2	Mortgaged	0	2	House	End-Terraced House	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	1890		150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	1	1
+	8090335046	CHU60000014371	2	Mortgaged	5+	1	Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Employed (Full time)	1891	1	150	100	250	2000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	1	2
+	8090335053	CHU60000014372	2	Mortgaged	NO_INS	NO_INS	House	Link Detached House	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	2010		150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	1	3
+	8090335061	CHU60000014373	2	Owned	0	2	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	1917	1	150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	1	4
+	8090335079	CHU60000014375	2	Mortgaged	1		Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	2001	1	150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	1	5
+	8090335087	CHU60000014376	2	Mortgaged	2		Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Employed (Full time)	2002	1	150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	1	1
+	8090335095	CHU60000014378	2	Mortgaged	2		Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	2003		150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	1	2
+	8090335103	CHU60000014379	2	Owned	4		Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	2004		150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	1	3
+	8090335111	CHU60000014380	2	Mortgaged	1		House	Semi-Detached House	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	2005		150	100	250	1000	450	33	3	1	3	0	0	0	None	14	699.00	0.00	1	4
+	8090335129	CHU60000014382	2	Mortgaged	2		House	Semi-Detached House	Stone Construction		None	NOT_LIS	TILE	Employed (Full time)	2006	1	150	100	250	1000	450	33	3	1	3	0	0	0	None	14	699.00	0.00	1	5
+	8090335137	CHU60000014384	2	Owned	0		Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	2007	1	150	100	250	1000	450	33	3	2	3	0	0	0	None	14	699.00	0.00	1	1
+	8090335145	CHU60000014385	2	Mortgaged	4		Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	2008		150	100	250	1000	450	33	3	2	3	0	0	0	None	14	699.00	0.00	1	2
+	8090335152	CHU60000014386	2	Owned	1		Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	2009	1	150	100	250	1000	450	33	3	1	3	0	0	0	None	14	699.00	0.00	1	3
+	8090335160	CHU60000014387	2	Owned	1		House	Mid Terraced House	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	2011		150	100	250	1000	450	32	3	1	3	0	0	0	None	14	699.00	0.00	1	5
+	8090335178	CHU60000014389	2	Owned	1		Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	2012		150	100	250	1000	450	31	3	2	3	0	0	0	None	14	699.00	0.00	1	1
+	8090335186	CHU60000014391	2	Mortgaged	2		Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	2008	1	150	100	250	1000	450	31	3	2	3	0	0	0	None	14	699.00	0.00	1	2
+	8090335194	CHU60000014393	2	Owned	2		Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Employed (Full time)	2009	1	150	100	250	2000	450	31	3	1	3	0	0	0	None	14	699.00	0.00	1	3
+	8090335202	CHU60000014394	2	Owned	2		Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	2010		150	100	250	1000	450	31	3	2	3	0	0	0	None	14	699.00	0.00	1	4
+	8090335210	CHU60000014324	2	Mortgaged	1	1	House	Detached House	Brick		None	NOT_LIS	TILE	Employed (Full time)	1998	1	150	100	250	1000	450	80	3	1	3	0	0	0	None	14	699.00	0.00	1	1
+	8090335228	CHU60000014326	2	Owned	2	3	Town House	Mid Terraced Town House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1899	1	150	100	250	1000	450	77	3	1	3	0	0	0	None	14	699.00	0.00	1	2
+	8090335236	CHU60000014327	2	Owned	3	1	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1888	1	150	100	250	1000	450	42	3	1	3	0	0	0	None	14	699.00	0.00	1	3
+	8090335244	CHU60000014329	2	Owned	4	0	Town House	Detached Town House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1979	1	150	100	250	2000	450	75	3	2	3	0	0	0	None	14	699.00	0.00	1	4
+	8090335251	CHU60000014334	2	Mortgaged	1	1	House	Detached House	Brick		None	NOT_LIS	TILE	Employed (Full time)	1998	1	150	100	250	1000	450	80	3	1	3	0	0	0	None	14	699.00	0.00	1	1
+	8090335269	CHU60000014335	2	Mortgaged	1	3	Town House	Semi-Detached Town House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1874		150	100	250	1000	450	74	3	2	3	0	0	0	None	14	699.00	0.00	1	1
+	8090335277	CHU60000014336	2	Owned	NO_INS12	2	House	Semi-Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	2000		150	100	250	1000	450	67	3	1	3	0	0	0	None	14	699.00	0.00	1	3
+	8090335285	CHU60000014337	2	Owned	1	2	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Full time)	2001	1	150	100	250	1000	450	72	3	2	3	0	0	0	None	14	699.00	0.00	1	4
+	8090335293	CHU60000014338	2	Owned	2	3	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1873	1	150	100	250	1000	450	68	3	1	3	0	0	0	None	14	699.00	0.00	1	5
+	8090335301	CHU60000014339	2	Owned	3	2	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1956		150	100	250	1000	450	33	3	1	3	0	0	0	None	14	699.00	0.00	1	1
+	8090335319	CHU60000014340	2	Mortgaged	4	1	Town House	Semi-Detached Town House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1990	1	150	100	250	1000	450	33	3	2	3	0	0	0	None	14	699.00	0.00	1	2
+	8090335327	CHU60000014343	2	Owned	5+	2	Town House	Semi-Detached Town House	Brick		None	NOT_LIS	SLATE	Employed (Full time)	1991	1	150	100	250	1000	450	33	3	1	3	0	0	0	None	14	699.00	0.00	1	3
+	8090335335	CHU60000014344	2	Mortgaged	1	1	Town House	End Terraced Town House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1992		150	100	250	1000	450	33	3	2	3	0	0	0	None	14	699.00	0.00	1	4
+	8090335343	CHU60000014345	2	Owned	3	3	House	Mid Terraced House	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1993		150	100	250	1000	450	33	3	1	3	0	0	0	None	14	699.00	0.00	1	5
+	8090335350	CHU60000014347	2	Mortgaged	4	0	Town House	Mid Terraced Town House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1983		150	100	250	1000	450	30	3	1	3	0	0	0	None	14	699.00	0.00	1	1
+	8090335368	CHU60000014348	2	Owned	1	3	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Part time)	2005	1	150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	1	3
+	8090335376	CHU60000014349	2	Owned	3	3	Town House	End Terraced Town House	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1982	1	150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	1	4
+	8090335384	CHU60000014351	2	Mortgaged	0	3	Town House	Mid Terraced Town House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1983		150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	1	5
+	8090335392	CHU60000014352	2	Mortgaged	4	0	House	End-Terraced House	Brick		None	NOT_LIS	SLATE	Employed (Full time)	1890		150	100	250	2000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	1	1
+	8090335400	CHU60000014353	2	Mortgaged	2	NO_INS12	Maisonette	Maisonette	Brick		None	NOT_LIS	TILE	Employed (Part time)	1891		150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	1	2
+	8090335418	CHU60000014354	2	Mortgaged	2	1	House	Link Detached House	Brick		None	NOT_LIS	TILE	Self-employed (full time)	2010		150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	1	3
+	8090335426	CHU60000014355	2	Mortgaged	5+	1	Town House	Semi-Detached Town House	Brick		None	NOT_LIS	TILE	Self-employed (part-time)	2011		150	100	250	1000	450	33	1	2	3	0	0	0	None	14	699.00	0.00	1	4
+	8090335434	CHU60000014356	2	Mortgaged	NO_INS	2	House	End-Terraced House	Brick		None	NOT_LIS	TILE	Employed (Full time)	2012		150	100	250	1000	450	32	1	1	3	0	0	0	None	14	699.00	0.00	1	5
+	8090335442	CHU60000014357	2	Owned	0	2	Maisonette	Maisonette	Brick		None	NOT_LIS	TILE	Employed (Part time)	2013		150	100	250	1000	450	32	1	2	3	0	0	0	None	14	699.00	0.00	1	1
+	8090335459	CHU60000014358	2	Mortgaged	3	1	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	2003		150	100	250	1000	450	33	1	1	3	0	0	0	None	14	699.00	0.00	1	2
