@@ -1,0 +1,717 @@
+policy_number	accepts_policy_number	quote_persist_reference	policy_transaction_type_id	ownership	claim_free_year_buildings	claim_free_year_contents	property_type	property_sub_type	exterior_wall_type	property_built_era	flat_roof	listed_building	roof_type	employment_status	property_built_year	claims_history_count	voluntary_excess_amount	compulsory_excess_amount	policy_excess_amount	subsidence_excess_amount	escape_of_water_excess_amount	policyholder_age	accepts_coverage_product_id	preferred_payment_schedule_id	accepts_payment_schedule_id	contract_renewal_flag	floodre_ceded_flag	auto_renewal_intent_flag	flat_roof	cais_group_risk	credit_score	experian_point_of_quote_score	quote_to_inception_banding	no_of_bedrooms
+	8090343925	CHU70000014690	2	Owned	2	2	House	Semi-Detached House	Stone Construction		0-25	NOT_LIS	SLATE	Not employed due to disability	2000		100	100	200	1000	450	45	3	2	3	0	0	0	0-25	14	699.00	0.00	2-5	2
+	8090343933	CHU70000014722	2	Owned		2	House	Semi-Detached House	Stone Construction		0-50	NOT_LIS	SLATE	Employed (Full time)	2000		100	100	200	1000	450	37	3	2	3	0	0	0	0-50	14	699.00	0.00	2-5	2
+	8090343941	CHU70000014638	2	Owned		2	House	Semi-Detached House	Stone Construction		0-50	NOT_LIS	SLATE	Employed (Full time)	2000		100	100	200	1000	450	48	3	2	3	0	0	0	0-50	14	699.00	0.00	2-5	2
+	8090343958	CHU70000014716	2	Owned		2	House	Mid Terraced House	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Full time education (student)	2000		100	100	200	1000	450	47	3	2	3	0	0	0	0-50	14	699.00	0.00	2-5	4
+	8090343966	CHU70000014730	2	Owned	2		House	Semi-Detached House	Stone Construction		0-25	NOT_LIS	SLATE	Full time education (student)	2000		100	100	200	1000	450	34	3	2	3	0	0	0	0-25	14	699.00	0.00	2-5	2
+	8090343974	CHU70000014623	2	Owned		1	House	Detached House	Concrete		0-50	NOT_LIS	CONCRETE	Unemployed	2000		100	100	200	1000	450	35	3	1	3	0	0	0	0-50	14	699.00	0.00	2-5	3
+	8090343982	CHU70000014741	2	Owned	1	1	House	Detached House	Concrete		0-50	NOT_LIS	CONCRETE	Housewife/Househusband	2000		100	100	200	1000	450	48	3	1	3	0	0	0	0-50	14	699.00	0.00	2-5	3
+	8090343990	CHU70000014593	2	Owned		1	Bungalow	Mid Terraced Bungalow	Brick		0-50	NOT_LIS	TILE	Retired	2000		100	100	200	1000	450	52	3	1	3	0	0	0	0-50	14	699.00	0.00	2-5	1
+	8090344006	CHU70000014702	2	Owned	2	2	House	Semi-Detached House	Stone Construction		0-50	NOT_LIS	SLATE	Full time education (student)	2000		100	100	200	1000	450	50	3	2	3	0	0	0	0-50	14	699.00	0.00	2-5	2
+	8090344014	CHU70000014725	2	Owned		1	Bungalow	Mid Terraced Bungalow	Brick		0-25	NOT_LIS	TILE	Not employed due to disability	2000		100	100	200	1000	450	33	3	1	3	0	0	0	0-25	14	699.00	0.00	2-5	1
+	8090344022	CHU70000014613	2	Owned	1		Bungalow	Mid Terraced Bungalow	Brick		0-50	NOT_LIS	TILE	Not employed due to disability	2000		100	100	200	1000	450	47	3	1	3	0	0	0	0-50	14	699.00	0.00	2-5	1
+	8090344030	CHU70000014614	2	Owned		2	House	Semi-Detached House	Stone Construction		0-25	NOT_LIS	SLATE	Retired	2000		100	100	200	1000	450	51	3	2	3	0	0	0	0-25	14	699.00	0.00	2-5	2
+	8090344048	CHU70000014654	2	Owned	2	2	House	Semi-Detached House	Stone Construction		0-25	NOT_LIS	SLATE	Housewife/Househusband	2000		100	100	200	1000	450	42	3	2	3	0	0	0	0-25	14	699.00	0.00	2-5	2
+	8090344139	CHU70000014641	2	Owned		1	Bungalow	Mid Terraced Bungalow	Brick		0-50	NOT_LIS	TILE	Not employed due to disability	2000		100	100	200	1000	450	52	3	1	3	0	0	0	0-50	14	699.00	0.00	2-5	1
+	8090344147	CHU70000014662	2	Owned		2	House	Semi-Detached House	Stone Construction		0-50	NOT_LIS	SLATE	Not employed due to disability	2000		100	100	200	1000	450	34	3	2	3	0	0	0	0-50	14	699.00	0.00	2-5	2
+	8090344170	CHU70000014665	2	Owned		1	Bungalow	Mid Terraced Bungalow	Brick		0-25	NOT_LIS	TILE	Unemployed	2000		100	100	200	1000	450	49	3	1	3	0	0	0	0-25	14	699.00	0.00	2-5	1
+	8090344196	CHU70000014663	2	Owned	1	1	House	Detached House	Concrete		0-50	NOT_LIS	CONCRETE	Retired	2000		100	100	200	1000	450	36	3	1	3	0	0	0	0-50	14	699.00	0.00	2-5	3
+	8090344220	CHU70000014684	2	Owned	2	2	House	Mid Terraced House	Timber Frame with Brick Walls		0-25	NOT_LIS	ASPHALT	Retired	2000		100	100	200	1000	450	35	3	2	3	0	0	0	0-25	14	699.00	0.00	2-5	4
+	8090344253	CHU70000014596	2	Owned		2	House	Mid Terraced House	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Employed (Full time)	2000		100	100	200	1000	450	38	3	2	3	0	0	0	0-50	14	699.00	0.00	2-5	4
+	8090344279	CHU70000014687	2	Owned	1	1	House	Detached House	Concrete		0-50	NOT_LIS	CONCRETE	Employed (Full time)	2000		100	100	200	1000	450	51	3	1	3	0	0	0	0-50	14	699.00	0.00	2-5	3
+	8090344329	CHU70000014678	2	Owned	2	2	House	Semi-Detached House	Stone Construction		0-50	NOT_LIS	SLATE	Self-employed (full time)	2000		100	100	200	1000	450	36	3	2	3	0	0	0	0-50	14	699.00	0.00	2-5	2
+	8090344394	CHU70000014656	2	Owned		2	House	Mid Terraced House	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Retired	2000		100	100	200	1000	450	49	3	2	3	0	0	0	0-50	14	699.00	0.00	2-5	4
+	8090344436	CHU70000014683	2	Owned		1	House	Detached House	Concrete		0-50	NOT_LIS	CONCRETE	Not employed due to disability	2000		100	100	200	1000	450	36	3	1	3	0	0	0	0-50	14	699.00	0.00	2-5	3
+	8090344485	CHU70000014637	2	Owned	1		Bungalow	Mid Terraced Bungalow	Brick		0-50	NOT_LIS	TILE	Unemployed	2000		100	100	200	1000	450	40	3	1	3	0	0	0	0-50	14	699.00	0.00	2-5	1
+	8090344527	CHU70000014626	2	Owned		2	House	Semi-Detached House	Stone Construction		0-50	NOT_LIS	SLATE	Housewife/Househusband	2000		100	100	200	1000	450	51	3	2	3	0	0	0	0-50	14	699.00	0.00	2-5	2
+	8090344543	CHU70000014621	2	Owned	1	1	Bungalow	Mid Terraced Bungalow	Brick		0-50	NOT_LIS	TILE	Retired	2000		100	100	200	1000	450	44	3	1	3	0	0	0	0-50	14	699.00	0.00	2-5	1
+	8090344568	CHU70000014669	2	Owned	1	1	Bungalow	Mid Terraced Bungalow	Brick		0-25	NOT_LIS	TILE	Not employed due to disability	2000		100	100	200	1000	450	37	3	1	3	0	0	0	0-25	14	699.00	0.00	2-5	1
+	8090344600	CHU70000014682	2	Owned	2		House	Semi-Detached House	Stone Construction		0-50	NOT_LIS	SLATE	Housewife/Househusband	2000		100	100	200	1000	450	49	3	2	3	0	0	0	0-50	14	699.00	0.00	2-5	2
+	8090344634	CHU70000014653	2	Owned		1	Bungalow	Mid Terraced Bungalow	Brick		0-50	NOT_LIS	TILE	Full time education (student)	2000		100	100	200	1000	450	49	3	1	3	0	0	0	0-50	14	699.00	0.00	2-5	1
+	8090344642	CHU70000014605	2	Owned		1	Bungalow	Mid Terraced Bungalow	Brick		0-25	NOT_LIS	TILE	Housewife/Househusband	2000		100	100	200	1000	450	47	3	1	3	0	0	0	0-25	14	699.00	0.00	2-5	1
+	8090344675	CHU70000014724	2	Owned	2		House	Mid Terraced House	Timber Frame with Brick Walls		0-25	NOT_LIS	ASPHALT	Housewife/Househusband	2000		100	100	200	1000	450	49	3	2	3	0	0	0	0-25	14	699.00	0.00	2-5	4
+	8090344691	CHU70000014727	2	Owned	1		House	Detached House	Concrete		0-50	NOT_LIS	CONCRETE	Self-employed (full time)	2000		100	100	200	1000	450	46	3	1	3	0	0	0	0-50	14	699.00	0.00	2-5	3
+	8090344717	CHU70000014670	2	Owned	2		House	Semi-Detached House	Stone Construction		0-25	NOT_LIS	SLATE	Retired	2000		100	100	200	1000	450	40	3	2	3	0	0	0	0-25	14	699.00	0.00	2-5	2
+	8090344733	CHU70000014631	2	Owned	1		House	Detached House	Concrete		0-50	NOT_LIS	CONCRETE	Employed (Full time)	2000		100	100	200	1000	450	39	3	1	3	0	0	0	0-50	14	699.00	0.00	2-5	3
+	8090344758	CHU70000014680	2	Owned		2	House	Mid Terraced House	Timber Frame with Brick Walls		0-25	NOT_LIS	ASPHALT	Employed (Full time)	2000		100	100	200	1000	450	34	3	2	3	0	0	0	0-25	14	699.00	0.00	2-5	4
+	8090344907	CHU70000014642	2	Owned	2	2	House	Semi-Detached House	Stone Construction		0-50	NOT_LIS	SLATE	Retired	2000		100	100	200	1000	450	39	3	2	3	0	0	0	0-50	14	699.00	0.00	2-5	2
+	8090344915	CHU70000014609	2	Owned	1	1	Bungalow	Mid Terraced Bungalow	Brick		0-25	NOT_LIS	TILE	Unemployed	2000		100	100	200	1000	450	46	3	1	3	0	0	0	0-25	14	699.00	0.00	2-5	1
+	8090344923	CHU70000014731	2	Owned		1	House	Detached House	Concrete		0-50	NOT_LIS	CONCRETE	Housewife/Househusband	2000		100	100	200	1000	450	45	3	1	3	0	0	0	0-50	14	699.00	0.00	2-5	3
+	8090344931	CHU70000014647	2	Owned		1	House	Detached House	Concrete		0-50	NOT_LIS	CONCRETE	Housewife/Househusband	2000		100	100	200	1000	450	50	3	1	3	0	0	0	0-50	14	699.00	0.00	2-5	3
+	8090344949	CHU70000014649	2	Owned	1		Bungalow	Mid Terraced Bungalow	Brick		0-25	NOT_LIS	TILE	Retired	2000		100	100	200	1000	450	44	3	1	3	0	0	0	0-25	14	699.00	0.00	2-5	1
+	8090344964	CHU70000014589	2	Owned	1		Bungalow	Mid Terraced Bungalow	Brick		0-25	NOT_LIS	TILE	Employed (Full time)	2000		100	100	200	1000	450	40	1	1	3	0	0	0	0-25	14	699.00	0.00	2-5	1
+	8090344972	CHU70000014644	2	Owned		2	House	Mid Terraced House	Timber Frame with Brick Walls		0-25	NOT_LIS	ASPHALT	Unemployed	2000		100	100	200	1000	450	52	1	2	3	0	0	0	0-25	14	699.00	0.00	2-5	4
+	8090344980	CHU70000014728	2	Owned		2	House	Mid Terraced House	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Unemployed	2000		100	100	200	1000	450	46	1	2	3	0	0	0	0-50	14	699.00	0.00	2-5	4
+	8090344998	CHU70000014625	2	Owned	1		Bungalow	Mid Terraced Bungalow	Brick		0-25	NOT_LIS	TILE	Full time education (student)	2000		100	100	200	1000	450	45	1	1	3	0	0	0	0-25	14	699.00	0.00	2-5	1
+	8090345003	CHU70000014692	2	Owned		2	House	Mid Terraced House	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Self-employed (full time)	2000		100	100	200	1000	450	50	1	2	3	0	0	0	0-50	14	699.00	0.00	2-5	4
+	8090345011	CHU70000014697	2	Owned	1		Bungalow	Mid Terraced Bungalow	Brick		0-50	NOT_LIS	TILE	Not employed due to disability	2000		100	100	200	1000	450	46	1	1	3	0	0	0	0-50	14	699.00	0.00	2-5	1
+	8090345045	CHU70000014622	2	Owned	2		House	Semi-Detached House	Stone Construction		0-50	NOT_LIS	SLATE	Self-employed (full time)	2000		100	100	200	1000	450	39	1	2	3	0	0	0	0-50	14	699.00	0.00	2-5	2
+	8090345060	CHU70000014739	2	Owned	1		Bungalow	Mid Terraced Bungalow	Brick		0-25	NOT_LIS	TILE	Employed (Full time)	2000		100	100	200	1000	450	39	1	1	3	0	0	0	0-25	14	699.00	0.00	2-5	1
+	8090345078	CHU70000014688	2	Owned	2		House	Mid Terraced House	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Full time education (student)	2000		100	100	200	1000	450	50	1	2	3	0	0	0	0-50	14	699.00	0.00	2-5	4
+	8090345086	CHU70000014616	2	Owned	2		House	Mid Terraced House	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Unemployed	2000		100	100	200	1000	450	40	1	2	3	0	0	0	0-50	14	699.00	0.00	2-5	4
+	8090345094	CHU70000014721	2	Owned	1		Bungalow	Mid Terraced Bungalow	Brick		0-50	NOT_LIS	TILE	Unemployed	2000		100	100	200	1000	450	42	1	1	3	0	0	0	0-50	14	699.00	0.00	2-5	1
+	8090345102	CHU70000014643	2	Owned	1		House	Detached House	Concrete		0-50	NOT_LIS	CONCRETE	Self-employed (full time)	2000		100	100	200	1000	450	40	1	1	3	0	0	0	0-50	14	699.00	0.00	2-5	3
+	8090345128	CHU70000014615	2	Owned	1	1	House	Detached House	Concrete		0-25	NOT_LIS	CONCRETE	Self-employed (full time)	2000		100	100	200	1000	450	50	1	1	3	0	0	0	0-25	14	699.00	0.00	2-5	3
+	8090345136	CHU70000014667	2	Owned	1		House	Detached House	Concrete		0-50	NOT_LIS	CONCRETE	Full time education (student)	2000		100	100	200	1000	450	48	1	1	3	0	0	0	0-50	14	699.00	0.00	2-5	3
+	8090345144	CHU70000014599	2	Owned		1	House	Detached House	Concrete		0-25	NOT_LIS	CONCRETE	Not employed due to disability	2000		100	100	200	1000	450	34	1	1	3	0	0	0	0-25	14	699.00	0.00	2-5	3
+	8090345151	CHU70000014645	2	Owned	1	1	Bungalow	Mid Terraced Bungalow	Brick		0-25	NOT_LIS	TILE	Employed (Full time)	2000		100	100	200	1000	450	51	1	1	3	0	0	0	0-25	14	699.00	0.00	2-5	1
+	8090345169	CHU70000014681	2	Owned	1	1	Bungalow	Mid Terraced Bungalow	Brick		0-50	NOT_LIS	TILE	Full time education (student)	2000		100	100	200	1000	450	46	1	1	3	0	0	0	0-50	14	699.00	0.00	2-5	1
+	8090345177	CHU70000014737	2	Owned		1	Bungalow	Mid Terraced Bungalow	Brick		0-50	NOT_LIS	TILE	Full time education (student)	2000		100	100	200	1000	450	45	1	1	3	0	0	0	0-50	14	699.00	0.00	2-5	1
+	8090345185	CHU70000014736	2	Owned	2		House	Mid Terraced House	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Employed (Full time)	2000		100	100	200	1000	450	34	1	2	3	0	0	0	0-50	14	699.00	0.00	2-5	4
+	8090345193	CHU70000014714	2	Owned	2	2	House	Semi-Detached House	Stone Construction		0-25	NOT_LIS	SLATE	Unemployed	2000		100	100	200	1000	450	52	1	2	3	0	0	0	0-25	14	699.00	0.00	2-5	2
+	8090345201	CHU70000014590	2	Owned		2	House	Semi-Detached House	Stone Construction		0-25	NOT_LIS	SLATE	Full time education (student)	2000		100	100	200	1000	450	36	1	2	3	0	0	0	0-25	14	699.00	0.00	2-5	2
+	8090345227	CHU70000014733	2	Owned	1		Bungalow	Mid Terraced Bungalow	Brick		0-50	NOT_LIS	TILE	Retired	2000		100	100	200	1000	450	47	1	1	3	0	0	0	0-50	14	699.00	0.00	2-5	1
+	8090345235	CHU70000014719	2	Owned		1	House	Detached House	Concrete		0-25	NOT_LIS	CONCRETE	Retired	2000		100	100	200	1000	450	48	1	1	3	0	0	0	0-25	14	699.00	0.00	2-5	3
+	8090345243	CHU70000014713	2	Owned		1	Bungalow	Mid Terraced Bungalow	Brick		0-50	NOT_LIS	TILE	Self-employed (full time)	2000		100	100	200	1000	450	34	1	1	3	0	0	0	0-50	14	699.00	0.00	2-5	1
+	8090345268	CHU70000014632	2	Owned		2	House	Mid Terraced House	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Full time education (student)	2000		100	100	200	1000	450	44	1	2	3	0	0	0	0-50	14	699.00	0.00	2-5	4
+	8090345276	CHU70000014657	2	Owned	1	1	Bungalow	Mid Terraced Bungalow	Brick		0-50	NOT_LIS	TILE	Self-employed (full time)	2000		100	100	200	1000	450	54	1	1	3	0	0	0	0-50	14	699.00	0.00	2-5	1
+	8090345292	CHU70000014635	2	Owned		1	House	Detached House	Concrete		0-25	NOT_LIS	CONCRETE	Retired	2000		100	100	200	1000	450	41	1	1	3	0	0	0	0-25	14	699.00	0.00	2-5	3
+	8090345300	CHU70000014693	2	Owned	1	1	Bungalow	Mid Terraced Bungalow	Brick		0-50	NOT_LIS	TILE	Unemployed	2000		100	100	200	1000	450	35	1	1	3	0	0	0	0-50	14	699.00	0.00	2-5	1
+	8090345318	CHU70000014778	2	Owned	1		Bungalow	Mid Terraced Bungalow	Brick		0-25	NOT_LIS	TILE	Employed (Full time)	2000		100	100	200	1000	450	47	1	1	3	0	0	0	0-25	14	699.00	0.00	2-5	1
+	8090345326	CHU70000014591	2	Owned	1	1	House	Detached House	Concrete		0-50	NOT_LIS	CONCRETE	Housewife/Househusband	2000		100	100	200	1000	450	37	1	1	3	0	0	0	0-50	14	699.00	0.00	2-5	3
+	8090345359	CHU70000014710	2	Owned		2	House	Semi-Detached House	Stone Construction		0-25	NOT_LIS	SLATE	Housewife/Househusband	2000		100	100	200	1000	450	44	1	2	3	0	0	0	0-25	14	699.00	0.00	2-5	2
+	8090345383	CHU70000014664	2	Owned	2		House	Mid Terraced House	Timber Frame with Brick Walls		0-25	NOT_LIS	ASPHALT	Self-employed (full time)	2000		100	100	200	1000	450	35	1	2	3	0	0	0	0-25	14	699.00	0.00	2-5	4
+	8090345391	CHU70000014694	2	Owned	2		House	Semi-Detached House	Stone Construction		0-25	NOT_LIS	SLATE	Employed (Full time)	2000		100	100	200	1000	450	51	1	2	3	0	0	0	0-25	14	699.00	0.00	2-5	2
+	8090345409	CHU70000014709	2	Owned	1		Bungalow	Mid Terraced Bungalow	Brick		0-25	NOT_LIS	TILE	Full time education (student)	2000		100	100	200	1000	450	49	1	1	3	0	0	0	0-25	14	699.00	0.00	2-5	1
+	8090345425	CHU70000014674	2	Owned		2	House	Semi-Detached House	Stone Construction		0-25	NOT_LIS	SLATE	Full time education (student)	2000		100	100	200	1000	450	34	1	2	3	0	0	0	0-25	14	699.00	0.00	2-5	2
+	8090345433	CHU70000014668	2	Owned		2	House	Mid Terraced House	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Housewife/Househusband	2000		100	100	200	1000	450	34	1	2	3	0	0	0	0-50	14	699.00	0.00	2-5	4
+	8090345458	CHU70000014607	2	Owned	1		House	Detached House	Concrete		0-50	NOT_LIS	CONCRETE	Retired	2000		100	100	200	1000	450	39	1	1	3	0	0	0	0-50	14	699.00	0.00	2-5	3
+	8090345474	CHU70000014704	2	Owned		2	House	Mid Terraced House	Timber Frame with Brick Walls		0-25	NOT_LIS	ASPHALT	Not employed due to disability	2000		100	100	200	1000	450	38	1	2	3	0	0	0	0-25	14	699.00	0.00	2-5	4
+	8090345482	CHU70000014594	2	Owned	2	2	House	Semi-Detached House	Stone Construction		0-25	NOT_LIS	SLATE	Self-employed (full time)	2000		100	100	200	1000	450	41	1	2	3	0	0	0	0-25	14	699.00	0.00	2-5	2
+	8090345490	CHU70000014666	2	Owned	2	2	House	Semi-Detached House	Stone Construction		0-50	NOT_LIS	SLATE	Employed (Full time)	2000		100	100	200	1000	450	46	1	2	3	0	0	0	0-50	14	699.00	0.00	2-5	2
+	8090345508	CHU70000014672	2	Owned	2	2	House	Mid Terraced House	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Unemployed	2000		100	100	200	1000	450	35	1	2	3	0	0	0	0-50	14	699.00	0.00	2-5	4
+	8090345516	CHU70000014738	2	Owned	2	2	House	Semi-Detached House	Stone Construction		0-50	NOT_LIS	SLATE	Housewife/Househusband	2000		100	100	200	1000	450	38	1	2	3	0	0	0	0-50	14	699.00	0.00	2-5	2
+	8090345532	CHU70000014698	2	Owned		2	House	Semi-Detached House	Stone Construction		0-50	NOT_LIS	SLATE	Retired	2000		100	100	200	1000	450	40	1	2	3	0	0	0	0-50	14	699.00	0.00	2-5	2
+	8090345557	CHU70000014715	2	Owned	1		House	Detached House	Concrete		0-25	NOT_LIS	CONCRETE	Employed (Full time)	2000		100	100	200	1000	450	43	1	1	3	0	0	0	0-25	14	699.00	0.00	2-5	3
+	8090345565	CHU70000014677	2	Owned		1	Bungalow	Mid Terraced Bungalow	Brick		0-50	NOT_LIS	TILE	Retired	2000		100	100	200	1000	450	45	1	1	3	0	0	0	0-50	14	699.00	0.00	2-5	1
+	8090345581	CHU70000014691	2	Owned	1		House	Detached House	Concrete		0-50	NOT_LIS	CONCRETE	Retired	2000		100	100	200	1000	450	37	1	1	3	0	0	0	0-50	14	699.00	0.00	2-5	3
+	8090345599	CHU70000014703	2	Owned	1		House	Detached House	Concrete		0-50	NOT_LIS	CONCRETE	Housewife/Househusband	2000		100	100	200	1000	450	43	1	1	3	0	0	0	0-50	14	699.00	0.00	2-5	3
+	8090345607	CHU70000014700	2	Owned	2		House	Mid Terraced House	Timber Frame with Brick Walls		0-25	NOT_LIS	ASPHALT	Unemployed	2000		100	100	200	1000	450	36	1	2	3	0	0	0	0-25	14	699.00	0.00	2-5	4
+	8090345615	CHU70000014732	2	Owned	2	2	House	Mid Terraced House	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Not employed due to disability	2000		100	100	200	1000	450	48	1	2	3	0	0	0	0-50	14	699.00	0.00	2-5	4
+	8090345623	CHU70000014661	2	Owned	1		Bungalow	Mid Terraced Bungalow	Brick		0-50	NOT_LIS	TILE	Housewife/Househusband	2000		100	100	200	1000	450	41	1	1	3	0	0	0	0-50	14	699.00	0.00	2-5	1
+	8090345631	CHU70000014711	2	Owned	1	1	House	Detached House	Concrete		0-50	NOT_LIS	CONCRETE	Not employed due to disability	2000		100	100	200	1000	450	36	1	1	3	0	0	0	0-50	14	699.00	0.00	2-5	3
+	8090345649	CHU70000014655	2	Owned	1		House	Detached House	Concrete		0-25	NOT_LIS	CONCRETE	Not employed due to disability	2000		100	100	200	1000	450	44	1	1	3	0	0	0	0-25	14	699.00	0.00	2-5	3
+	8090345672	CHU70000014627	2	Owned	1	1	House	Detached House	Concrete		0-50	NOT_LIS	CONCRETE	Not employed due to disability	2000		100	100	200	1000	450	38	1	1	3	0	0	0	0-50	14	699.00	0.00	2-5	3
+	8090345680	CHU70000014696	2	Owned	2	2	House	Mid Terraced House	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Housewife/Househusband	2000		100	100	200	1000	450	46	1	2	3	0	0	0	0-50	14	699.00	0.00	2-5	4
+	8090345698	CHU70000014610	2	Owned	2		House	Semi-Detached House	Stone Construction		0-25	NOT_LIS	SLATE	Employed (Full time)	2000		100	100	200	1000	450	37	1	2	3	0	0	0	0-25	14	699.00	0.00	2-5	2
+	8090345706	CHU70000014612	2	Owned	2	2	House	Mid Terraced House	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Housewife/Househusband	2000		100	100	200	1000	450	39	1	2	3	0	0	0	0-50	14	699.00	0.00	2-5	4
+	8090345730	CHU70000014601	2	Owned	1		Bungalow	Mid Terraced Bungalow	Brick		0-50	NOT_LIS	TILE	Self-employed (full time)	2000		100	100	200	1000	450	37	1	1	3	0	0	0	0-50	14	699.00	0.00	2-5	1
+	8090345748	CHU70000014695	2	Owned		1	House	Detached House	Concrete		0-25	NOT_LIS	CONCRETE	Full time education (student)	2000		100	100	200	1000	450	49	1	1	3	0	0	0	0-25	14	699.00	0.00	2-5	3
+	8090345755	CHU70000014712	2	Owned	2		House	Mid Terraced House	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Retired	2000		100	100	200	1000	450	44	1	2	3	0	0	0	0-50	14	699.00	0.00	2-5	4
+	8090345763	CHU70000014604	2	Owned	2		House	Mid Terraced House	Timber Frame with Brick Walls		0-25	NOT_LIS	ASPHALT	Full time education (student)	2000		100	100	200	1000	450	52	1	2	3	0	0	0	0-25	14	699.00	0.00	2-5	4
+	8090345771	CHU70000014608	2	Owned		2	House	Mid Terraced House	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Self-employed (full time)	2000		100	100	200	1000	450	45	1	2	3	0	0	0	0-50	14	699.00	0.00	2-5	4
+	8090345789	CHU70000014740	2	Owned		2	House	Semi-Detached House	Stone Construction		0-25	NOT_LIS	SLATE	Full time education (student)	2000		100	100	200	1000	450	39	1	2	3	0	0	0	0-25	14	699.00	0.00	2-5	2
+	8090345797	CHU70000014634	2	Owned	2		House	Semi-Detached House	Stone Construction		0-25	NOT_LIS	SLATE	Not employed due to disability	2000		100	100	200	1000	450	35	1	2	3	0	0	0	0-25	14	699.00	0.00	2-5	2
+	8090345805	CHU70000014717	2	Owned	1	1	Bungalow	Mid Terraced Bungalow	Brick		0-50	NOT_LIS	TILE	Housewife/Househusband	2000		100	100	200	1000	450	45	1	1	3	0	0	0	0-50	14	699.00	0.00	2-5	1
+	8090345813	CHU70000014659	2	Owned		1	House	Detached House	Concrete		0-25	NOT_LIS	CONCRETE	Employed (Full time)	2000		100	100	200	1000	450	53	1	1	3	0	0	0	0-25	14	699.00	0.00	2-5	3
+	8090345821	CHU70000014706	2	Owned	2		House	Semi-Detached House	Stone Construction		0-50	NOT_LIS	SLATE	Self-employed (full time)	2000		100	100	200	1000	450	53	1	2	3	0	0	0	0-50	14	699.00	0.00	2-5	2
+	8090345839	CHU70000014651	2	Owned	1	1	House	Detached House	Concrete		0-50	NOT_LIS	CONCRETE	Unemployed	2000		100	100	200	1000	450	36	1	1	3	0	0	0	0-50	14	699.00	0.00	2-5	3
+	8090345847	CHU70000014707	2	Owned		1	House	Detached House	Concrete		0-50	NOT_LIS	CONCRETE	Unemployed	2000		100	100	200	1000	450	52	1	1	3	0	0	0	0-50	14	699.00	0.00	2-5	3
+	8090345854	CHU70000014602	2	Owned		2	House	Semi-Detached House	Stone Construction		0-50	NOT_LIS	SLATE	Unemployed	2000		100	100	200	1000	450	35	1	2	3	0	0	0	0-50	14	699.00	0.00	2-5	2
+	8090345862	CHU70000014679	2	Owned	1		House	Detached House	Concrete		0-25	NOT_LIS	CONCRETE	Unemployed	2000		100	100	200	1000	450	47	1	1	3	0	0	0	0-25	14	699.00	0.00	2-5	3
+	8090345870	CHU70000014618	2	Owned	2	2	House	Semi-Detached House	Stone Construction		0-50	NOT_LIS	SLATE	Full time education (student)	2000		100	100	200	1000	450	47	1	2	3	0	0	0	0-50	14	699.00	0.00	2-5	2
+	8090345896	CHU70000014592	2	Owned	2		House	Mid Terraced House	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Not employed due to disability	2000		100	100	200	1000	450	53	1	2	3	0	0	0	0-50	14	699.00	0.00	2-5	4
+	8090345904	CHU70000014701	2	Owned		1	Bungalow	Mid Terraced Bungalow	Brick		0-50	NOT_LIS	TILE	Employed (Full time)	2000		100	100	200	1000	450	51	1	1	3	0	0	0	0-50	14	699.00	0.00	2-5	1
+	8090345912	CHU70000014675	2	Owned	1	1	House	Detached House	Concrete		0-25	NOT_LIS	CONCRETE	Housewife/Househusband	2000		100	100	200	1000	450	34	1	1	3	0	0	0	0-25	14	699.00	0.00	2-5	3
+	8090345920	CHU70000014617	2	Owned		1	Bungalow	Mid Terraced Bungalow	Brick		0-50	NOT_LIS	TILE	Employed (Full time)	2000		100	100	200	1000	450	51	1	1	3	0	0	0	0-50	14	699.00	0.00	2-5	1
+	8090345938	CHU70000014650	2	Owned		2	House	Semi-Detached House	Stone Construction		0-25	NOT_LIS	SLATE	Self-employed (full time)	2000		100	100	200	1000	450	51	1	2	3	0	0	0	0-25	14	699.00	0.00	2-5	2
+	8090345946	CHU70000014598	2	Owned	2		House	Semi-Detached House	Stone Construction		0-50	NOT_LIS	SLATE	Housewife/Househusband	2000		100	100	200	1000	450	34	1	2	3	0	0	0	0-50	14	699.00	0.00	2-5	2
+	8090345961	CHU70000014630	2	Owned	2	2	House	Semi-Detached House	Stone Construction		0-25	NOT_LIS	SLATE	Unemployed	2000		100	100	200	1000	450	38	1	2	3	0	0	0	0-25	14	699.00	0.00	2-5	2
+	8090345987	CHU70000014726	2	Owned	2	2	House	Semi-Detached House	Stone Construction		0-50	NOT_LIS	SLATE	Retired	2000		100	100	200	1000	450	53	1	2	3	0	0	0	0-50	14	699.00	0.00	2-5	2
+	8090345995	CHU70000014685	2	Owned	1		Bungalow	Mid Terraced Bungalow	Brick		0-25	NOT_LIS	TILE	Self-employed (full time)	2000		100	100	200	1000	450	39	1	1	3	0	0	0	0-25	14	699.00	0.00	2-5	1
+	8090346001	CHU70000014640	2	Owned	2		House	Mid Terraced House	Timber Frame with Brick Walls		0-25	NOT_LIS	ASPHALT	Housewife/Househusband	2000		100	100	200	1000	450	43	1	2	4	0	0	0	0-25	14	699.00	0.00	2-5	4
+	8090346118	CHU70000014619	2	Owned	1		House	Detached House	Concrete		0-25	NOT_LIS	CONCRETE	Housewife/Househusband	2000		100	100	200	1000	450	34	1	1	4	0	0	0	0-25	14	699.00	0.00	2-5	3
+	8090346191	CHU70000015153	2	Owned	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090346209	CHU70000015063	2	Mortgaged	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	TILE	Independent Means	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090346217	CHU70000015154	2	Mortgaged	5+	5+	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	ASPHALT	Retired	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090346225	CHU70000015161	2	Mortgaged	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	TILE	Unemployed	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090346233	CHU70000015150	2	Mortgaged	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	ASPHALT	Full time education (student)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090346258	CHU70000015119	2	Mortgaged	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	ASPHALT	Self-employed (full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090346266	CHU70000015091	2	Mortgaged	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	TILE	Self-employed (full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090346274	CHU70000014807	2	Mortgaged	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	TILE	Self-employed (full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090346282	CHU70000015140	2	Owned	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	SLATE	Full time education (student)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090346290	CHU70000015114	2	Mortgaged	5+	5+	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Unemployed	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090346308	CHU70000015143	2	Mortgaged	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	TILE	Self-employed (full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090346316	CHU70000015064	2	Owned	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	SLATE	Not employed due to disability	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090346332	CHU70000014978	2	Owned	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	CONCRETE	Not employed due to disability	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090346340	CHU70000015056	2	Mortgaged	5+	5+	Town House	Detached Town House	Concrete		None	NOT_LIS	TILE	Employed (Full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090346357	CHU70000015104	2	Owned	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	CONCRETE	Housewife/Househusband	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090346373	CHU70000015162	2	Owned	5+	5+	House	Detached House	Concrete		None	NOT_LIS	SLATE	Employed (Full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090346399	CHU70000015132	2	Owned	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	CONCRETE	Self-employed (full time)	1970		250	100	350	1000	450	57	1	2	3	0	1	0	None	14	699.00	0.00	20+	4
+	8090346407	CHU70000015060	2	Owned	5+	5+	House	End-Terraced House	Concrete		None	NOT_LIS	CONCRETE	Housewife/Househusband	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090346415	CHU70000014786	2	Mortgaged	5+	5+	House	Detached House	Concrete		None	NOT_LIS	TILE	Housewife/Househusband	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090346423	CHU70000014799	2	Mortgaged	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	TILE	Retired	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090346449	CHU70000015127	2	Owned	5+	5+	House	Detached House	Concrete		None	NOT_LIS	CONCRETE	Voluntary	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090346456	CHU70000014973	2	Mortgaged	5+	5+	House	Detached House	Concrete		None	NOT_LIS	ASPHALT	Employed (Full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090346464	CHU70000015058	2	Owned	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090346472	CHU70000015019	2	Owned	5+	5+	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	SLATE	Not employed due to disability	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090346480	CHU70000014761	2	Mortgaged	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	TILE	Voluntary	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090346498	CHU70000015125	2	Owned	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	SLATE	Independent Means	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090346506	CHU70000015011	2	Mortgaged	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	ASPHALT	Retired	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090346522	CHU70000015035	2	Mortgaged	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	ASPHALT	Employed (Full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090346530	CHU70000015093	2	Mortgaged	5+	5+	Town House	Detached Town House	Concrete		None	NOT_LIS	ASPHALT	Housewife/Househusband	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090346548	CHU70000015059	2	Mortgaged	5+	5+	Flat	Flat - Basement	Stone Construction		None	NOT_LIS	ASPHALT	Retired	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090346555	CHU70000014948	2	Mortgaged	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	TILE	Retired	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090346571	CHU70000015088	2	Owned	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	SLATE	Full time education (student)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090346589	CHU70000015076	2	Owned	5+	5+	Town House	Detached Town House	Concrete		None	NOT_LIS	CONCRETE	Voluntary	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090346597	CHU70000015160	2	Owned	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	CONCRETE	Full time education (student)	1970		250	100	350	2000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090346605	CHU70000015036	2	Owned	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	CONCRETE	Self-employed (full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090346613	CHU70000015096	2	Owned	5+	5+	House	End-Terraced House	Concrete		None	NOT_LIS	SLATE	Voluntary	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090346621	CHU70000015041	2	Mortgaged	5+	5+	House	End-Terraced House	Concrete		None	NOT_LIS	TILE	Voluntary	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090346639	CHU70000015157	2	Mortgaged	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	TILE	Independent Means	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090346647	CHU70000014982	2	Owned	5+	5+	Town House	Detached Town House	Concrete		None	NOT_LIS	CONCRETE	Employed (Full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090346654	CHU70000015182	2	Mortgaged	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	TILE	Full time education (student)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090346662	CHU70000015106	2	Mortgaged	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	TILE	Independent Means	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090346670	CHU70000015047	2	Owned	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	SLATE	Retired	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090346696	CHU70000015120	2	Owned	5+	5+	Flat	Flat - Basement	Stone Construction		None	NOT_LIS	CONCRETE	Retired	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090346704	CHU70000015124	2	Mortgaged	5+	5+	House	End-Terraced House	Concrete		None	NOT_LIS	TILE	Housewife/Househusband	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090346753	PRV70000061941	2	Mortgaged	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	TILE	Housewife/Househusband	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090346761	PRV70000061886	2	Mortgaged	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	TILE	Employed (Full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090346779	PRV70000061873	2	Mortgaged	5+	5+	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	ASPHALT	Unemployed	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090346787	PRV70000061920	2	Mortgaged	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	ASPHALT	Housewife/Househusband	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090346803	PRV70000061922	2	Owned	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	CONCRETE	Independent Means	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090346811	PRV70000061838	2	Mortgaged	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	TILE	Full time education (student)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090346837	PRV70000061645	2	Mortgaged	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	TILE	Self-employed (full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090346845	PRV70000061654	2	Mortgaged	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	TILE	Employed (Full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090346852	PRV70000062013	2	Mortgaged	5+	5+	House	End-Terraced House	Concrete		None	NOT_LIS	ASPHALT	Voluntary	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090346860	PRV70000061601	2	Mortgaged	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	TILE	Self-employed (full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090346878	PRV70000061583	2	Mortgaged	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	TILE	Full time education (student)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090346886	PRV70000061985	2	Mortgaged	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	TILE	Full time education (student)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090346902	PRV70000062015	2	Mortgaged	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	TILE	Unemployed	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090346928	PRV70000061974	2	Mortgaged	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	ASPHALT	Voluntary	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090346936	PRV70000061896	2	Mortgaged	5+	5+	Flat	Flat - Basement	Stone Construction		None	NOT_LIS	TILE	Unemployed	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090346944	PRV70000061965	2	Mortgaged	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	ASPHALT	Full time education (student)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090346951	PRV70000061622	2	Mortgaged	5+	5+	House	Detached House	Concrete		None	NOT_LIS	TILE	Housewife/Househusband	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090346969	PRV70000061930	2	Owned	5+	5+	House	End-Terraced House	Concrete		None	NOT_LIS	CONCRETE	Housewife/Househusband	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090346977	PRV70000061976	2	Mortgaged	5+	5+	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Unemployed	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090346985	PRV70000061938	2	Mortgaged	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	ASPHALT	Self-employed (full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090346993	PRV70000061879	2	Mortgaged	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	TILE	Not employed due to disability	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090347009	PRV70000061874	2	Owned	5+	5+	Town House	Detached Town House	Concrete		None	NOT_LIS	CONCRETE	Employed (Full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090347017	PRV70000061840	2	Mortgaged	5+	5+	House	Detached House	Concrete		None	NOT_LIS	ASPHALT	Employed (Full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090347025	PRV70000061950	2	Mortgaged	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	TILE	Retired	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090347033	PRV70000061876	2	Owned	5+	5+	Flat	Flat - Basement	Stone Construction		None	NOT_LIS	SLATE	Retired	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090347041	PRV70000061993	2	Owned	5+	5+	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	CONCRETE	Not employed due to disability	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090347066	PRV70000061999	2	Owned	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	SLATE	Retired	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090347074	CHU70000015163	2	Mortgaged	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	ASPHALT	Self-employed (full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090347082	CHU70000015070	2	Mortgaged	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	ASPHALT	Self-employed (full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090347108	PRV70000061905	2	Mortgaged	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	TILE	Full time education (student)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090347116	PRV70000061929	2	Mortgaged	5+	5+	Flat	Flat - Basement	Stone Construction		None	NOT_LIS	ASPHALT	Retired	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090347124	CHU70000015156	2	Owned	5+	5+	Town House	Detached Town House	Concrete		None	NOT_LIS	CONCRETE	Housewife/Househusband	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090347132	PRV70000062001	2	Owned	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	CONCRETE	Independent Means	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090347140	PRV70000061990	2	Owned	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	SLATE	Housewife/Househusband	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090347157	CHU70000015087	2	Mortgaged	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	TILE	Voluntary	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090347165	CHU70000014984	2	Owned	5+	5+	Flat	Flat - Basement	Stone Construction		None	NOT_LIS	SLATE	Retired	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090347173	CHU70000014976	2	Owned	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	SLATE	Housewife/Househusband	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090347181	PRV70000062011	2	Mortgaged	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	TILE	Independent Means	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090347199	CHU70000015053	2	Owned	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	SLATE	Voluntary	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090347207	CHU70000014983	2	Mortgaged	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	TILE	Self-employed (full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090347215	PRV70000061907	2	Mortgaged	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	ASPHALT	Employed (Full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090347223	PRV70000061924	2	Owned	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	SLATE	Voluntary	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090347231	CHU70000015042	2	Owned	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	SLATE	Full time education (student)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090347249	PRV70000061875	2	Mortgaged	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	TILE	Self-employed (full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090347256	PRV70000061982	2	Owned	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	SLATE	Independent Means	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090347264	CHU70000015033	2	Mortgaged	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	TILE	Full time education (student)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090347272	PRV70000061841	2	Owned	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	CONCRETE	Self-employed (full time)	1970		250	100	350	2000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090347280	CHU70000014981	2	Mortgaged	5+	5+	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	ASPHALT	Unemployed	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090347298	CHU70000014765	2	Mortgaged	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	TILE	Self-employed (full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090347306	PRV70000062012	2	Owned	5+	5+	Flat	Flat - Basement	Stone Construction		None	NOT_LIS	SLATE	Not employed due to disability	1970		250	100	350	1000	550	57	1	2	3	0	1	0	None	14	699.00	0.00	20+	2
+	8090347314	CHU70000014985	2	Mortgaged	5+	5+	House	End-Terraced House	Concrete		None	NOT_LIS	ASPHALT	Housewife/Househusband	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090347322	CHU70000015021	2	Owned	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	CONCRETE	Full time education (student)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090347330	PRV70000061618	2	Mortgaged	5+	5+	Flat	Flat - Basement	Stone Construction		None	NOT_LIS	TILE	Unemployed	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090347348	PRV70000061991	2	Mortgaged	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	ASPHALT	Independent Means	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090347363	PRV70000061997	2	Owned	5+	5+	House	End-Terraced House	Concrete		None	NOT_LIS	CONCRETE	Employed (Full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090347371	CHU70000015084	2	Mortgaged	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	ASPHALT	Independent Means	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090347389	CHU70000014757	2	Mortgaged	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	TILE	Retired	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090347397	PRV70000061900	2	Mortgaged	5+	5+	House	Detached House	Concrete		None	NOT_LIS	TILE	Housewife/Househusband	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090347405	CHU70000015043	2	Mortgaged	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	ASPHALT	Unemployed	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090347413	PRV70000061969	2	Mortgaged	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	ASPHALT	Retired	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090347421	CHU70000015097	2	Mortgaged	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	ASPHALT	Full time education (student)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090347439	CHU70000015146	2	Owned	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	CONCRETE	Independent Means	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090347447	PRV70000061962	2	Owned	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	CONCRETE	Independent Means	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090347454	PRV70000061935	2	Mortgaged	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	TILE	Unemployed	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090347462	CHU70000014588	2	Mortgaged	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	TILE	Full time education (student)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090347470	CHU70000015010	2	Owned	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090347488	PRV70000061970	2	Owned	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	CONCRETE	Housewife/Househusband	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090347496	CHU70000015038	2	Owned	5+	5+	Town House	Detached Town House	Concrete		None	NOT_LIS	SLATE	Housewife/Househusband	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090347504	CHU70000015135	2	Owned	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	SLATE	Housewife/Househusband	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090347512	PRV70000061908	2	Owned	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	CONCRETE	Self-employed (full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090347520	CHU70000015116	2	Owned	5+	5+	Town House	Detached Town House	Concrete		None	NOT_LIS	SLATE	Employed (Full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090347538	PRV70000061939	2	Owned	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	CONCRETE	Retired	1970		250	100	350	1000	550	57	1	2	3	0	1	0	None	14	699.00	0.00	20+	4
+	8090347546	CHU70000014815	2	Mortgaged	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	TILE	Employed (Full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090347553	PRV70000061637	2	Mortgaged	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	TILE	Retired	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090347561	CHU70000014958	2	Mortgaged	5+	5+	House	End-Terraced House	Concrete		None	NOT_LIS	ASPHALT	Housewife/Househusband	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090347579	PRV70000061845	2	Owned	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	CONCRETE	Not employed due to disability	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090347587	CHU70000015075	2	Mortgaged	5+	5+	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	ASPHALT	Not employed due to disability	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090347595	PRV70000061842	2	Mortgaged	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	TILE	Retired	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090347611	CHU70000014769	2	Mortgaged	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	TILE	Not employed due to disability	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090347629	PRV70000061872	2	Owned	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	SLATE	Full time education (student)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090347637	PRV70000061902	2	Mortgaged	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	ASPHALT	Not employed due to disability	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090347645	CHU70000015029	2	Owned	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	SLATE	Independent Means	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090347652	CHU70000014782	2	Mortgaged	5+	5+	Flat	Flat - Basement	Stone Construction		None	NOT_LIS	TILE	Unemployed	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090347660	CHU70000014975	2	Mortgaged	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	TILE	Retired	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090347678	PRV70000061957	2	Mortgaged	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	ASPHALT	Unemployed	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090347686	PRV70000061882	2	Mortgaged	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	ASPHALT	Full time education (student)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090347694	CHU70000015025	2	Mortgaged	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	ASPHALT	Self-employed (full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090347702	PRV70000061951	2	Owned	5+	5+	House	Detached House	Concrete		None	NOT_LIS	SLATE	Housewife/Househusband	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090347710	CHU70000015144	2	Owned	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	SLATE	Retired	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090347728	CHU70000014997	2	Owned	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	CONCRETE	Unemployed	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090347736	PRV70000061910	2	Owned	5+	5+	Town House	Detached Town House	Concrete		None	NOT_LIS	SLATE	Housewife/Househusband	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090347744	PRV70000061649	2	Mortgaged	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	TILE	Not employed due to disability	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090347751	CHU70000015040	2	Owned	5+	5+	Flat	Flat - Basement	Stone Construction		None	NOT_LIS	CONCRETE	Not employed due to disability	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090347769	PRV70000061869	2	Mortgaged	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	ASPHALT	Independent Means	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090347777	CHU70000015024	2	Owned	5+	5+	House	End-Terraced House	Concrete		None	NOT_LIS	SLATE	Employed (Full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090347785	PRV70000061911	2	Mortgaged	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	ASPHALT	Independent Means	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090347793	CHU70000015145	2	Mortgaged	5+	5+	House	Detached House	Concrete		None	NOT_LIS	ASPHALT	Housewife/Househusband	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090347801	PRV70000061932	2	Owned	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	SLATE	Not employed due to disability	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090347819	CHU70000015129	2	Mortgaged	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	TILE	Full time education (student)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090347827	PRV70000062000	2	Mortgaged	5+	5+	House	Detached House	Concrete		None	NOT_LIS	ASPHALT	Housewife/Househusband	1970		250	100	350	1000	550	57	1	2	3	0	1	0	None	14	699.00	0.00	20+	3
+	8090347835	CHU70000015055	2	Owned	5+	5+	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	CONCRETE	Unemployed	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090347843	CHU70000015130	2	Owned	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	SLATE	Unemployed	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090347850	CHU70000015065	2	Mortgaged	5+	5+	House	Detached House	Concrete		None	NOT_LIS	ASPHALT	Voluntary	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090347876	PRV70000062007	2	Owned	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090347884	CHU70000014980	2	Owned	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	SLATE	Full time education (student)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090347892	CHU70000015034	2	Owned	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	SLATE	Unemployed	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090347900	CHU70000015045	2	Mortgaged	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	TILE	Self-employed (full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090347918	CHU70000015138	2	Owned	5+	5+	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	CONCRETE	Not employed due to disability	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090347926	CHU70000015092	2	Owned	5+	5+	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	SLATE	Retired	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090347934	CHU70000015133	2	Mortgaged	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	TILE	Retired	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090347942	CHU70000015141	2	Mortgaged	5+	5+	Flat	Flat - Basement	Stone Construction		None	NOT_LIS	ASPHALT	Unemployed	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090347959	PRV70000061865	2	Mortgaged	5+	5+	House	Detached House	Concrete		None	NOT_LIS	ASPHALT	Employed (Full time)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090347967	CHU70000015037	2	Mortgaged	5+	5+	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Retired	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090347975	PRV70000061960	2	Owned	5+	5+	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	SLATE	Retired	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090347983	PRV70000061868	2	Owned	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	SLATE	Housewife/Househusband	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090347991	CHU70000015102	2	Mortgaged	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	ASPHALT	Retired	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090348007	CHU70000015113	2	Owned	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	CONCRETE	Full time education (student)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090348015	PRV70000061964	2	Owned	5+	5+	House	End-Terraced House	Concrete		None	NOT_LIS	SLATE	Voluntary	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090348023	CHU70000015032	2	Owned	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	CONCRETE	Voluntary	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090348031	PRV70000061959	2	Mortgaged	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	TILE	Self-employed (full time)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090348049	CHU70000015126	2	Mortgaged	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	ASPHALT	Not employed due to disability	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090348056	CHU70000015073	2	Mortgaged	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	TILE	Housewife/Househusband	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090348064	PRV70000061983	2	Mortgaged	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	ASPHALT	Not employed due to disability	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090348072	PRV70000061893	2	Owned	5+	5+	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	SLATE	Not employed due to disability	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090348080	CHU70000015071	2	Owned	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	CONCRETE	Retired	1970		250	100	350	1000	450	57	1	2	3	0	1	0	None	14	699.00	0.00	20+	4
+	8090348098	CHU70000015052	2	Mortgaged	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	TILE	Not employed due to disability	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090348106	PRV70000061968	2	Owned	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090348114	PRV70000061988	2	Owned	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	CONCRETE	Self-employed (full time)	1970		250	100	350	1000	550	57	3	2	3	0	1	0	None	14	699.00	0.00	20+	4
+	8090348122	CHU70000015101	2	Owned	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090348130	CHU70000014773	2	Mortgaged	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	TILE	Employed (Full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090348148	PRV70000061933	2	Mortgaged	5+	5+	House	Detached House	Concrete		None	NOT_LIS	ASPHALT	Voluntary	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090348155	CHU70000014953	2	Owned	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	SLATE	Full time education (student)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090348163	PRV70000061888	2	Owned	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090348171	PRV70000062003	2	Owned	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	SLATE	Voluntary	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090348189	PRV70000061839	2	Owned	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	SLATE	Unemployed	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090348205	CHU70000015027	2	Mortgaged	5+	5+	House	Detached House	Concrete		None	NOT_LIS	TILE	Housewife/Househusband	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090348213	PRV70000061994	2	Mortgaged	5+	5+	Town House	Detached Town House	Concrete		None	NOT_LIS	TILE	Voluntary	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090348221	CHU70000014979	2	Mortgaged	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	TILE	Voluntary	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090348239	PRV70000061986	2	Owned	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	SLATE	Unemployed	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090348247	CHU70000015067	2	Mortgaged	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	TILE	Unemployed	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090348254	PRV70000061928	2	Owned	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090348262	PRV70000061978	2	Mortgaged	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	ASPHALT	Self-employed (full time)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090348270	CHU70000015151	2	Owned	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	CONCRETE	Unemployed	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090348288	PRV70000061949	2	Owned	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	CONCRETE	Self-employed (full time)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090348296	PRV70000061847	2	Owned	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	SLATE	Full time education (student)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090348304	PRV70000061889	2	Mortgaged	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	ASPHALT	Retired	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090348312	CHU70000015094	2	Owned	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	CONCRETE	Independent Means	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090348320	PRV70000061633	2	Mortgaged	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	TILE	Full time education (student)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090348346	CHU70000015158	2	Owned	5+	5+	Flat	Flat - Basement	Stone Construction		None	NOT_LIS	SLATE	Not employed due to disability	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090348353	CHU70000015139	2	Mortgaged	5+	5+	Town House	Detached Town House	Concrete		None	NOT_LIS	TILE	Voluntary	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090348361	PRV70000061898	2	Mortgaged	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	ASPHALT	Self-employed (full time)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090348379	CHU70000015136	2	Mortgaged	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	ASPHALT	Independent Means	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090348387	CHU70000015022	2	Mortgaged	5+	5+	Flat	Flat - Basement	Stone Construction		None	NOT_LIS	TILE	Unemployed	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090348395	PRV70000061973	2	Owned	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	SLATE	Not employed due to disability	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090348403	CHU70000015016	2	Mortgaged	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	TILE	Independent Means	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090348411	PRV70000062019	2	Mortgaged	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	TILE	Full time education (student)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090348429	CHU70000014951	2	Owned	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	CONCRETE	Not employed due to disability	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090348437	CHU70000015149	2	Owned	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	SLATE	Voluntary	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090348445	CHU70000015050	2	Owned	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	CONCRETE	Independent Means	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090348452	PRV70000061909	2	Mortgaged	5+	5+	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Retired	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090348460	CHU70000015112	2	Mortgaged	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	ASPHALT	Voluntary	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090348478	PRV70000061851	2	Owned	5+	5+	Flat	Flat - Basement	Stone Construction		None	NOT_LIS	SLATE	Retired	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090348486	CHU70000014586	2	Mortgaged	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	TILE	Full time education (student)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090348494	PRV70000061996	2	Mortgaged	5+	5+	Flat	Flat - Basement	Stone Construction		None	NOT_LIS	ASPHALT	Unemployed	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090348502	CHU70000015100	2	Mortgaged	5+	5+	House	Detached House	Concrete		None	NOT_LIS	TILE	Employed (Full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090348510	PRV70000061917	2	Mortgaged	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	TILE	Self-employed (full time)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090348528	CHU70000014946	2	Mortgaged	5+	5+	House	Detached House	Concrete		None	NOT_LIS	ASPHALT	Employed (Full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090348536	CHU70000015000	2	Mortgaged	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	TILE	Employed (Full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090348544	PRV70000061906	2	Owned	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	SLATE	Unemployed	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090348569	CHU70000015020	2	Mortgaged	5+	5+	Town House	Detached Town House	Concrete		None	NOT_LIS	ASPHALT	Voluntary	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090348577	PRV70000061944	2	Owned	5+	5+	Town House	Detached Town House	Concrete		None	NOT_LIS	CONCRETE	Voluntary	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090348585	PRV70000061925	2	Mortgaged	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	ASPHALT	Full time education (student)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090348593	CHU70000015107	2	Owned	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	SLATE	Not employed due to disability	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090348601	CHU70000015082	2	Mortgaged	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	TILE	Retired	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090348619	PRV70000061956	2	Owned	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	SLATE	Full time education (student)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090348627	CHU70000014947	2	Owned	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	CONCRETE	Self-employed (full time)	1970		250	100	350	2000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090348635	PRV70000061981	2	Mortgaged	5+	5+	House	End-Terraced House	Concrete		None	NOT_LIS	TILE	Housewife/Househusband	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090348643	CHU70000015142	2	Owned	5+	5+	House	End-Terraced House	Concrete		None	NOT_LIS	CONCRETE	Employed (Full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090348650	PRV70000061864	2	Owned	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	SLATE	Unemployed	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090348668	CHU70000014752	2	Mortgaged	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	TILE	Full time education (student)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090348676	PRV70000061871	2	Mortgaged	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	TILE	Voluntary	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090348684	PRV70000061605	2	Mortgaged	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	TILE	Not employed due to disability	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090348692	CHU70000015039	2	Mortgaged	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	ASPHALT	Independent Means	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090348700	PRV70000061863	2	Mortgaged	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	TILE	Full time education (student)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090348718	PRV70000062006	2	Mortgaged	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	TILE	Employed (Full time)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090348726	PRV70000061919	2	Owned	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	SLATE	Retired	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090348742	PRV70000061915	2	Mortgaged	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	ASPHALT	Unemployed	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090348767	PRV70000061955	2	Mortgaged	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	TILE	Voluntary	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090348775	PRV70000061934	2	Owned	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	CONCRETE	Full time education (student)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090348783	PRV70000061417	2	Mortgaged	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	TILE	Full time education (student)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090348791	PRV70000062016	2	Owned	5+	5+	House	Detached House	Concrete		None	NOT_LIS	SLATE	Employed (Full time)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090348809	PRV70000061966	2	Owned	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	CONCRETE	Unemployed	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090348817	PRV70000061916	2	Owned	5+	5+	House	Detached House	Concrete		None	NOT_LIS	CONCRETE	Employed (Full time)	1970		250	100	350	2000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090348825	PRV70000061937	2	Owned	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	SLATE	Employed (Full time)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090348833	CHU70000014972	2	Owned	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	SLATE	Unemployed	1970		250	100	350	1000	450	57	1	2	4	0	0	0	None	14	699.00	0.00	20+	2
+	8090348841	PRV70000061961	2	Mortgaged	5+	5+	Town House	Detached Town House	Concrete		None	NOT_LIS	ASPHALT	Housewife/Househusband	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090348858	PRV70000061967	2	Mortgaged	5+	5+	House	Detached House	Concrete		None	NOT_LIS	TILE	Employed (Full time)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090348866	CHU70000014986	2	Owned	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	CONCRETE	Independent Means	1970		250	100	350	1000	450	57	1	2	4	0	0	0	None	14	699.00	0.00	20+	4
+	8090348874	PRV70000061914	2	Owned	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	SLATE	Full time education (student)	1970		250	100	350	1000	550	57	3	2	3	0	1	0	None	14	699.00	0.00	20+	2
+	8090348882	PRV70000061979	2	Owned	5+	5+	Flat	Flat - Basement	Stone Construction		None	NOT_LIS	CONCRETE	Retired	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090348890	PRV70000061946	2	Owned	5+	5+	Flat	Flat - Basement	Stone Construction		None	NOT_LIS	SLATE	Unemployed	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090348908	PRV70000061954	2	Owned	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	CONCRETE	Not employed due to disability	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090348916	PRV70000061597	2	Mortgaged	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	TILE	Voluntary	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090348924	PRV70000061613	2	Mortgaged	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	TILE	Independent Means	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090348932	PRV70000061943	2	Mortgaged	5+	5+	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	ASPHALT	Not employed due to disability	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090348940	PRV70000062004	2	Mortgaged	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	ASPHALT	Full time education (student)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090348957	PRV70000061927	2	Mortgaged	5+	5+	Town House	Detached Town House	Concrete		None	NOT_LIS	TILE	Employed (Full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090348965	PRV70000061852	2	Mortgaged	5+	5+	House	End-Terraced House	Concrete		None	NOT_LIS	ASPHALT	Housewife/Househusband	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090348973	PRV70000062017	2	Mortgaged	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	ASPHALT	Self-employed (full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090348981	PRV70000062010	2	Owned	5+	5+	Town House	Detached Town House	Concrete		None	NOT_LIS	CONCRETE	Housewife/Househusband	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090348999	CHU70000014811	2	Mortgaged	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	TILE	Not employed due to disability	1970		250	100	350	1000	450	57	1	2	4	0	0	0	None	14	699.00	0.00	20+	1
+	8090349005	PRV70000061972	2	Mortgaged	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	TILE	Independent Means	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090349013	PRV70000062002	2	Mortgaged	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	TILE	Not employed due to disability	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090349021	PRV70000061892	2	Mortgaged	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	TILE	Independent Means	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090349039	PRV70000061419	2	Mortgaged	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	TILE	Full time education (student)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090349047	PRV70000061931	2	Mortgaged	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	TILE	Independent Means	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090349054	PRV70000061945	2	Mortgaged	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	TILE	Full time education (student)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090349062	PRV70000062014	2	Owned	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	CONCRETE	Full time education (student)	1970		250	100	350	2000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090349070	PRV70000061883	2	Owned	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	CONCRETE	Unemployed	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090349088	PRV70000062008	2	Mortgaged	5+	5+	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	ASPHALT	Retired	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090349096	PRV70000061846	2	Mortgaged	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	TILE	Voluntary	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090349104	PRV70000061977	2	Owned	5+	5+	Town House	Detached Town House	Concrete		None	NOT_LIS	SLATE	Employed (Full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090349112	PRV70000061995	2	Owned	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	SLATE	Full time education (student)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090349120	PRV70000061609	2	Mortgaged	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	TILE	Employed (Full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090349138	PRV70000062005	2	Owned	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	CONCRETE	Unemployed	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090349146	PRV70000061989	2	Mortgaged	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	TILE	Retired	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090349153	PRV70000061913	2	Mortgaged	5+	5+	House	End-Terraced House	Concrete		None	NOT_LIS	TILE	Voluntary	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090349161	PRV70000061901	2	Owned	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	SLATE	Independent Means	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090349179	PRV70000061866	2	Owned	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	CONCRETE	Self-employed (full time)	1970		250	100	350	2000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090349187	PRV70000061904	2	Owned	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	CONCRETE	Voluntary	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090349195	PRV70000061878	2	Owned	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	CONCRETE	Independent Means	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090349203	PRV70000061958	2	Owned	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	CONCRETE	Employed (Full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	4
+	8090349211	PRV70000061987	2	Mortgaged	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	ASPHALT	Employed (Full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	3
+	8090349229	PRV70000061923	2	Mortgaged	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	TILE	Not employed due to disability	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090349237	PRV70000061588	2	Mortgaged	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	TILE	Retired	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090349245	PRV70000061942	2	Owned	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	SLATE	Independent Means	1970		250	100	350	2000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	2
+	8090349252	PRV70000061998	2	Mortgaged	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	TILE	Self-employed (full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	20+	1
+	8090350524	PRV60000062573	2	Owned	2		House	Detached House	Brick		None	NOT_LIS	TILE	Employed (Full time)	1995		150	100	250	1000	550	34	1	1	4	0	0	0	None	14	699.00	0.00	0	4
+	8090350557	PRV60000062575	2	Owned		2	Flat	Flat - First Floor and Above	Brick		None	NOT_LIS	TILE	Retired	1956		150	100	250	1000	550	34	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090350565	PRV60000062579	2	Owned	2	2	Flat	Flat - Ground Floor	Brick		None	NOT_LIS	TILE	Employed (Full time)	1970		150	100	250	1000	550	34	3	1	4	0	0	0	None	14	699.00	0.00	0	2
+	8090350615	PRV60000062597	2	Owned	2		Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	TILE	Retired	1955		150	100	250	1000	550	34	3	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090350623	PRV60000062599	2	Owned		2	House	Semi-Detached House	Brick		None	NOT_LIS	TILE	Employed (Full time)	1958		150	100	250	1000	550	34	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090350656	PRV60000062606	2	Owned	2	2	House	Semi-Detached House	Brick		None	NOT_LIS	TILE	Employed (Full time)	2006		150	100	250	1000	550	34	3	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090350680	PRV60000062609	2	Owned	2		House	Semi-Detached House	Brick		None	NOT_LIS	TILE	Employed (Full time)	1955		150	100	250	1000	550	34	1	1	3	0	0	0	None	14	699.00	0.00	0	3
+	8090350722	PRV60000062617	2	Owned	2	2	House	End-Terraced House	Brick		None	NOT_LIS	TILE	Employed (Full time)	1775		150	100	250	1000	550	34	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090352603	PRV70000062866	2	Mortgaged	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	TILE	Full time education (student)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090352629	PRV70000062869	2	Mortgaged	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	TILE	Full time education (student)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090352637	PRV70000062870	2	Owned	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	SLATE	Unemployed	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090352645	PRV70000062871	2	Mortgaged	5+	5+	House	Detached House	Concrete		None	NOT_LIS	ASPHALT	Employed (Full time)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090352652	PRV70000062872	2	Owned	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	CONCRETE	Self-employed (full time)	1970		250	100	350	2000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090352660	PRV70000062873	2	Mortgaged	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	TILE	Retired	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090352678	PRV70000062874	2	Owned	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	SLATE	Housewife/Househusband	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090352686	PRV70000062875	2	Mortgaged	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	ASPHALT	Independent Means	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090352694	PRV70000062876	2	Owned	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	CONCRETE	Not employed due to disability	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090352702	PRV70000062877	2	Mortgaged	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	TILE	Voluntary	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090352710	PRV70000062878	2	Owned	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	SLATE	Full time education (student)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090352728	PRV70000062879	2	Mortgaged	5+	5+	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	ASPHALT	Unemployed	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090352736	PRV70000062880	2	Owned	5+	5+	Town House	Detached Town House	Concrete		None	NOT_LIS	CONCRETE	Employed (Full time)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090352744	PRV70000062881	2	Mortgaged	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	TILE	Self-employed (full time)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090352751	PRV70000062882	2	Owned	5+	5+	Flat	Flat - Basement	Stone Construction		None	NOT_LIS	SLATE	Retired	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090352769	PRV70000062883	2	Mortgaged	5+	5+	House	End-Terraced House	Concrete		None	NOT_LIS	ASPHALT	Housewife/Househusband	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090352777	PRV70000062884	2	Owned	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	CONCRETE	Independent Means	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090352785	PRV70000062885	2	Mortgaged	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	TILE	Not employed due to disability	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090352793	PRV70000062886	2	Owned	5+	5+	House	Detached House	Concrete		None	NOT_LIS	SLATE	Voluntary	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090352801	PRV70000062887	2	Mortgaged	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	ASPHALT	Full time education (student)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090352819	PRV70000062888	2	Owned	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	CONCRETE	Unemployed	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090352827	PRV70000062889	2	Mortgaged	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	TILE	Employed (Full time)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090352835	PRV70000062890	2	Owned	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090352843	PRV70000062891	2	Mortgaged	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	ASPHALT	Retired	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090352850	PRV70000062892	2	Owned	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	CONCRETE	Housewife/Househusband	1970		250	100	350	1000	550	57	3	2	3	0	1	0	None	14	699.00	0.00	0	4
+	8090352868	PRV70000062893	2	Mortgaged	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	TILE	Independent Means	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090352876	PRV70000062894	2	Owned	5+	5+	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	SLATE	Not employed due to disability	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090352884	PRV70000062895	2	Mortgaged	5+	5+	Town House	Detached Town House	Concrete		None	NOT_LIS	ASPHALT	Voluntary	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090352892	PRV70000062896	2	Owned	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	CONCRETE	Full time education (student)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090352900	PRV70000062898	2	Mortgaged	5+	5+	Flat	Flat - Basement	Stone Construction		None	NOT_LIS	TILE	Unemployed	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090352918	PRV70000062899	2	Owned	5+	5+	House	End-Terraced House	Concrete		None	NOT_LIS	SLATE	Employed (Full time)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090352926	PRV70000062900	2	Mortgaged	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	ASPHALT	Self-employed (full time)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090352934	PRV70000062901	2	Owned	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	CONCRETE	Retired	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090352942	PRV70000062902	2	Mortgaged	5+	5+	House	Detached House	Concrete		None	NOT_LIS	TILE	Housewife/Househusband	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090352959	PRV70000062903	2	Owned	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	SLATE	Independent Means	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090352967	PRV70000062904	2	Mortgaged	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	ASPHALT	Not employed due to disability	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090352975	PRV70000062905	2	Owned	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	CONCRETE	Voluntary	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090352983	PRV70000062906	2	Mortgaged	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	TILE	Full time education (student)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090353007	PRV70000062907	2	Owned	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	SLATE	Unemployed	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090353015	PRV70000062908	2	Mortgaged	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	ASPHALT	Employed (Full time)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090353023	PRV70000062909	2	Owned	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	CONCRETE	Self-employed (full time)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090353031	PRV70000062910	2	Mortgaged	5+	5+	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Retired	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090353049	PRV70000062911	2	Owned	5+	5+	Town House	Detached Town House	Concrete		None	NOT_LIS	SLATE	Housewife/Househusband	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090353064	PRV70000062912	2	Mortgaged	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	ASPHALT	Independent Means	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090353072	PRV70000062913	2	Owned	5+	5+	Flat	Flat - Basement	Stone Construction		None	NOT_LIS	CONCRETE	Not employed due to disability	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090353080	PRV70000062914	2	Mortgaged	5+	5+	House	End-Terraced House	Concrete		None	NOT_LIS	TILE	Voluntary	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090353098	PRV70000062915	2	Owned	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	SLATE	Full time education (student)	1970		250	100	350	1000	550	57	3	2	3	0	1	0	None	14	699.00	0.00	0	2
+	8090353106	PRV70000062916	2	Mortgaged	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	ASPHALT	Unemployed	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090353114	PRV70000062917	2	Owned	5+	5+	House	Detached House	Concrete		None	NOT_LIS	CONCRETE	Employed (Full time)	1970		250	100	350	2000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090353122	PRV70000062918	2	Mortgaged	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	TILE	Self-employed (full time)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090353130	PRV70000062919	2	Owned	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	SLATE	Retired	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090353148	PRV70000062920	2	Mortgaged	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	ASPHALT	Housewife/Househusband	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090353163	PRV70000062921	2	Owned	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	CONCRETE	Independent Means	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090353171	PRV70000062922	2	Mortgaged	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	TILE	Not employed due to disability	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090353189	PRV70000062923	2	Owned	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	SLATE	Voluntary	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090353197	PRV70000062924	2	Mortgaged	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	ASPHALT	Full time education (student)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090353205	PRV70000062925	2	Owned	5+	5+	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	CONCRETE	Unemployed	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090353221	PRV70000062926	2	Mortgaged	5+	5+	Town House	Detached Town House	Concrete		None	NOT_LIS	TILE	Employed (Full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090353239	PRV70000062927	2	Owned	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090353247	PRV70000062928	2	Mortgaged	5+	5+	Flat	Flat - Basement	Stone Construction		None	NOT_LIS	ASPHALT	Retired	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090353254	PRV70000062929	2	Owned	5+	5+	House	End-Terraced House	Concrete		None	NOT_LIS	CONCRETE	Housewife/Househusband	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090353262	PRV70000062930	2	Mortgaged	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	TILE	Independent Means	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090353270	PRV70000062931	2	Owned	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	SLATE	Not employed due to disability	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090353288	PRV70000062932	2	Mortgaged	5+	5+	House	Detached House	Concrete		None	NOT_LIS	ASPHALT	Voluntary	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090353296	PRV70000062933	2	Owned	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	CONCRETE	Full time education (student)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090353304	PRV70000062934	2	Mortgaged	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	TILE	Unemployed	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090353320	PRV70000062935	2	Owned	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	SLATE	Employed (Full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090353338	PRV70000062936	2	Mortgaged	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	ASPHALT	Self-employed (full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090353346	PRV70000062937	2	Owned	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	CONCRETE	Retired	1970		250	100	350	1000	550	57	1	2	3	0	1	0	None	14	699.00	0.00	0	4
+	8090353353	PRV70000062938	2	Mortgaged	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	TILE	Housewife/Househusband	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090353361	PRV70000062939	2	Owned	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	SLATE	Independent Means	1970		250	100	350	2000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090353379	PRV70000062940	2	Mortgaged	5+	5+	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	ASPHALT	Not employed due to disability	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090353387	PRV70000062941	2	Owned	5+	5+	Town House	Detached Town House	Concrete		None	NOT_LIS	CONCRETE	Voluntary	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090353395	PRV70000062942	2	Mortgaged	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	TILE	Full time education (student)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090353403	PRV70000062943	2	Owned	5+	5+	Flat	Flat - Basement	Stone Construction		None	NOT_LIS	SLATE	Unemployed	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090353411	PRV70000062944	2	Mortgaged	5+	5+	House	End-Terraced House	Concrete		None	NOT_LIS	ASPHALT	Employed (Full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090353429	PRV70000062945	2	Owned	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	CONCRETE	Self-employed (full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090353445	PRV70000062946	2	Mortgaged	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	TILE	Retired	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14			0	1
+	8090353452	PRV70000062947	2	Owned	5+	5+	House	Detached House	Concrete		None	NOT_LIS	SLATE	Housewife/Househusband	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090353460	PRV70000062948	2	Mortgaged	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	ASPHALT	Independent Means	1970		250	100	350	1000	550	57	1	2	3	0	1	0	None	14	699.00	0.00	0	3
+	8090353478	PRV70000062949	2	Owned	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	CONCRETE	Not employed due to disability	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090353486	PRV70000062950	2	Mortgaged	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	TILE	Voluntary	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090353577	PRV70000062951	2	Owned	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	SLATE	Full time education (student)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090353635	PRV70000062952	2	Mortgaged	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	ASPHALT	Unemployed	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090353650	PRV70000062953	2	Owned	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	CONCRETE	Employed (Full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090353700	PRV70000062954	2	Mortgaged	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	TILE	Self-employed (full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090353718	PRV70000062955	2	Owned	5+	5+	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	SLATE	Retired	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090353767	PRV70000062956	2	Mortgaged	5+	5+	Town House	Detached Town House	Concrete		None	NOT_LIS	ASPHALT	Housewife/Househusband	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090353817	PRV70000062957	2	Owned	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	CONCRETE	Independent Means	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090353882	PRV70000062958	2	Mortgaged	5+	5+	Flat	Flat - Basement	Stone Construction		None	NOT_LIS	TILE	Not employed due to disability	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090353940	PRV70000062959	2	Owned	5+	5+	House	End-Terraced House	Concrete		None	NOT_LIS	SLATE	Voluntary	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090353999	PRV70000062960	2	Mortgaged	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	ASPHALT	Full time education (student)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090354039	PRV70000062961	2	Owned	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	CONCRETE	Unemployed	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090354088	PRV70000062962	2	Mortgaged	5+	5+	House	Detached House	Concrete		None	NOT_LIS	TILE	Employed (Full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090354112	PRV70000062963	2	Owned	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090354146	PRV70000062964	2	Mortgaged	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	ASPHALT	Retired	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090354161	PRV70000062965	2	Owned	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	CONCRETE	Housewife/Househusband	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090354187	PRV70000062966	2	Mortgaged	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	TILE	Independent Means	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090354203	PRV70000062967	2	Owned	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	SLATE	Not employed due to disability	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090354229	PRV70000062968	2	Mortgaged	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	ASPHALT	Voluntary	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090354237	PRV70000062969	2	Owned	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	CONCRETE	Full time education (student)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090354252	PRV70000062970	2	Mortgaged	5+	5+	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Unemployed	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090354260	PRV70000062971	2	Owned	5+	5+	Town House	Detached Town House	Concrete		None	NOT_LIS	SLATE	Employed (Full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090354286	PRV70000062972	2	Mortgaged	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	ASPHALT	Self-employed (full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090354294	PRV70000062973	2	Owned	5+	5+	Flat	Flat - Basement	Stone Construction		None	NOT_LIS	CONCRETE	Retired	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090354310	PRV70000062974	2	Mortgaged	5+	5+	House	End-Terraced House	Concrete		None	NOT_LIS	TILE	Housewife/Househusband	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090354328	PRV70000062975	2	Owned	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	SLATE	Independent Means	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090354344	PRV70000062976	2	Mortgaged	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	ASPHALT	Not employed due to disability	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090354351	PRV70000062977	2	Owned	5+	5+	House	Detached House	Concrete		None	NOT_LIS	CONCRETE	Voluntary	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090354377	PRV70000062978	2	Mortgaged	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	TILE	Full time education (student)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090354385	PRV70000062979	2	Owned	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	SLATE	Unemployed	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090354401	PRV70000062980	2	Mortgaged	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	ASPHALT	Employed (Full time)	1970		250	100	350	1000	550	57	1	2	4	0	0	0	None	14	699.00	0.00	0	3
+	8090354427	PRV70000062981	2	Owned	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	CONCRETE	Self-employed (full time)	1970		250	100	350	1000	550	57	1	2	4	0	1	0	None	14	699.00	0.00	0	4
+	8090354443	PRV70000062982	2	Mortgaged	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	TILE	Retired	1970		250	100	350	1000	550	57	1	2	4	0	0	0	None	14	699.00	0.00	0	1
+	8090354484	PRV70000062983	2	Owned	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	SLATE	Housewife/Househusband	1970		250	100	350	1000	550	57	1	2	4	0	0	0	None	14	699.00	0.00	0	2
+	8090354500	PRV70000062984	2	Mortgaged	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	ASPHALT	Independent Means	1970		250	100	350	1000	550	57	1	2	4	0	0	0	None	14	699.00	0.00	0	3
+	8090354518	PRV70000062985	2	Owned	5+	5+	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	CONCRETE	Not employed due to disability	1970		250	100	350	1000	550	57	1	2	4	0	0	0	None	14	699.00	0.00	0	4
+	8090355259	CHU70000016173	2	Mortgaged	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	TILE	Full time education (student)	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090355267	CHU70000016177	2	Mortgaged	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	TILE	Full time education (student)	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090355275	CHU70000016178	2	Owned	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	SLATE	Unemployed	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090355309	CHU70000016179	2	Mortgaged	5+	5+	House	Detached House	Concrete		None	NOT_LIS	ASPHALT	Employed (Full time)	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090355317	CHU70000016180	2	Owned	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	CONCRETE	Self-employed (full time)	1970		250	100	350	2000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090355325	CHU70000016181	2	Mortgaged	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	TILE	Retired	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090355333	CHU70000016182	2	Owned	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	SLATE	Housewife/Househusband	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090355341	CHU70000016183	2	Mortgaged	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	ASPHALT	Independent Means	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090355358	CHU70000016184	2	Owned	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	CONCRETE	Not employed due to disability	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090355366	CHU70000016185	2	Mortgaged	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	TILE	Voluntary	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090355374	CHU70000016186	2	Owned	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	SLATE	Full time education (student)	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090355390	CHU70000016187	2	Mortgaged	5+	5+	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	ASPHALT	Unemployed	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090355416	CHU70000016188	2	Owned	5+	5+	Town House	Detached Town House	Concrete		None	NOT_LIS	CONCRETE	Employed (Full time)	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090355424	CHU70000016189	2	Mortgaged	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	TILE	Self-employed (full time)	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090355432	CHU70000016190	2	Owned	5+	5+	Flat	Flat - Basement	Stone Construction		None	NOT_LIS	SLATE	Retired	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090355440	CHU70000016191	2	Mortgaged	5+	5+	House	End-Terraced House	Concrete		None	NOT_LIS	ASPHALT	Housewife/Househusband	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090355457	CHU70000016192	2	Owned	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	CONCRETE	Independent Means	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090355465	CHU70000016193	2	Mortgaged	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	TILE	Not employed due to disability	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090355481	CHU70000016194	2	Owned	5+	5+	House	Detached House	Concrete		None	NOT_LIS	SLATE	Voluntary	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090355499	CHU70000016195	2	Mortgaged	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	ASPHALT	Full time education (student)	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090355507	CHU70000016196	2	Owned	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	CONCRETE	Unemployed	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090355515	CHU70000016197	2	Mortgaged	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	TILE	Employed (Full time)	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090355531	CHU70000016198	2	Owned	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090355549	CHU70000016199	2	Mortgaged	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	ASPHALT	Retired	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090355556	CHU70000016200	2	Owned	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	CONCRETE	Housewife/Househusband	1970		250	100	350	1000	450	57	3	2	3	0	1	0	None	14	699.00	0.00	0	4
+	8090355572	CHU70000016201	2	Mortgaged	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	TILE	Independent Means	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090355580	CHU70000016202	2	Owned	5+	5+	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	SLATE	Not employed due to disability	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090355598	CHU70000016203	2	Mortgaged	5+	5+	Town House	Detached Town House	Concrete		None	NOT_LIS	ASPHALT	Voluntary	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090355606	CHU70000016204	2	Owned	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	CONCRETE	Full time education (student)	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090355622	CHU70000016206	2	Mortgaged	5+	5+	Flat	Flat - Basement	Stone Construction		None	NOT_LIS	TILE	Unemployed	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090355648	CHU70000016207	2	Owned	5+	5+	House	End-Terraced House	Concrete		None	NOT_LIS	SLATE	Employed (Full time)	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090355655	CHU70000016208	2	Mortgaged	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	ASPHALT	Self-employed (full time)	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090355671	CHU70000016209	2	Owned	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	CONCRETE	Retired	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090355689	CHU70000016210	2	Mortgaged	5+	5+	House	Detached House	Concrete		None	NOT_LIS	TILE	Housewife/Househusband	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090355697	CHU70000016211	2	Owned	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	SLATE	Independent Means	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090355739	CHU70000016212	2	Mortgaged	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	ASPHALT	Not employed due to disability	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090355747	CHU70000016213	2	Owned	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	CONCRETE	Voluntary	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090355770	CHU70000016214	2	Mortgaged	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	TILE	Full time education (student)	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090355788	CHU70000016215	2	Owned	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	SLATE	Unemployed	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090355812	CHU70000016216	2	Mortgaged	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	ASPHALT	Employed (Full time)	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090355838	CHU70000016217	2	Owned	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	CONCRETE	Self-employed (full time)	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090355853	CHU70000016218	2	Mortgaged	5+	5+	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Retired	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090355861	CHU70000016219	2	Owned	5+	5+	Town House	Detached Town House	Concrete		None	NOT_LIS	SLATE	Housewife/Househusband	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090355895	CHU70000016220	2	Mortgaged	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	ASPHALT	Independent Means	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090355911	CHU70000016221	2	Owned	5+	5+	Flat	Flat - Basement	Stone Construction		None	NOT_LIS	CONCRETE	Not employed due to disability	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090355929	CHU70000016222	2	Mortgaged	5+	5+	House	End-Terraced House	Concrete		None	NOT_LIS	TILE	Voluntary	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090355952	CHU70000016223	2	Owned	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	SLATE	Full time education (student)	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090355978	CHU70000016224	2	Mortgaged	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	ASPHALT	Unemployed	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090355994	CHU70000016225	2	Owned	5+	5+	House	Detached House	Concrete		None	NOT_LIS	CONCRETE	Employed (Full time)	1970		250	100	350	2000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090356000	CHU70000016226	2	Mortgaged	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	TILE	Self-employed (full time)	1970		250	100	350	1000	450	57	3	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090356018	CHU70000016227	2	Owned	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	SLATE	Retired	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090356034	CHU70000016228	2	Mortgaged	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	ASPHALT	Housewife/Househusband	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090356042	CHU70000016229	2	Owned	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	CONCRETE	Independent Means	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090356059	CHU70000016230	2	Mortgaged	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	TILE	Not employed due to disability	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090356067	CHU70000016231	2	Owned	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	SLATE	Voluntary	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090356083	CHU70000016232	2	Mortgaged	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	ASPHALT	Full time education (student)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090356109	CHU70000016233	2	Owned	5+	5+	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	CONCRETE	Unemployed	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090356117	CHU70000016234	2	Mortgaged	5+	5+	Town House	Detached Town House	Concrete		None	NOT_LIS	TILE	Employed (Full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090356125	CHU70000016235	2	Owned	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090356133	CHU70000016236	2	Mortgaged	5+	5+	Flat	Flat - Basement	Stone Construction		None	NOT_LIS	ASPHALT	Retired	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090356141	CHU70000016237	2	Owned	5+	5+	House	End-Terraced House	Concrete		None	NOT_LIS	CONCRETE	Housewife/Househusband	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090356166	CHU70000016238	2	Mortgaged	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	TILE	Independent Means	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090356174	CHU70000016239	2	Owned	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	SLATE	Not employed due to disability	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090356182	CHU70000016240	2	Mortgaged	5+	5+	House	Detached House	Concrete		None	NOT_LIS	ASPHALT	Voluntary	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090356208	CHU70000016241	2	Owned	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	CONCRETE	Full time education (student)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090356216	CHU70000016242	2	Mortgaged	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	TILE	Unemployed	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090356224	CHU70000016243	2	Owned	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	SLATE	Employed (Full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090356232	CHU70000016244	2	Mortgaged	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	ASPHALT	Self-employed (full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090356240	CHU70000016245	2	Owned	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	CONCRETE	Retired	1970		250	100	350	1000	450	57	1	2	3	0	1	0	None	14	699.00	0.00	0	4
+	8090356257	CHU70000016246	2	Mortgaged	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	TILE	Housewife/Househusband	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090356265	CHU70000016247	2	Owned	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	SLATE	Independent Means	1970		250	100	350	2000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090356281	CHU70000016248	2	Mortgaged	5+	5+	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	ASPHALT	Not employed due to disability	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090356307	CHU70000016249	2	Owned	5+	5+	Town House	Detached Town House	Concrete		None	NOT_LIS	CONCRETE	Voluntary	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090356315	CHU70000016250	2	Mortgaged	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	TILE	Full time education (student)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090356323	CHU70000016251	2	Owned	5+	5+	Flat	Flat - Basement	Stone Construction		None	NOT_LIS	SLATE	Unemployed	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090356331	CHU70000016252	2	Mortgaged	5+	5+	House	End-Terraced House	Concrete		None	NOT_LIS	ASPHALT	Employed (Full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090356349	CHU70000016253	2	Owned	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	CONCRETE	Self-employed (full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090356372	CHU70000016254	2	Mortgaged	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	TILE	Retired	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14			0	1
+	8090356380	CHU70000016255	2	Owned	5+	5+	House	Detached House	Concrete		None	NOT_LIS	SLATE	Housewife/Househusband	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090356406	CHU70000016256	2	Mortgaged	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	ASPHALT	Independent Means	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090356414	CHU70000016257	2	Owned	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	CONCRETE	Not employed due to disability	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090356430	CHU70000016258	2	Mortgaged	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	TILE	Voluntary	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090356455	CHU70000016259	2	Owned	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	SLATE	Full time education (student)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090356463	CHU70000016260	2	Mortgaged	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	ASPHALT	Unemployed	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090356471	CHU70000016261	2	Owned	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	CONCRETE	Employed (Full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090356497	CHU70000016262	2	Mortgaged	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	TILE	Self-employed (full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090356505	CHU70000016263	2	Owned	5+	5+	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	SLATE	Retired	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090356521	CHU70000016264	2	Mortgaged	5+	5+	Town House	Detached Town House	Concrete		None	NOT_LIS	ASPHALT	Housewife/Househusband	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090356547	CHU70000016265	2	Owned	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	CONCRETE	Independent Means	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090356570	CHU70000016266	2	Mortgaged	5+	5+	Flat	Flat - Basement	Stone Construction		None	NOT_LIS	TILE	Not employed due to disability	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090356588	CHU70000016267	2	Owned	5+	5+	House	End-Terraced House	Concrete		None	NOT_LIS	SLATE	Voluntary	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090356604	CHU70000016268	2	Mortgaged	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	ASPHALT	Full time education (student)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090356620	CHU70000016269	2	Owned	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	CONCRETE	Unemployed	1970		250	100	350	2000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090356638	CHU70000016270	2	Mortgaged	5+	5+	House	Detached House	Concrete		None	NOT_LIS	TILE	Employed (Full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090356646	CHU70000016271	2	Owned	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090356653	CHU70000016272	2	Mortgaged	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	ASPHALT	Retired	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090356679	CHU70000016273	2	Owned	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	CONCRETE	Housewife/Househusband	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090356695	CHU70000016274	2	Mortgaged	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	TILE	Independent Means	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090356703	CHU70000016275	2	Owned	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	SLATE	Not employed due to disability	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090356729	CHU70000016276	2	Mortgaged	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	ASPHALT	Voluntary	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090356778	CHU70000016277	2	Owned	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	CONCRETE	Full time education (student)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090356828	CHU70000016278	2	Mortgaged	5+	5+	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Unemployed	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090356836	CHU70000016279	2	Owned	5+	5+	Town House	Detached Town House	Concrete		None	NOT_LIS	SLATE	Employed (Full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090356877	CHU70000016280	2	Mortgaged	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	ASPHALT	Self-employed (full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090356885	CHU70000016281	2	Owned	5+	5+	Flat	Flat - Basement	Stone Construction		None	NOT_LIS	CONCRETE	Retired	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090356901	CHU70000016282	2	Mortgaged	5+	5+	House	End-Terraced House	Concrete		None	NOT_LIS	TILE	Housewife/Househusband	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090356927	CHU70000016283	2	Owned	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	SLATE	Independent Means	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090356943	CHU70000016284	2	Mortgaged	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	ASPHALT	Not employed due to disability	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090356968	CHU70000016285	2	Owned	5+	5+	House	Detached House	Concrete		None	NOT_LIS	CONCRETE	Voluntary	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090356984	CHU70000016286	2	Mortgaged	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	TILE	Full time education (student)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090357032	CHU70000016288	2	Mortgaged	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	ASPHALT	Employed (Full time)	1970		250	100	350	1000	450	57	1	2	4	0	0	0	None	14	699.00	0.00	0	3
+	8090357115	CHU70000016289	2	Owned	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	CONCRETE	Self-employed (full time)	1970		250	100	350	1000	450	57	1	2	4	0	1	0	None	14	699.00	0.00	0	4
+	8090357156	CHU70000016290	2	Mortgaged	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	TILE	Retired	1970		250	100	350	1000	450	57	1	2	4	0	0	0	None	14	699.00	0.00	0	1
+	8090357214	CHU70000016291	2	Owned	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	SLATE	Housewife/Househusband	1970		250	100	350	1000	450	57	1	2	4	0	0	0	None	14	699.00	0.00	0	2
+	8090357255	CHU70000016292	2	Mortgaged	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	ASPHALT	Independent Means	1970		250	100	350	1000	450	57	1	2	4	0	0	0	None	14	699.00	0.00	0	3
+	8090357313	CHU70000016294	2	Mortgaged	5+	5+	Town House	Detached Town House	Concrete		None	NOT_LIS	TILE	Voluntary	1970		250	100	350	1000	450	57	1	2	4	0	0	0	None	14	699.00	0.00	0	1
+	8090357347	CHU70000016295	2	Owned	5+	5+	Town House	Terraced Town House	Brick		None	NOT_LIS	SLATE	Full time education (student)	1970		250	100	350	1000	450	57	1	2	4	0	0	0	None	14	699.00	0.00	0	2
+	8090359251	PRV70000062989	2	Owned		5+	House	End-Terraced House	Concrete		None	NOT_LIS	CONCRETE	Employed (Full time)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	1	4
+	8090359269	PRV70000062990	2	Mortgaged		5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	TILE	Self-employed (full time)	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	1	1
+	8090359285	PRV70000062991	2	Owned		5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	SLATE	Retired	1970		250	100	350	1000	550	57	3	2	3	0	0	0	None	14	699.00	0.00	1	2
+	8090359293	PRV70000062992	2	Mortgaged		5+	House	Detached House	Concrete		None	NOT_LIS	ASPHALT	Housewife/Househusband	1970		250	100	350	1000	550	57	1	2	3	0	1	0	None	14	699.00	0.00	1	3
+	8090359301	PRV70000062993	2	Owned		5+	House	Link Detached House	Brick		None	NOT_LIS	CONCRETE	Independent Means	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	1	4
+	8090359327	PRV70000062994	2	Mortgaged		5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	TILE	Not employed due to disability	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	1	1
+	8090359350	PRV70000062995	2	Owned		5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	SLATE	Voluntary	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	1	2
+	8090359376	PRV70000062996	2	Mortgaged		5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	ASPHALT	Full time education (student)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	1	3
+	8090359392	PRV70000062997	2	Owned	5+		Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	CONCRETE	Unemployed	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	1	4
+	8090359400	PRV70000062998	2	Mortgaged	5+		Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	TILE	Employed (Full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	1	1
+	8090359426	PRV70000062999	2	Owned	5+		Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	1	2
+	8090359434	PRV70000063000	2	Mortgaged	5+		Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	ASPHALT	Retired	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	1	3
+	8090359442	PRV70000063001	2	Owned	5+		Town House	Detached Town House	Concrete		None	NOT_LIS	CONCRETE	Housewife/Househusband	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	1	4
+	8090359467	PRV70000063002	2	Mortgaged	5+		Town House	Terraced Town House	Brick		None	NOT_LIS	TILE	Independent Means	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	1	1
+	8090359475	PRV70000063003	2	Owned	5+		Flat	Flat - Basement	Stone Construction		None	NOT_LIS	SLATE	Not employed due to disability	1970		250	100	350	1000	550	57	1	2	3	0	1	0	None	14	699.00	0.00	1	2
+	8090359483	PRV70000063005	2	Mortgaged	5+		House	End-Terraced House	Concrete		None	NOT_LIS	ASPHALT	Voluntary	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	1	3
+	8090359517	PRV70000063006	2	Owned	5+		Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	CONCRETE	Full time education (student)	1970		250	100	350	2000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	1	4
+	8090359541	PRV70000063007	2	Mortgaged	5+		House	Semi-Detached House	Stone Construction		None	NOT_LIS	TILE	Unemployed	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	1	1
+	8090359558	PRV70000063008	2	Owned	5+		House	Detached House	Concrete		None	NOT_LIS	SLATE	Employed (Full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	1	2
+	8090359574	PRV70000063009	2	Mortgaged	5+		House	Link Detached House	Brick		None	NOT_LIS	ASPHALT	Self-employed (full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	1	3
+	8090359582	CHU70000016297	2	Owned		5+	House	End-Terraced House	Concrete		None	NOT_LIS	CONCRETE	Employed (Full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	1	4
+	8090359590	CHU70000016298	2	Mortgaged		5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	TILE	Self-employed (full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	1	1
+	8090359608	CHU70000016299	2	Owned		5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	SLATE	Retired	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	1	2
+	8090359632	CHU70000016300	2	Mortgaged		5+	House	Detached House	Concrete		None	NOT_LIS	ASPHALT	Housewife/Househusband	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	1	3
+	8090359640	CHU70000016301	2	Owned		5+	House	Link Detached House	Brick		None	NOT_LIS	CONCRETE	Independent Means	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	1	4
+	8090359657	CHU70000016302	2	Mortgaged		5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	TILE	Not employed due to disability	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	1	1
+	8090359665	CHU70000016303	2	Owned		5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	SLATE	Voluntary	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	1	2
+	8090359681	CHU70000016304	2	Mortgaged		5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	ASPHALT	Full time education (student)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	1	3
+	8090359707	CHU70000016305	2	Owned	5+		Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	CONCRETE	Unemployed	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	1	4
+	8090359715	CHU70000016306	2	Mortgaged	5+		Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	TILE	Employed (Full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	1	1
+	8090359723	CHU70000016307	2	Owned	5+		Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	1	2
+	8090359731	CHU70000016308	2	Mortgaged	5+		Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	ASPHALT	Retired	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	1	3
+	8090359749	CHU70000016309	2	Owned	5+		Town House	Detached Town House	Concrete		None	NOT_LIS	CONCRETE	Housewife/Househusband	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	1	4
+	8090359772	CHU70000016310	2	Mortgaged	5+		Town House	Terraced Town House	Brick		None	NOT_LIS	TILE	Independent Means	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	1	1
+	8090359780	CHU70000016311	2	Owned	5+		Flat	Flat - Basement	Stone Construction		None	NOT_LIS	SLATE	Not employed due to disability	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	1	2
+	8090359798	CHU70000016313	2	Mortgaged	5+		House	End-Terraced House	Concrete		None	NOT_LIS	ASPHALT	Voluntary	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	1	3
+	8090359806	CHU70000016314	2	Owned	5+		Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	CONCRETE	Full time education (student)	1970		250	100	350	2000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	1	4
+	8090359822	CHU70000016315	2	Mortgaged	5+		House	Semi-Detached House	Stone Construction		None	NOT_LIS	TILE	Unemployed	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	1	1
+	8090359830	CHU70000016316	2	Owned	5+		House	Detached House	Concrete		None	NOT_LIS	SLATE	Employed (Full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	1	2
+	8090359871	CHU70000016317	2	Mortgaged	5+		House	Link Detached House	Brick		None	NOT_LIS	ASPHALT	Self-employed (full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	1	3
+	8090365399	PRV60000064129	2	Owned		2	House	Semi-Detached House	Brick		None	NOT_LIS	TILE	Retired	1958		150	100	250	1000	550	34	1	1	3	0	0	0	None	14	699.00	0.00	0	3
+	8090365431	PRV60000064132	2	Owned	2		House	Semi-Detached House	Brick		None	NOT_LIS	TILE	Retired	1965		150	100	250	2000	550	34	3	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090365456	PRV60000064134	2	Owned	2	2	House	Semi-Detached House	Brick		None	NOT_LIS	TILE	Retired	1985		150	100	250	1000	550	34	1	1	3	0	0	0	None	14	699.00	0.00	0	2
+	8090370993	CHU70000017678	2	Mortgaged	5+	5+	House	Detached House	Concrete		None	NOT_LIS	ASPHALT	Employed (Full time)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090371009	CHU70000017679	2	Owned	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	CONCRETE	Self-employed (full time)	1970		250	100	350	2000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090371017	CHU70000017680	2	Mortgaged	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	TILE	Retired	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090371025	CHU70000017681	2	Owned	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	SLATE	Housewife/Househusband	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090371033	CHU70000017682	2	Mortgaged	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	ASPHALT	Independent Means	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090371041	CHU70000017683	2	Owned	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	CONCRETE	Not employed due to disability	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090371058	CHU70000017684	2	Mortgaged	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	TILE	Voluntary	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090371066	CHU70000017685	2	Owned	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	SLATE	Full time education (student)	1970		250	100	350	1000	450	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090371074	PRV70000065082	2	Mortgaged	5+	5+	Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	TILE	Full time education (student)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090371082	PRV70000065083	2	Owned	5+	5+	House	Semi-Detached House	Stone Construction		None	NOT_LIS	SLATE	Unemployed	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090371090	PRV70000065084	2	Mortgaged	5+	5+	House	Detached House	Concrete		None	NOT_LIS	ASPHALT	Employed (Full time)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090371108	PRV70000065085	2	Owned	5+	5+	House	Link Detached House	Brick		None	NOT_LIS	CONCRETE	Self-employed (full time)	1970		250	100	350	2000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090371116	PRV70000065086	2	Mortgaged	5+	5+	House	Mid Terraced House	Stone Construction		None	NOT_LIS	TILE	Retired	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090371124	PRV70000065087	2	Owned	5+	5+	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	SLATE	Housewife/Househusband	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090371132	PRV70000065088	2	Mortgaged	5+	5+	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	ASPHALT	Independent Means	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	3
+	8090371140	PRV70000065089	2	Owned	5+	5+	Dorma Bungalow	Dorma Bungalow	Stone Construction		None	NOT_LIS	CONCRETE	Not employed due to disability	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090371157	PRV70000065090	2	Mortgaged	5+	5+	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	TILE	Voluntary	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	1
+	8090371165	PRV70000065091	2	Owned	5+	5+	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	SLATE	Full time education (student)	1970		250	100	350	1000	550	57	1	2	3	0	0	0	None	14	699.00	0.00	0	2
+	8090371173	CHU70000017670	2	Owned	1	1	Bungalow	Mid Terraced Bungalow	Brick		0-25	NOT_LIS	TILE	Employed (Full time)	2000		100	100	200	1000	450	37	1	1	3	0	0	0	0-25	14	699.00	0.00	0	1
+	8090371181	CHU70000017671	2	Owned	2	2	House	Semi-Detached House	Stone Construction		0-25	NOT_LIS	SLATE	Full time education (student)	2000		100	100	200	1000	450	51	1	2	3	0	0	0	0-25	14	699.00	0.00	0	2
+	8090371199	CHU70000017672	2	Owned	1	1	House	Detached House	Concrete		0-50	NOT_LIS	CONCRETE	Housewife/Househusband	2000		100	100	200	1000	450	52	1	1	3	0	0	0	0-50	14	699.00	0.00	0	3
+	8090371207	CHU70000017674	2	Owned	1	1	Bungalow	Mid Terraced Bungalow	Brick		0-50	NOT_LIS	TILE	Retired	2000		100	100	200	1000	450	51	1	1	3	0	0	0	0-50	14	699.00	0.00	0	1
+	8090371215	CHU70000017686	2	Owned	1	1	Bungalow	Mid Terraced Bungalow	Brick		0-25	NOT_LIS	TILE	Employed (Full time)	2000		100	100	200	1000	450	44	1	1	3	0	0	0	0-25	14	699.00	0.00	0	1
+	8090371223	CHU70000017687	2	Owned	2	2	House	Semi-Detached House	Stone Construction		0-25	NOT_LIS	SLATE	Full time education (student)	2000		100	100	200	1000	450	42	1	2	3	0	0	0	0-25	14	699.00	0.00	0	2
+	8090371231	CHU70000017688	2	Owned	1	1	House	Detached House	Concrete		0-50	NOT_LIS	CONCRETE	Housewife/Househusband	2000		100	100	200	1000	450	47	1	1	3	0	0	0	0-50	14	699.00	0.00	0	3
+	8090371249	CHU70000017690	2	Owned	1	1	Bungalow	Mid Terraced Bungalow	Brick		0-50	NOT_LIS	TILE	Retired	2000		100	100	200	1000	450	37	1	1	3	0	0	0	0-50	14	699.00	0.00	0	1
+	8090371256	CHU70000017694	2	Owned	1	1	Bungalow	Mid Terraced Bungalow	Brick		0-25	NOT_LIS	TILE	Employed (Full time)	2000		100	100	200	1000	450	37	1	1	3	0	0	0	0-25	14	699.00	0.00	0	1
+	8090371264	CHU70000017695	2	Owned	2	2	House	Semi-Detached House	Stone Construction		0-25	NOT_LIS	SLATE	Full time education (student)	2000		100	100	200	1000	450	35	1	2	3	0	0	0	0-25	14	699.00	0.00	0	2
