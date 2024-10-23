@@ -1,0 +1,322 @@
+policy_number	accepts_policy_number	quote_persist_reference	policy_transaction_type_id	ownership	claim_free_year_buildings	claim_free_year_contents	property_type	property_sub_type	exterior_wall_type	property_built_era	flat_roof	listed_building	roof_type	employment_status	property_built_year	claims_history_count	voluntary_excess_amount	compulsory_excess_amount	policy_excess_amount	subsidence_excess_amount	escape_of_water_excess_amount	policyholder_age	accepts_coverage_product_id	preferred_payment_schedule_id	accepts_payment_schedule_id	contract_renewal_flag	floodre_ceded_flag	auto_renewal_intent_flag	flat_roof	cais_group_risk	credit_score	experian_point_of_quote_score	quote_to_inception_banding	no_of_bedrooms
+	8090383954	DLI60000001796	2	Owned	4	0	House	Semi-Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1979	1	150	100	250	1000	450	75	1	2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090383962	DLI60000001798	2	Mortgaged	NO_INS	1	House	Semi-Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1920		150	100	250	1000	450	72	3	1	3	0	0	0	None	14	699.00	0.00	0	2
+	8090383996	DLI60000001804	2	Mortgaged	1	1	House	Detached House	Brick		None	NOT_LIS	TILE	Employed (Full time)	1998	1	150	100	250	1000	450	80	3	1	4	0	0	0	None	14	699.00	0.00	0	1
+	8090384002	DLI60000001805	2	Owned	2	3	House	Detached House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1899	1	150	100	250	1000	450	77	3	1	4	0	0	0	None	14	699.00	0.00	0	2
+	8090384010	DLI60000001807	2	Owned	3	1	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1888	1	150	100	250	1000	450	42	3	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090384028	DLI60000001808	2	Owned	4	0	House	Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1979	1	150	100	250	2000	450	75	3	2	4	0	0	0	None	14	699.00	0.00	0	4
+	8090384036	DLI60000001809	2	Owned	2	3	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Full time)	1873	1	150	100	250	1000	450	39	3	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090384044	DLI60000001810	2	Mortgaged	1	3	House	Detached House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1874		150	100	250	1000	450	74	3	2	4	0	0	0	None	14	699.00	0.00	0	1
+	8090384051	DLI60000001811	2	Owned	NO_INS12	2	House	Semi-Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	2000		150	100	250	1000	450	67	3	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090384069	DLI60000001812	2	Owned	1	2	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Full time)	2001	1	150	100	250	1000	450	72	3	2	4	0	0	0	None	14	699.00	0.00	0	4
+	8090384077	DLI60000001813	2	Owned	2	3	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1873	1	150	100	250	1000	450	68	3	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090384085	DLI60000001814	2	Owned	3	2	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1956		150	100	250	1000	450	33	3	1	4	0	0	0	None	14	699.00	0.00	0	1
+	8090384093	DLI60000001815	2	Mortgaged	4	1	House	Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1990	1	150	100	250	1000	450	33	3	2	4	0	0	0	None	14	699.00	0.00	0	2
+	8090384101	DLI60000001816	2	Owned	5+	2	House	Detached House	Brick		None	NOT_LIS	SLATE	Employed (Full time)	1991	1	150	100	250	1000	450	33	3	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090384119	DLI60000001817	2	Mortgaged	1	1	House	Detached House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1992		150	100	250	1000	450	33	3	2	4	0	0	0	None	14	699.00	0.00	0	4
+	8090384127	DLI60000001818	2	Owned	3	3	House	Mid Terraced House	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1993		150	100	250	1000	450	33	3	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090384135	DLI60000001819	2	Mortgaged	4	0	House	Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1983		150	100	250	1000	450	30	3	1	4	0	0	0	None	14	699.00	0.00	0	1
+	8090384143	DLI60000001820	2	Owned	1	3	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Part time)	2005	1	150	100	250	1000	450	33	3	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090384150	DLI60000001821	2	Owned	3	3	House	Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1982	1	150	100	250	1000	450	33	3	1	4	0	0	0	None	14	699.00	0.00	0	4
+	8090384168	DLI60000001822	2	Mortgaged	0	3	House	Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1983		150	100	250	1000	450	33	3	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090384176	DLI60000001823	2	Mortgaged	4	0	House	End-Terraced House	Brick		None	NOT_LIS	SLATE	Employed (Full time)	1890		150	100	250	2000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	1
+	8090384184	DLI60000001824	2	Mortgaged	2	NO_INS12	Maisonette	Maisonette	Brick		None	NOT_LIS	TILE	Employed (Part time)	1891		150	100	250	1000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	2
+	8090384192	DLI60000001825	2	Mortgaged	2	1	House	Link Detached House	Brick		None	NOT_LIS	TILE	Self-employed (full time)	2010		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090384200	DLI60000001826	2	Mortgaged	5+	1	House	Detached House	Brick		None	NOT_LIS	TILE	Self-employed (part-time)	2011		150	100	250	1000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	4
+	8090384218	DLI60000001828	2	Mortgaged	NO_INS	2	House	End-Terraced House	Brick		None	NOT_LIS	TILE	Employed (Full time)	2012		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090384226	DLI60000001829	2	Owned	2	3	Town House	Mid Terraced Town House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1899	1	150	100	250	1000	450	77	1	1	4	0	0	0	None	14	699.00	0.00	0	2
+	8090384234	DLI60000001831	2	Mortgaged	3	1	House	Detached House	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	2003		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	2
+	8090384242	DLI60000001832	2	Owned	3	1	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1888	1	150	100	250	1000	450	42	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090384283	DLI60000001833	2	Owned	4	0	House	Detached House	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	1991		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090384374	DLI60000001835	2	Mortgaged	5+	1	House	Detached House	Stone Construction		None	NOT_LIS	TILE	Employed (Full time)	1992		150	100	250	1000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	4
+	8090384408	DLI60000001836	2	Mortgaged	NO_INS	2	House	Mid Terraced House	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	1993		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090384432	DLI60000001837	2	Mortgaged	0	2	House	Detached House	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	1983		150	100	250	1000	450	30	1	1	4	0	0	0	None	14	699.00	0.00	0	1
+	8090384465	DLI60000001838	2	Owned	2	3	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Full time)	1873	1	150	100	250	1000	450	39	1	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090384507	DLI60000001841	2	Mortgaged	5+	0	House	Detached House	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	1982	1	150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	4
+	8090384564	DLI60000001842	2	Mortgaged	NO_INS	0	House	Detached House	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	1983		150	100	250	2000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090384572	DLI60000001843	2	Mortgaged	0	2	House	End-Terraced House	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	1890		150	100	250	1000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	1
+	8090384580	DLI60000001844	2	Mortgaged	5+	1	Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Employed (Full time)	1891	1	150	100	250	2000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	2
+	8090384598	DLI60000001845	2	Mortgaged	NO_INS	NO_INS	House	Link Detached House	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	2010		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090384606	DLI60000001849	2	Mortgaged	1	1	House	Detached House	Brick		None	NOT_LIS	TILE	Employed (Full time)	1998	1	150	100	250	1000	450	80	1	1	4	0	0	0	None	14	699.00	0.00	0	1
+	8090384614	DLI60000001850	2	Owned	2	3	House	Detached House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1899	1	150	100	250	1000	450	77	1	1	4	0	0	0	None	14	699.00	0.00	0	2
+	8090384622	DLI60000001851	2	Owned	3	1	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1888	1	150	100	250	1000	450	42	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090384630	DLI60000001852	2	Owned	4	0	House	Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1979	1	150	100	250	2000	450	75	1	2	4	0	0	0	None	14	699.00	0.00	0	4
+	8090384648	DLI60000001853	2	Owned	2	3	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Full time)	1873	1	150	100	250	1000	450	39	1	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090384663	DLI60000001854	2	Mortgaged	1	3	House	Detached House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1874		150	100	250	1000	450	74	1	2	4	0	0	0	None	14	699.00	0.00	0	1
+	8090384671	DLI60000001855	2	Owned	NO_INS12	2	House	Semi-Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	2000		150	100	250	1000	450	67	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090384697	DLI60000001856	2	Owned	1	2	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Full time)	2001	1	150	100	250	1000	450	72	1	2	4	0	0	0	None	14	699.00	0.00	0	4
+	8090384713	DLI60000001857	2	Owned	2	3	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1873	1	150	100	250	1000	450	68	1	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090384739	DLI60000001858	2	Owned	3	2	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1956		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	1
+	8090384754	DLI60000001859	2	Mortgaged	4	1	House	Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1990	1	150	100	250	1000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	2
+	8090384770	DLI60000001860	2	Owned	5+	2	House	Detached House	Brick		None	NOT_LIS	SLATE	Employed (Full time)	1991	1	150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090384788	DLI60000001862	2	Owned	NO_INS12	2	House	Semi-Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	2000		150	100	250	1000	450	67	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090384804	DLI60000001866	2	Owned	1	2	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Full time)	2001	1	150	100	250	1000	450	72	1	2	4	0	0	0	None	14	699.00	0.00	0	4
+	8090384812	DLI60000001867	2	Owned	2	3	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1873	1	150	100	250	1000	450	68	1	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090384820	DLI60000001868	2	Mortgaged	4	0	House	Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1983		150	100	250	1000	450	30	1	1	4	0	0	0	None	14	699.00	0.00	0	1
+	8090384838	DLI60000001869	2	Owned	3	2	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1956		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	1
+	8090384846	DLI60000001870	2	Owned	1	3	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Part time)	2005	1	150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090384853	DLI60000001871	2	Mortgaged	4	1	Town House	Semi-Detached Town House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1990	1	150	100	250	1000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	2
+	8090384861	DLI60000001873	2	Owned	3	3	House	Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1982	1	150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	4
+	8090384879	DLI60000001874	2	Owned	5+	2	Town House	Semi-Detached Town House	Brick		None	NOT_LIS	SLATE	Employed (Full time)	1991	1	150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090384887	DLI60000001876	2	Mortgaged	1	1	Town House	End Terraced Town House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1992		150	100	250	1000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	4
+	8090384895	DLI60000001879	2	Owned	3	3	House	Mid Terraced House	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1993		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090384903	DLI60000001878	2	Mortgaged	4	0	House	End-Terraced House	Brick		None	NOT_LIS	SLATE	Employed (Full time)	1890		150	100	250	2000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	1
+	8090384911	DLI60000001881	2	Mortgaged	2	NO_INS12	Maisonette	Maisonette	Brick		None	NOT_LIS	TILE	Employed (Part time)	1891		150	100	250	1000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	2
+	8090384945	DLI60000001882	2	Mortgaged	2	1	House	Link Detached House	Brick		None	NOT_LIS	TILE	Self-employed (full time)	2010		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090385108	DLI60000001886	2	Mortgaged	5+	1	House	Detached House	Brick		None	NOT_LIS	TILE	Self-employed (part-time)	2011		150	100	250	1000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	4
+	8090385181	DLI60000001887	2	Mortgaged	NO_INS	2	House	End-Terraced House	Brick		None	NOT_LIS	TILE	Employed (Full time)	2012		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090385231	DLI60000001888	2	Owned	0	2	Maisonette	Maisonette	Brick		None	NOT_LIS	TILE	Employed (Part time)	2013		150	100	250	1000	450	32	1	2	4	0	0	0	None	14	699.00	0.00	0	1
+	8090385280	DLI60000001889	2	Mortgaged	3	1	House	Detached House	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	2003		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	2
+	8090385348	DLI60000001890	2	Owned	4	0	House	Detached House	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	1991		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090385397	DLI60000001891	2	Mortgaged	5+	1	House	Detached House	Stone Construction		None	NOT_LIS	TILE	Employed (Full time)	1992		150	100	250	1000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	4
+	8090385447	DLI60000001893	2	Mortgaged	NO_INS	2	House	Mid Terraced House	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	1993		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090385595	DLI60000001895	2	Mortgaged	0	2	House	Detached House	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	1983		150	100	250	1000	450	30	1	1	4	0	0	0	None	14	699.00	0.00	0	1
+	8090385611	DLI60000001897	2	Owned	3	1	House	Semi-Detached House	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	1986		150	100	250	1000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	2
+	8090385652	DLI60000001898	2	Mortgaged	5+	0	House	Detached House	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	1982	1	150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	4
+	8090385678	DLI60000001899	2	Mortgaged	NO_INS	0	House	Detached House	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	1983		150	100	250	2000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090385736	DLI60000001900	2	Mortgaged	0	2	House	End-Terraced House	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	1890		150	100	250	1000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	1
+	8090385769	DLI60000001901	2	Mortgaged	5+	1	Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Employed (Full time)	1891	1	150	100	250	2000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	2
+	8090385827	DLI60000001903	2	Mortgaged	NO_INS	NO_INS	House	Link Detached House	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	2010		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090385975	DLI60000001907	2	Mortgaged	1	1	House	Detached House	Brick		None	NOT_LIS	TILE	Employed (Full time)	1998	1	150	100	250	1000	450	80	1	1	4	0	0	0	None	14	699.00	0.00	0	1
+	8090386023	DLI60000001910	2	Owned	2	3	House	Detached House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1899	1	150	100	250	1000	450	77	1	1	4	0	0	0	None	14	699.00	0.00	0	2
+	8090386049	DLI60000001911	2	Owned	3	1	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1888	1	150	100	250	1000	450	42	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090386072	DLI60000001913	2	Owned	4	0	House	Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1979	1	150	100	250	2000	450	75	1	2	4	0	0	0	None	14	699.00	0.00	0	4
+	8090386106	DLI60000001915	2	Owned	2	3	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Full time)	1873	1	150	100	250	1000	450	39	1	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090386148	DLI60000001916	2	Mortgaged	1	3	House	Detached House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1874		150	100	250	1000	450	74	1	2	4	0	0	0	None	14	699.00	0.00	0	1
+	8090386171	DLI60000001917	2	Owned	NO_INS12	2	House	Semi-Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	2000		150	100	250	1000	450	67	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090386205	DLI60000001918	2	Owned	1	2	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Full time)	2001	1	150	100	250	1000	450	72	1	2	4	0	0	0	None	14	699.00	0.00	0	4
+	8090386213	DLI60000001919	2	Owned	2	3	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1873	1	150	100	250	1000	450	68	1	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090386254	DLI60000001920	2	Owned	3	2	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1956		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	1
+	8090386288	DLI60000001921	2	Mortgaged	4	1	House	Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1990	1	150	100	250	1000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	2
+	8090386312	DLI60000001922	2	Owned	5+	2	House	Detached House	Brick		None	NOT_LIS	SLATE	Employed (Full time)	1991	1	150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090386338	DLI60000001923	2	Owned	1	3	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Part time)	2005	1	150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090386353	DLI60000001924	2	Mortgaged	1	1	House	Detached House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1992		150	100	250	1000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	4
+	8090386361	DLI60000001926	2	Owned	3	3	House	Mid Terraced House	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1993		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090386395	DLI60000001927	2	Mortgaged	4	0	House	Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1983		150	100	250	1000	450	30	1	1	4	0	0	0	None	14	699.00	0.00	0	1
+	8090386429	DLI60000001928	2	Owned	1	3	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Part time)	2005	1	150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090386437	DLI60000001930	2	Owned	3	3	House	Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1982	1	150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	4
+	8090386445	DLI60000001932	2	Mortgaged	0	3	House	Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1983		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090386452	DLI60000001933	2	Mortgaged	4	0	House	End-Terraced House	Brick		None	NOT_LIS	SLATE	Employed (Full time)	1890		150	100	250	2000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	1
+	8090386460	DLI60000001934	2	Mortgaged	2	NO_INS12	Maisonette	Maisonette	Brick		None	NOT_LIS	TILE	Employed (Part time)	1891		150	100	250	1000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	2
+	8090386478	DLI60000001935	2	Mortgaged	2	1	House	Link Detached House	Brick		None	NOT_LIS	TILE	Self-employed (full time)	2010		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090386486	DLI60000001936	2	Mortgaged	5+	1	House	Detached House	Brick		None	NOT_LIS	TILE	Self-employed (part-time)	2011		150	100	250	1000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	4
+	8090386544	DLI60000001938	2	Mortgaged	NO_INS	2	House	End-Terraced House	Brick		None	NOT_LIS	TILE	Employed (Full time)	2012		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090386551	DLI60000001939	2	Owned	0	2	Maisonette	Maisonette	Brick		None	NOT_LIS	TILE	Employed (Part time)	2013		150	100	250	1000	450	32	1	2	4	0	0	0	None	14	699.00	0.00	0	1
+	8090386569	DLI60000001940	2	Mortgaged	3	1	House	Detached House	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	2003		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	2
+	8090386577	DLI60000001941	2	Owned	4	0	House	Detached House	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	1991		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090386585	DLI60000001942	2	Mortgaged	5+	1	House	Detached House	Stone Construction		None	NOT_LIS	TILE	Employed (Full time)	1992		150	100	250	1000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	4
+	8090386593	DLI60000001943	2	Mortgaged	NO_INS	2	House	Mid Terraced House	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	1993		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090386601	DLI60000001944	2	Mortgaged	0	2	House	Detached House	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	1983		150	100	250	1000	450	30	1	1	4	0	0	0	None	14	699.00	0.00	0	1
+	8090386619	DLI60000001945	2	Owned	3	1	House	Semi-Detached House	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	1986		150	100	250	1000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	2
+	8090386627	DLI60000001946	2	Mortgaged	5+	0	House	Detached House	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	1982	1	150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	4
+	8090386635	DLI60000001947	2	Mortgaged	1	1	House	Detached House	Brick		None	NOT_LIS	TILE	Employed (Full time)	1998	1	150	100	250	1000	450	80	1	1	4	0	0	0	None	14	699.00	0.00	0	1
+	8090386643	DLI60000001948	2	Owned	2	3	House	Detached House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1899	1	150	100	250	1000	450	77	1	1	4	0	0	0	None	14	699.00	0.00	0	2
+	8090386650	DLI60000001949	2	Owned	3	1	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1888	1	150	100	250	1000	450	42	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090386676	DLI60000001950	2	Owned	4	0	House	Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1979	1	150	100	250	2000	450	75	1	2	4	0	0	0	None	14	699.00	0.00	0	4
+	8090386700	DLI60000001952	2	Owned	2	3	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Full time)	1873	1	150	100	250	1000	450	39	1	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090386726	DLI60000001953	2	Mortgaged	1	3	House	Detached House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1874		150	100	250	1000	450	74	1	2	4	0	0	0	None	14	699.00	0.00	0	1
+	8090386734	DLI60000001954	2	Owned	NO_INS12	2	House	Semi-Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	2000		150	100	250	1000	450	67	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090386742	DLI60000001955	2	Owned	1	2	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Full time)	2001	1	150	100	250	1000	450	72	1	2	4	0	0	0	None	14	699.00	0.00	0	4
+	8090386759	DLI60000001956	2	Owned	2	3	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1873	1	150	100	250	1000	450	68	1	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090386767	DLI60000001957	2	Owned	3	2	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1956		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	1
+	8090386775	DLI60000001958	2	Mortgaged	4	1	House	Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1990	1	150	100	250	1000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	2
+	8090386783	DLI60000001959	2	Owned	5+	2	House	Detached House	Brick		None	NOT_LIS	SLATE	Employed (Full time)	1991	1	150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090386791	DLI60000001960	2	Mortgaged	1	1	House	Detached House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1992		150	100	250	1000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	4
+	8090386809	DLI60000001961	2	Owned	3	3	House	Mid Terraced House	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1993		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090386817	DLI60000001962	2	Mortgaged	4	0	House	Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1983		150	100	250	1000	450	30	1	1	4	0	0	0	None	14	699.00	0.00	0	1
+	8090386825	DLI60000001963	2	Owned	1	3	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Part time)	2005	1	150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090386833	DLI60000001964	2	Owned	3	3	House	Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1982	1	150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	4
+	8090386841	DLI60000001965	2	Mortgaged	0	3	House	Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1983		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090386858	DLI60000001966	2	Mortgaged	4	0	House	End-Terraced House	Brick		None	NOT_LIS	SLATE	Employed (Full time)	1890		150	100	250	2000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	1
+	8090386866	DLI60000001968	2	Mortgaged	2	NO_INS12	Maisonette	Maisonette	Brick		None	NOT_LIS	TILE	Employed (Part time)	1891		150	100	250	1000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	2
+	8090386874	DLI60000001969	2	Mortgaged	2	1	House	Link Detached House	Brick		None	NOT_LIS	TILE	Self-employed (full time)	2010		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090386882	DLI60000001970	2	Mortgaged	5+	1	House	Detached House	Brick		None	NOT_LIS	TILE	Self-employed (part-time)	2011		150	100	250	1000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	4
+	8090386890	DLI60000001971	2	Mortgaged	NO_INS	2	House	End-Terraced House	Brick		None	NOT_LIS	TILE	Employed (Full time)	2012		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090386908	DLI60000001972	2	Owned	0	2	Maisonette	Maisonette	Brick		None	NOT_LIS	TILE	Employed (Part time)	2013		150	100	250	1000	450	32	1	2	4	0	0	0	None	14	699.00	0.00	0	1
+	8090386916	DLI60000001973	2	Mortgaged	3	1	House	Detached House	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	2003		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	2
+	8090386924	DLI60000001974	2	Owned	4	0	House	Detached House	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	1991		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090386932	DLI60000001975	2	Mortgaged	5+	1	House	Detached House	Stone Construction		None	NOT_LIS	TILE	Employed (Full time)	1992		150	100	250	1000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	4
+	8090386940	DLI60000001976	2	Mortgaged	NO_INS	2	House	Mid Terraced House	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	1993		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090386957	DLI60000001977	2	Mortgaged	0	2	House	Detached House	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	1983		150	100	250	1000	450	30	1	1	4	0	0	0	None	14	699.00	0.00	0	1
+	8090386965	DLI60000001978	2	Owned	3	1	House	Semi-Detached House	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	1986		150	100	250	1000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	2
+	8090386973	DLI60000001979	2	Mortgaged	5+	0	House	Detached House	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	1982	1	150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	4
+	8090386981	DLI60000001980	2	Mortgaged	NO_INS	0	House	Detached House	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	1983		150	100	250	2000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090386999	DLI60000001982	2	Mortgaged	5+	1	Maisonette	Maisonette	Stone Construction		None	NOT_LIS	TILE	Employed (Full time)	1891	1	150	100	250	2000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	2
+	8090387005	DLI60000001983	2	Mortgaged	NO_INS	NO_INS	House	Link Detached House	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	2010		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090387013	DLI60000001984	2	Owned	1	3	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Part time)	2005	1	150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090387021	DLI60000001985	2	Owned	3	3	Town House	End Terraced Town House	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1982	1	150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	4
+	8090387039	DLI60000001986	2	Mortgaged	0	3	Town House	Mid Terraced Town House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1983		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090387146	DLI60000001987	2	Mortgaged	4	0	House	End-Terraced House	Brick		None	NOT_LIS	SLATE	Employed (Full time)	1890		150	100	250	2000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	1
+	8090387179	DLI60000001988	2	Mortgaged	2	NO_INS12	Maisonette	Maisonette	Brick		None	NOT_LIS	TILE	Employed (Part time)	1891		150	100	250	1000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	2
+	8090387237	DLI60000001989	2	Mortgaged	2	1	House	Link Detached House	Brick		None	NOT_LIS	TILE	Self-employed (full time)	2010		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090387286	DLI60000001990	2	Mortgaged	5+	1	Town House	Semi-Detached Town House	Brick		None	NOT_LIS	TILE	Self-employed (part-time)	2011		150	100	250	1000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	4
+	8090387294	DLI60000001991	2	Mortgaged	NO_INS	2	House	End-Terraced House	Brick		None	NOT_LIS	TILE	Employed (Full time)	2012		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090387310	DLI60000001992	2	Owned	0	2	Maisonette	Maisonette	Brick		None	NOT_LIS	TILE	Employed (Part time)	2013		150	100	250	1000	450	32	1	2	4	0	0	0	None	14	699.00	0.00	0	1
+	8090387336	DLI60000001993	2	Mortgaged	3	1	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	2003		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	2
+	8090387344	DLI60000001994	2	Owned	4	0	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	1991		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090387351	DLI60000001995	2	Mortgaged	5+	1	Town House	End Terraced Town House	Stone Construction		None	NOT_LIS	TILE	Employed (Full time)	1992		150	100	250	1000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	4
+	8090387369	DLI60000001996	2	Mortgaged	NO_INS	2	House	Mid Terraced House	Stone Construction		None	NOT_LIS	TILE	Employed (Part time)	1993		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090387377	DLI60000001997	2	Mortgaged	0	2	Town House	Semi-Detached Town House	Stone Construction		None	NOT_LIS	TILE	Self-employed (full time)	1983		150	100	250	1000	450	30	1	1	4	0	0	0	None	14	699.00	0.00	0	1
+	8090387385	DLI60000001998	2	Owned	3	1	House	Semi-Detached House	Stone Construction		None	NOT_LIS	TILE	Self-employed (part-time)	1986		150	100	250	1000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	2
+	8090387518	DLI60000001999	2	Mortgaged	1	1	House	Detached House	Brick		None	NOT_LIS	TILE	Employed (Full time)	1998	1	150	100	250	1000	450	80	1	1	4	0	0	0	None	14	699.00	0.00	0	1
+	8090387526	DLI60000002000	2	Owned	2	3	Town House	Mid Terraced Town House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1899	1	150	100	250	1000	450	77	1	1	4	0	0	0	None	14	699.00	0.00	0	2
+	8090387534	DLI60000002001	2	Owned	3	1	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1888	1	150	100	250	1000	450	42	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090387542	DLI60000002002	2	Owned	4	0	Town House	Detached Town House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1979	1	150	100	250	2000	450	75	1	2	4	0	0	0	None	14	699.00	0.00	0	4
+	8090387567	DLI60000002003	2	Owned	2	3	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Full time)	1873	1	150	100	250	1000	450	39	1	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090387575	DLI60000002004	2	Mortgaged	1	1	House	Detached House	Brick		None	NOT_LIS	TILE	Employed (Full time)	1998	1	150	100	250	1000	450	80	3	1	4	0	0	0	None	14	699.00	0.00	0	1
+	8090387583	DLI60000002005	2	Mortgaged	1	3	Town House	Semi-Detached Town House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1874		150	100	250	1000	450	74	1	2	4	0	0	0	None	14	699.00	0.00	0	1
+	8090387591	DLI60000002007	2	Owned	NO_INS12	2	House	Semi-Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	2000		150	100	250	1000	450	67	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090387609	DLI60000002009	2	Owned	1	2	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Full time)	2001	1	150	100	250	1000	450	72	1	2	4	0	0	0	None	14	699.00	0.00	0	4
+	8090387617	DLI60000002011	2	Owned	2	3	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1873	1	150	100	250	1000	450	68	1	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090387625	DLI60000002010	2	Owned	4	0	House	Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1979	1	150	100	250	2000	450	75	3	2	4	0	0	0	None	14	699.00	0.00	0	4
+	8090387633	DLI60000002014	2	Mortgaged	1	3	House	Detached House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1874		150	100	250	1000	450	74	3	2	4	0	0	0	None	14	699.00	0.00	0	1
+	8090387641	DLI60000002015	2	Owned	NO_INS12	2	House	Semi-Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	2000		150	100	250	1000	450	67	3	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090387658	DLI60000002016	2	Owned	1	2	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Full time)	2001	1	150	100	250	1000	450	72	3	2	4	0	0	0	None	14	699.00	0.00	0	4
+	8090387666	DLI60000002017	2	Owned	2	3	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1873	1	150	100	250	1000	450	68	3	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090387674	DLI60000002018	2	Owned	3	2	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1956		150	100	250	1000	450	33	3	1	4	0	0	0	None	14	699.00	0.00	0	1
+	8090387682	DLI60000002019	2	Mortgaged	4	1	House	Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1990	1	150	100	250	1000	450	33	3	2	4	0	0	0	None	14	699.00	0.00	0	2
+	8090387690	DLI60000002020	2	Owned	5+	2	House	Detached House	Brick		None	NOT_LIS	SLATE	Employed (Full time)	1991	1	150	100	250	1000	450	33	3	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090387708	DLI60000002021	2	Mortgaged	1	1	House	Detached House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1992		150	100	250	1000	450	33	3	2	4	0	0	0	None	14	699.00	0.00	0	4
+	8090387716	DLI60000002022	2	Owned	3	3	House	Mid Terraced House	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1993		150	100	250	1000	450	33	3	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090388250	DLI60000002023	2	Mortgaged	4	1	Town House	Semi-Detached Town House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1990	1	150	100	250	1000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	2
+	8090388276	DLI60000002024	2	Owned	5+	2	Town House	Semi-Detached Town House	Brick		None	NOT_LIS	SLATE	Employed (Full time)	1991	1	150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090388284	DLI60000002025	2	Mortgaged	1	1	Town House	End Terraced Town House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1992		150	100	250	1000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	4
+	8090388292	DLI60000002026	2	Owned	3	3	House	Mid Terraced House	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1993		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090388300	DLI60000002027	2	Mortgaged	4	0	Town House	Mid Terraced Town House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1983		150	100	250	1000	450	30	1	1	4	0	0	0	None	14	699.00	0.00	0	1
+	8090388318	DLI60000002028	2	Owned	1	3	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Part time)	2005	1	150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090388409	DLI60000002030	2	Owned	3	3	Town House	End Terraced Town House	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1982	1	150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	4
+	8090388441	DLI60000002032	2	Mortgaged	0	3	Town House	Mid Terraced Town House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1983		150	100	250	1000	450	33	1	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090388466	DLI60000002033	2	Mortgaged	4	0	House	End-Terraced House	Brick		None	NOT_LIS	SLATE	Employed (Full time)	1890		150	100	250	2000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	1
+	8090388474	DLI60000002034	2	Mortgaged	2	NO_INS12	Maisonette	Maisonette	Brick		None	NOT_LIS	TILE	Employed (Part time)	1891		150	100	250	1000	450	33	1	2	4	0	0	0	None	14	699.00	0.00	0	2
+	8090388730	DLI60000002013	2	Owned	2	3	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Full time)	1873	1	150	100	250	1000	450	39	1	1	4	0	0	0	None	14	699.00	0.00	1	5
+	8090388748	DLI60000002008	2	Owned	3	1	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1888	1	150	100	250	1000	450	42	1	1	4	0	0	0	None	14	699.00	0.00	1	3
+	8090388755	DLI60000002006	2	Owned	2	3	House	Detached House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1899	1	150	100	250	1000	450	77	1	1	4	0	0	0	None	14	699.00	0.00	1	2
+	8090388763	DLI60000001834	2	Owned	4	0	Town House	Detached Town House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1979	1	150	100	250	2000	450	75	1	2	4	0	0	0	None	14	699.00	0.00	1	4
+	8090388771	DLI60000001830	2	Owned	0	2	Maisonette	Maisonette	Brick		None	NOT_LIS	TILE	Employed (Part time)	2013		150	100	250	1000	450	32	1	2	4	0	0	0	None	14	699.00	0.00	1	1
+	8090388789	DLI60000001827	2	Mortgaged	1	1	House	Detached House	Brick		None	NOT_LIS	TILE	Employed (Full time)	1998	1	150	100	250	1000	450	80	1	1	4	0	0	0	None	14	699.00	0.00	1	1
+	8090388797	DLI60000002038	2	Mortgaged	1	1	House	Detached House	Brick		None	NOT_LIS	TILE	Employed (Full time)	1998	1	150	100	250	1000	450	80	3	1	4	0	0	0	None	14	699.00	0.00	0	1
+	8090388805	DLI60000002039	2	Owned	2	3	House	Detached House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1899	1	150	100	250	1000	450	77	3	1	4	0	0	0	None	14	699.00	0.00	0	2
+	8090388813	DLI60000002040	2	Owned	3	1	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Self-employed (full time)	1888	1	150	100	250	1000	450	42	3	1	4	0	0	0	None	14	699.00	0.00	0	3
+	8090388821	DLI60000002041	2	Owned	4	0	House	Detached House	Brick		None	NOT_LIS	SLATE	Self-employed (part-time)	1979	1	150	100	250	2000	450	75	3	2	4	0	0	0	None	14	699.00	0.00	0	4
+	8090388839	DLI60000002042	2	Owned	2	3	Maisonette	Maisonette	Brick		None	NOT_LIS	SLATE	Employed (Full time)	1873	1	150	100	250	1000	450	39	3	1	4	0	0	0	None	14	699.00	0.00	0	5
+	8090388847	CHU70000019249	2	Mortgaged	3	3	House	Mid Terraced House	Concrete		0-50	NOT_LIS	TILE	Voluntary	1988		200	100	300	1000	450	30	3	1	4	0	0	0	0-50	14	699.00	0.00	0	3
+	8090388854	CHU70000019250	2	Rented - Private Unfurnished	4	4	House	End-Terraced House	Brick		0-25	NOT_LIS	SLATE	Employed (Full time)	1985		100	100	200	1000	450	31	3	2	4	0	0	0	0-25	14	699.00	0.00	0	4
+	8090388862	CHU70000019251	2	Rented - Private Furnished	1	1	Bungalow	Semi-Detached Bungalow	Stone Construction		0-50	NOT_LIS	CONCRETE	Full time education (student)	1981		150	100	250	1000	450	39	3	1	4	0	0	0	0-50	14	699.00	0.00	0	1
+	8090388870	CHU70000019252	2	Rented - Council Unfurnished	2	2	Bungalow	Detached Bungalow	Concrete		0-50	NOT_LIS	ASPHALT	Housewife/Househusband	1981		200	100	300	1000	450	39	3	2	4	0	0	0	0-50	14	699.00	0.00	0	2
+	8090388888	CHU70000019253	2	Rented - Council Furnished	3	3	Bungalow	Link Detached Bungalow	Brick		0-25	NOT_LIS	TILE	Independent Means	1988		100	100	200	1000	450	42	3	1	4	0	0	0	0-25	14	699.00	0.00	0	3
+	8090388896	CHU70000019254	2	Housing Association	4	4	Bungalow	Mid Terraced Bungalow	Stone Construction		0-50	NOT_LIS	SLATE	Not employed due to disability	1980		150	100	250	1000	450	34	3	2	4	0	0	0	0-50	14	699.00	0.00	0	4
+	8090388904	CHU70000019255	2	Owned	1	1	Bungalow	End Terraced Bungalow	Concrete		0-50	NOT_LIS	CONCRETE	Retired	1989		200	100	300	1000	450	42	3	1	4	0	0	0	0-50	14	699.00	0.00	0	1
+	8090388912	CHU70000019257	2	Owned	2	2	Dorma Bungalow	Semi-Detached Dorma Bungalow	Brick		0-25	NOT_LIS	ASPHALT	Self-employed (full time)	1989		100	100	200	1000	450	42	3	2	4	0	0	0	0-25	14	699.00	0.00	0	2
+	8090388920	CHU70000019259	2	Rented - Private Unfurnished	4	4	Bungalow	Link Detached Bungalow	Concrete		0-50	NOT_LIS	SLATE	Voluntary	1995		200	100	300	1000	450	30	3	2	4	0	0	0	0-50	14	699.00	0.00	0	4
+	8090388938	CHU70000019260	2	Rented - Private Furnished	1	1	Dorma Bungalow	Mid Terraced Dorma Bungalow	Brick		0-25	NOT_LIS	CONCRETE	Employed (Full time)	1994		100	100	200	1000	450	41	3	1	4	0	0	0	0-25	14	699.00	0.00	0	1
+	8090388946	CHU70000019261	2	Rented - Council Unfurnished	2	2	Dorma Bungalow	End Terraced Dorma Bungalow	Stone Construction		0-50	NOT_LIS	ASPHALT	Full time education (student)	1994		150	100	250	1000	450	39	3	2	4	0	0	0	0-50	14	699.00	0.00	0	2
+	8090388953	CHU70000019262	2	Housing Association	4	4	Town House	Detached Town House	Brick		0-25	NOT_LIS	SLATE	Independent Means	1980		100	100	200	1000	450	41	3	2	4	0	0	0	0-25	14	699.00	0.00	0	4
+	8090388961	CHU70000019263	2	Owned	1	1	Town House	Link Detached Town House	Stone Construction		0-50	NOT_LIS	CONCRETE	Not employed due to disability	1982		150	100	250	1000	450	33	3	1	4	0	0	0	0-50	14	699.00	0.00	0	1
+	8090388987	CHU70000019265	2	Mortgaged	3	3	Flat	Flat - First Floor and Above	Brick		0-25	NOT_LIS	TILE	Self-employed (full time)	1991		100	100	200	1000	450	43	3	1	4	0	0	0	0-25	14	699.00	0.00	0	3
+	8090388995	CHU70000019267	2	Rented - Private Furnished	1	1	House	Semi-Detached House	Concrete		0-50	NOT_LIS	CONCRETE	Voluntary	1995		200	100	300	1000	450	38	1	1	4	0	0	0	0-50	14	699.00	0.00	0	1
+	8090389001	CHU70000019268	2	Rented - Council Unfurnished	2	2	House	Detached House	Brick		0-25	NOT_LIS	ASPHALT	Employed (Full time)	1985		100	100	200	1000	450	30	1	2	4	0	0	0	0-25	14	699.00	0.00	0	2
+	8090389019	CHU70000019269	2	Rented - Council Furnished	3	3	House	Link Detached House	Stone Construction		0-50	NOT_LIS	TILE	Full time education (student)	1997		150	100	250	1000	450	31	1	1	4	0	0	0	0-50	14	699.00	0.00	0	3
+	8090389027	CHU70000019270	2	Housing Association	4	4	House	Mid Terraced House	Concrete		0-50	NOT_LIS	SLATE	Housewife/Househusband	1988		200	100	300	1000	450	38	1	2	4	0	0	0	0-50	14	699.00	0.00	0	4
+	8090389035	CHU70000019271	2	Owned	1	1	House	End-Terraced House	Brick		0-25	NOT_LIS	CONCRETE	Independent Means	1987		100	100	200	1000	450	37	1	1	4	0	0	0	0-25	14	699.00	0.00	0	1
+	8090389043	CHU70000019272	2	Owned	2	2	Bungalow	Semi-Detached Bungalow	Stone Construction		0-50	NOT_LIS	ASPHALT	Not employed due to disability	1989		150	100	250	1000	450	37	1	2	4	0	0	0	0-50	14	699.00	0.00	0	2
+	8090389050	CHU70000019273	2	Mortgaged	3	3	Bungalow	Detached Bungalow	Concrete		0-50	NOT_LIS	TILE	Retired	1991		200	100	300	1000	450	39	1	1	4	0	0	0	0-50	14	699.00	0.00	0	3
+	8090389068	CHU70000019275	2	Rented - Council Unfurnished	2	2	Bungalow	End Terraced Bungalow	Concrete		0-50	NOT_LIS	ASPHALT	Voluntary	1985		200	100	300	1000	450	38	1	2	4	0	0	0	0-50	14	699.00	0.00	0	2
+	8090389076	CHU70000019276	2	Rented - Council Furnished	3	3	Dorma Bungalow	Semi-Detached Dorma Bungalow	Brick		0-25	NOT_LIS	TILE	Employed (Full time)	1997		100	100	200	1000	450	34	1	1	4	0	0	0	0-25	14	699.00	0.00	0	3
+	8090389084	CHU70000019277	2	Housing Association	4	4	Dorma Bungalow	Detached Dorma Bungalow	Stone Construction		0-50	NOT_LIS	SLATE	Full time education (student)	1986		150	100	250	1000	450	39	1	2	4	0	0	0	0-50	14	699.00	0.00	0	4
+	8090389092	CHU70000019278	2	Owned	1	1	Bungalow	Link Detached Bungalow	Concrete		0-50	NOT_LIS	CONCRETE	Housewife/Househusband	2000		200	100	300	1000	450	34	1	1	4	0	0	0	0-50	14	699.00	0.00	0	1
+	8090389100	CHU70000019279	2	Owned	2	2	Dorma Bungalow	Mid Terraced Dorma Bungalow	Brick		0-25	NOT_LIS	ASPHALT	Independent Means	1987		100	100	200	1000	450	33	1	2	4	0	0	0	0-25	14	699.00	0.00	0	2
+	8090389118	CHU70000019280	2	Mortgaged	3	3	Dorma Bungalow	End Terraced Dorma Bungalow	Stone Construction		0-50	NOT_LIS	TILE	Not employed due to disability	2000		150	100	250	1000	450	35	1	1	4	0	0	0	0-50	14	699.00	0.00	0	3
+	8090389126	CHU70000019281	2	Rented - Private Unfurnished	4	4	Town House	Semi-Detached Town House	Concrete		0-50	NOT_LIS	SLATE	Retired	1997		200	100	300	1000	450	37	1	2	4	0	0	0	0-50	14	699.00	0.00	0	4
+	8090389134	CHU70000019282	2	Rented - Private Furnished	1	1	Town House	Detached Town House	Brick		0-25	NOT_LIS	CONCRETE	Self-employed (full time)	2000		100	100	200	1000	450	42	1	1	4	0	0	0	0-25	14	699.00	0.00	0	1
+	8090389142	CHU70000019284	2	Rented - Council Furnished	3	3	Town House	Mid Terraced Town House	Concrete		0-50	NOT_LIS	TILE	Voluntary	1993		200	100	300	1000	450	38	1	1	4	0	0	0	0-50	14	699.00	0.00	0	3
+	8090389159	CHU70000019285	2	Housing Association	4	4	Flat	Flat - First Floor and Above	Brick		0-25	NOT_LIS	SLATE	Employed (Full time)	2000		100	100	200	1000	450	33	1	2	4	0	0	0	0-25	14	699.00	0.00	0	4
+	8090389167	CHU70000019286	2	Owned	2	2	House	Semi-Detached House	Concrete		0-50	NOT_LIS	ASPHALT	Housewife/Househusband	1984		200	100	300	1000	450	39	1	2	4	0	0	0	0-50	14	699.00	0.00	0	2
+	8090389175	CHU70000019287	2	Mortgaged	3	3	House	Detached House	Brick		0-25	NOT_LIS	TILE	Independent Means	1984		100	100	200	1000	450	38	1	1	4	0	0	0	0-25	14	699.00	0.00	0	3
+	8090389183	CHU70000019288	2	Rented - Private Unfurnished	4	4	House	Link Detached House	Stone Construction		0-50	NOT_LIS	SLATE	Not employed due to disability	1983		150	100	250	1000	450	33	1	2	4	0	0	0	0-50	14	699.00	0.00	0	4
+	8090389191	CHU70000019289	2	Rented - Private Furnished	1	1	House	Mid Terraced House	Concrete		0-50	NOT_LIS	CONCRETE	Retired	1993		200	100	300	1000	450	32	1	1	4	0	0	0	0-50	14	699.00	0.00	0	1
+	8090389209	CHU70000019290	2	Rented - Council Unfurnished	2	2	House	End-Terraced House	Brick		0-25	NOT_LIS	ASPHALT	Self-employed (full time)	1991		100	100	200	1000	450	39	1	2	4	0	0	0	0-25	14	699.00	0.00	0	2
+	8090389217	CHU70000019292	2	Housing Association	4	4	Bungalow	Detached Bungalow	Concrete		0-50	NOT_LIS	SLATE	Voluntary	1995		200	100	300	1000	450	29	1	2	4	0	0	0	0-50	14	699.00	0.00	0	4
+	8090389225	CHU70000019293	2	Owned	1	1	Bungalow	Link Detached Bungalow	Brick		0-25	NOT_LIS	CONCRETE	Employed (Full time)	1986		100	100	200	1000	450	37	1	1	4	0	0	0	0-25	14	699.00	0.00	0	1
+	8090389233	CHU70000019294	2	Owned	2	2	Bungalow	Mid Terraced Bungalow	Stone Construction		0-50	NOT_LIS	ASPHALT	Full time education (student)	1980		150	100	250	1000	450	30	1	2	4	0	0	0	0-50	14	699.00	0.00	0	2
+	8090389241	CHU70000019295	2	Mortgaged	3	3	Bungalow	End Terraced Bungalow	Concrete		0-50	NOT_LIS	TILE	Housewife/Househusband	1998		200	100	300	1000	450	40	1	1	4	0	0	0	0-50	14	699.00	0.00	0	3
+	8090389258	CHU70000019296	2	Rented - Private Unfurnished	4	4	Dorma Bungalow	Semi-Detached Dorma Bungalow	Brick		0-25	NOT_LIS	SLATE	Independent Means	1994		100	100	200	1000	450	41	1	2	4	0	0	0	0-25	14	699.00	0.00	0	4
+	8090389266	CHU70000019297	2	Rented - Private Furnished	1	1	Dorma Bungalow	Detached Dorma Bungalow	Stone Construction		0-50	NOT_LIS	CONCRETE	Not employed due to disability	1984		150	100	250	1000	450	31	1	1	4	0	0	0	0-50	14	699.00	0.00	0	1
+	8090389274	CHU70000019298	2	Rented - Council Furnished	3	3	Dorma Bungalow	Mid Terraced Dorma Bungalow	Brick		0-25	NOT_LIS	TILE	Self-employed (full time)	1984		100	100	200	1000	450	37	1	1	4	0	0	0	0-25	14	699.00	0.00	0	3
+	8090389282	CHU70000019300	2	Owned	1	1	Town House	Semi-Detached Town House	Concrete		0-50	NOT_LIS	CONCRETE	Voluntary	1989		200	100	300	1000	450	39	1	1	4	0	0	0	0-50	14	699.00	0.00	0	1
+	8090389290	CHU70000019302	2	Owned	2	2	Town House	Detached Town House	Brick		0-25	NOT_LIS	ASPHALT	Employed (Full time)	1984		100	100	200	1000	450	34	1	2	4	0	0	0	0-25	14	699.00	0.00	0	2
+	8090389308	CHU70000019303	2	Mortgaged	3	3	Town House	Link Detached Town House	Stone Construction		0-50	NOT_LIS	TILE	Full time education (student)	1993		150	100	250	1000	450	31	1	1	4	0	0	0	0-50	14	699.00	0.00	0	3
+	8090389316	CHU70000019304	2	Rented - Private Unfurnished	4	4	Town House	Mid Terraced Town House	Concrete		0-50	NOT_LIS	SLATE	Housewife/Househusband	1985		200	100	300	1000	450	34	1	2	4	0	0	0	0-50	14	699.00	0.00	0	4
+	8090389324	CHU70000019305	2	Rented - Private Furnished	1	1	Flat	Flat - Basement	Brick		0-25	NOT_LIS	CONCRETE	Independent Means	1985		100	100	200	1000	450	37	1	1	4	0	0	0	0-25	14	699.00	0.00	0	1
+	8090389332	CHU70000019306	2	Rented - Council Unfurnished	2	2	Flat	Flat - Ground Floor	Stone Construction		0-50	NOT_LIS	ASPHALT	Not employed due to disability	1992		150	100	250	1000	450	30	1	2	4	0	0	0	0-50	14	699.00	0.00	0	2
+	8090389340	CHU70000019307	2	Rented - Council Furnished	3	3	House	Semi-Detached House	Concrete		0-50	NOT_LIS	TILE	Retired	1991		200	100	300	1000	450	35	1	1	4	0	0	0	0-50	14	699.00	0.00	0	3
+	8090389357	CHU70000019308	2	Housing Association	4	4	House	Detached House	Brick		0-25	NOT_LIS	SLATE	Self-employed (full time)	1982		100	100	200	1000	450	32	1	2	4	0	0	0	0-25	14	699.00	0.00	0	4
+	8090389365	CHU70000019310	2	Owned	2	2	House	Mid Terraced House	Concrete		0-50	NOT_LIS	ASPHALT	Voluntary	1985		200	100	300	1000	450	40	1	2	4	0	0	0	0-50	14	699.00	0.00	0	2
+	8090389373	CHU70000019311	2	Rented - Private Unfurnished	4	4	Bungalow	Semi-Detached Bungalow	Stone Construction		0-50	NOT_LIS	SLATE	Full time education (student)	1997		150	100	250	1000	450	32	1	2	4	0	0	0	0-50	14	699.00	0.00	0	4
+	8090389381	CHU70000019312	2	Rented - Private Furnished	1	1	Bungalow	Detached Bungalow	Concrete		0-50	NOT_LIS	CONCRETE	Housewife/Househusband	1991		200	100	300	1000	450	43	1	1	4	0	0	0	0-50	14	699.00	0.00	0	1
+	8090389399	CHU70000019313	2	Rented - Council Unfurnished	2	2	Bungalow	Link Detached Bungalow	Brick		0-25	NOT_LIS	ASPHALT	Independent Means	1989		100	100	200	1000	450	31	1	2	4	0	0	0	0-25	14	699.00	0.00	0	2
+	8090389407	CHU70000019314	2	Rented - Council Furnished	3	3	Bungalow	Mid Terraced Bungalow	Stone Construction		0-50	NOT_LIS	TILE	Not employed due to disability	2000		150	100	250	1000	450	35	1	1	4	0	0	0	0-50	14	699.00	0.00	0	3
+	8090389415	CHU70000019315	2	Housing Association	4	4	Bungalow	End Terraced Bungalow	Concrete		0-50	NOT_LIS	SLATE	Retired	1985		200	100	300	1000	450	42	1	2	4	0	0	0	0-50	14	699.00	0.00	0	4
+	8090389423	CHU70000019317	2	Owned	1	1	Dorma Bungalow	Semi-Detached Dorma Bungalow	Brick		0-25	NOT_LIS	CONCRETE	Self-employed (full time)	1994		100	100	200	1000	450	32	1	1	4	0	0	0	0-25	14	699.00	0.00	0	1
+	8090389431	CHU70000019319	2	Mortgaged	3	3	Bungalow	Link Detached Bungalow	Concrete		0-50	NOT_LIS	TILE	Voluntary	1981		200	100	300	1000	450	30	1	1	4	0	0	0	0-50	14	699.00	0.00	0	3
+	8090389449	CHU70000019320	2	Rented - Private Unfurnished	4	4	Dorma Bungalow	Mid Terraced Dorma Bungalow	Brick		0-25	NOT_LIS	SLATE	Employed (Full time)	1993		100	100	200	1000	450	38	1	2	4	0	0	0	0-25	14	699.00	0.00	0	4
+	8090389456	CHU70000019321	2	Rented - Private Furnished	1	1	Dorma Bungalow	End Terraced Dorma Bungalow	Stone Construction		0-50	NOT_LIS	CONCRETE	Full time education (student)	1985		150	100	250	1000	450	42	1	1	4	0	0	0	0-50	14	699.00	0.00	0	1
+	8090389464	CHU70000019322	2	Rented - Council Unfurnished	2	2	Town House	Semi-Detached Town House	Concrete		0-50	NOT_LIS	ASPHALT	Housewife/Househusband	1986		200	100	300	1000	450	33	1	2	4	0	0	0	0-50	14	699.00	0.00	0	2
+	8090389472	CHU70000019323	2	Rented - Council Furnished	3	3	Town House	Detached Town House	Brick		0-25	NOT_LIS	TILE	Independent Means	1995		100	100	200	1000	450	30	1	1	4	0	0	0	0-25	14	699.00	0.00	0	3
+	8090389480	CHU70000019324	2	Owned	1	1	Town House	Mid Terraced Town House	Concrete		0-50	NOT_LIS	CONCRETE	Retired	1996		200	100	300	1000	450	35	1	1	4	0	0	0	0-50	14	699.00	0.00	0	1
+	8090389498	CHU70000019325	2	Owned	2	2	Flat	Flat - Ground Floor	Brick		0-25	NOT_LIS	ASPHALT	Self-employed (full time)	1996		100	100	200	1000	450	39	1	2	4	0	0	0	0-25	14	699.00	0.00	0	2
+	8090389506	CHU70000019327	2	Rented - Private Unfurnished	4	4	House	Semi-Detached House	Concrete		0-50	NOT_LIS	SLATE	Voluntary	1993		200	100	300	1000	450	36	1	2	4	0	0	0	0-50	14	699.00	0.00	0	4
+	8090389514	CHU70000019328	2	Rented - Private Furnished	1	1	House	Detached House	Brick		0-25	NOT_LIS	CONCRETE	Employed (Full time)	1998		100	100	200	1000	450	35	1	1	4	0	0	0	0-25	14	699.00	0.00	0	1
+	8090389522	CHU70000019329	2	Rented - Council Unfurnished	2	2	House	Link Detached House	Stone Construction		0-50	NOT_LIS	ASPHALT	Full time education (student)	1982		150	100	250	1000	450	41	1	2	4	0	0	0	0-50	14	699.00	0.00	0	2
+	8090389530	CHU70000019330	2	Rented - Council Furnished	3	3	House	Mid Terraced House	Concrete		0-50	NOT_LIS	TILE	Housewife/Househusband	1997		200	100	300	1000	450	41	1	1	4	0	0	0	0-50	14	699.00	0.00	0	3
+	8090389548	CHU70000019331	2	Housing Association	4	4	House	End-Terraced House	Brick		0-25	NOT_LIS	SLATE	Independent Means	1994		100	100	200	1000	450	38	1	2	4	0	0	0	0-25	14	699.00	0.00	0	4
+	8090389555	CHU70000019332	2	Owned	1	1	Bungalow	Semi-Detached Bungalow	Stone Construction		0-50	NOT_LIS	CONCRETE	Not employed due to disability	1995		150	100	250	1000	450	43	1	1	4	0	0	0	0-50	14	699.00	0.00	0	1
+	8090389563	CHU70000019333	2	Owned	2	2	Bungalow	Detached Bungalow	Concrete		0-50	NOT_LIS	ASPHALT	Retired	1987		200	100	300	1000	450	36	1	2	4	0	0	0	0-50	14	699.00	0.00	0	2
+	8090389571	CHU70000019334	2	Mortgaged	3	3	Bungalow	Link Detached Bungalow	Brick		0-25	NOT_LIS	TILE	Self-employed (full time)	1987		100	100	200	1000	450	29	1	1	4	0	0	0	0-25	14	699.00	0.00	0	3
+	8090389589	CHU70000019336	2	Rented - Council Unfurnished	2	2	Dorma Bungalow	Semi-Detached Dorma Bungalow	Brick		0-25	NOT_LIS	ASPHALT	Employed (Full time)	1995		100	100	200	1000	450	33	1	2	4	0	0	0	0-25	14	699.00	0.00	0	2
+	8090389597	CHU70000019337	2	Rented - Council Furnished	3	3	Dorma Bungalow	Detached Dorma Bungalow	Stone Construction		0-50	NOT_LIS	TILE	Full time education (student)	1990		150	100	250	1000	450	29	1	1	4	0	0	0	0-50	14	699.00	0.00	0	3
+	8090389605	CHU70000019338	2	Housing Association	4	4	Bungalow	Link Detached Bungalow	Concrete		0-50	NOT_LIS	SLATE	Housewife/Househusband	1988		200	100	300	2000	450	32	1	2	4	0	0	0	0-50	14	699.00	0.00	0	4
+	8090389613	CHU70000019339	2	Owned	1	1	Dorma Bungalow	Mid Terraced Dorma Bungalow	Brick		0-25	NOT_LIS	CONCRETE	Independent Means	1980		100	100	200	1000	450	35	1	1	4	0	0	0	0-25	14	699.00	0.00	0	1
+	8090389621	CHU70000019340	2	Owned	2	2	Dorma Bungalow	End Terraced Dorma Bungalow	Stone Construction		0-50	NOT_LIS	ASPHALT	Not employed due to disability	1983		150	100	250	1000	450	35	1	2	4	0	0	0	0-50	14	699.00	0.00	0	2
+	8090389639	CHU70000019341	2	Mortgaged	3	3	Town House	Semi-Detached Town House	Concrete		0-50	NOT_LIS	TILE	Retired	2000		200	100	300	1000	450	29	1	1	4	0	0	0	0-50	14	699.00	0.00	0	3
+	8090389647	CHU70000019342	2	Rented - Private Unfurnished	4	4	Town House	Detached Town House	Brick		0-25	NOT_LIS	SLATE	Self-employed (full time)	1991		100	100	200	1000	450	35	1	2	4	0	0	0	0-25	14	699.00	0.00	0	4
+	8090389654	CHU70000019344	2	Rented - Council Unfurnished	2	2	Town House	Mid Terraced Town House	Concrete		0-50	NOT_LIS	ASPHALT	Voluntary	1984		200	100	300	1000	450	39	1	2	4	0	0	0	0-50	14	699.00	0.00	0	2
+	8090389670	CHU70000019345	2	Rented - Council Furnished	3	3	Flat	Flat - First Floor and Above	Brick		0-25	NOT_LIS	TILE	Employed (Full time)	1980		100	100	200	1000	450	31	1	1	4	0	0	0	0-25	14	699.00	0.00	0	3
+	8090389688	CHU70000019346	2	Housing Association	4	4	Flat	Flat - First Floor and Above	Stone Construction		0-50	NOT_LIS	SLATE	Full time education (student)	1992		150	100	250	1000	450	32	1	2	4	0	0	0	0-50	14	699.00	0.00	0	4
+	8090389704	CHU70000019347	2	Owned	1	1	House	Semi-Detached House	Concrete		0-50	NOT_LIS	CONCRETE	Housewife/Househusband	1995		200	100	300	1000	450	34	1	1	4	0	0	0	0-50	14	699.00	0.00	0	1
+	8090389720	CHU70000019348	2	Mortgaged	3	3	House	Link Detached House	Stone Construction		0-50	NOT_LIS	TILE	Not employed due to disability	1988		150	100	250	1000	450	35	1	1	4	0	0	0	0-50	14	699.00	0.00	0	3
+	8090389738	CHU70000019349	2	Rented - Private Unfurnished	4	4	House	Mid Terraced House	Concrete		0-50	NOT_LIS	SLATE	Retired	1986		200	100	300	1000	450	39	1	2	4	0	0	0	0-50	14	699.00	0.00	0	4
+	8090389746	CHU70000019350	2	Rented - Private Furnished	1	1	House	End-Terraced House	Brick		0-25	NOT_LIS	CONCRETE	Self-employed (full time)	1993		100	100	200	1000	450	32	1	1	4	0	0	0	0-25	14	699.00	0.00	0	1
+	8090389753	CHU70000019352	2	Rented - Council Furnished	3	3	Bungalow	Detached Bungalow	Concrete		0-50	NOT_LIS	TILE	Voluntary	1987		200	100	300	1000	450	32	1	1	4	0	0	0	0-50	14	699.00	0.00	0	3
+	8090390785	CHU70000019353	2	Housing Association		4	Bungalow	Link Detached Bungalow	Brick		0-25	NOT_LIS	SLATE	Employed (Full time)	1992		100	100	200	1000	450	30	1	2	4	0	0	0	0-25	14	699.00	0.00	1	4
+	8090390793	CHU70000019354	2	Owned	1	1	Bungalow	Mid Terraced Bungalow	Stone Construction		0-50	NOT_LIS	CONCRETE	Full time education (student)	1980		150	100	250	1000	450	34	1	1	4	0	0	0	0-50	14	699.00	0.00	1	1
+	8090390801	CHU70000019355	2	Owned	2	2	Bungalow	End Terraced Bungalow	Concrete		0-50	NOT_LIS	ASPHALT	Housewife/Househusband	1986		200	100	300	1000	450	39	1	2	4	0	0	0	0-50	14	699.00	0.00	1	2
+	8090390819	CHU70000019356	2	Mortgaged	3		Dorma Bungalow	Semi-Detached Dorma Bungalow	Brick		0-25	NOT_LIS	TILE	Independent Means	1994		100	100	200	1000	450	35	1	1	4	0	0	0	0-25	14	699.00	0.00	1	3
+	8090390827	CHU70000019357	2	Rented - Private Unfurnished		4	Dorma Bungalow	Detached Dorma Bungalow	Stone Construction		0-50	NOT_LIS	SLATE	Not employed due to disability	1989		150	100	250	1000	450	40	1	2	4	0	0	0	0-50	14	699.00	0.00	1	4
+	8090390835	CHU70000019358	2	Rented - Private Furnished		1	Bungalow	Link Detached Bungalow	Concrete		0-50	NOT_LIS	CONCRETE	Retired	1988		200	100	300	1000	450	38	1	1	4	0	0	0	0-50	14	699.00	0.00	1	1
+	8090390850	CHU70000019359	2	Rented - Council Unfurnished		2	Dorma Bungalow	Mid Terraced Dorma Bungalow	Brick		0-25	NOT_LIS	ASPHALT	Self-employed (full time)	1993		100	100	200	1000	450	32	1	2	4	0	0	0	0-25	14	699.00	0.00	1	2
+	8090390868	CHU70000019362	2	Owned	1	1	Town House	Detached Town House	Brick		0-25	NOT_LIS	CONCRETE	Employed (Full time)	1983		100	100	200	1000	450	32	1	1	4	0	0	0	0-25	14	699.00	0.00	1	1
+	8090390876	CHU70000019364	2	Mortgaged	3		Town House	Mid Terraced Town House	Concrete		0-50	NOT_LIS	TILE	Housewife/Househusband	1995		200	100	300	1000	450	42	1	1	4	0	0	0	0-50	14	699.00	0.00	1	3
+	8090390884	CHU70000019360	2	Housing Association		4	Town House	Semi-Detached Town House	Concrete		0-50	NOT_LIS	SLATE	Voluntary	1995		200	100	300	1000	450	35	1	2	4	0	0	0	0-50	14	699.00	0.00	1	4
+	8090394142	CHU70000019246	2	Rented - Council Furnished		3	Flat	Flat - First Floor and Above	Stone Construction		0-50	NOT_LIS	TILE	Not employed due to disability	1984		150	100	250	1000	450	40	1	1	3	0	0	0	0-50	14	699.00	0.00	2-5	3
+	8090394159	CHU70000019247	2	Housing Association		4	House	Semi-Detached House	Concrete		0-50	NOT_LIS	SLATE	Retired	1994		200	100	300	1000	450	38	1	2	3	0	0	0	0-50	14	699.00	0.00	2-5	4
+	8090394167	CHU70000019241	2	Owned	2	2	Town House	Semi-Detached Town House	Concrete		0-50	NOT_LIS	ASPHALT	Voluntary	1993		200	100	300	1000	450	30	1	2	3	0	0	0	0-50	14	699.00	0.00	2-5	2
+	8090394183	CHU70000019228	2	Rented - Private Unfurnished		4	House	Detached House	Brick		0-25	NOT_LIS	SLATE	Independent Means	1981		100	100	200	1000	450	36	1	2	3	0	0	0	0-25	14	699.00	0.00	2-5	4
+	8090394191	CHU70000019233	2	Owned	1	1	Bungalow	Detached Bungalow	Concrete		0-50	NOT_LIS	CONCRETE	Voluntary	1985		200	100	300	1000	450	34	1	1	3	0	0	0	0-50	14	699.00	0.00	2-5	1
+	8090394209	CHU70000019235	2	Mortgaged	3		Bungalow	Mid Terraced Bungalow	Stone Construction		0-50	NOT_LIS	TILE	Full time education (student)	1984		150	100	250	1000	450	36	1	1	3	0	0	0	0-50	14	699.00	0.00	2-5	3
+	8090394217	CHU70000019226	2	Owned	2	2	Flat	Flat - Ground Floor	Stone Construction		0-50	NOT_LIS	ASPHALT	Full time education (student)	1990		150	100	250	1000	450	41	1	2	3	0	0	0	0-50	14	699.00	0.00	2-5	2
+	8090394225	CHU70000019245	2	Rented - Council Unfurnished		2	Flat	Flat - Ground Floor	Brick		0-25	NOT_LIS	ASPHALT	Independent Means	1993		100	100	200	1000	450	34	1	2	3	0	0	0	0-25	14	699.00	0.00	2-5	2
+	8090394241	CHU70000019373	2	Rented - Private Furnished		1	Bungalow	Link Detached Bungalow	Brick		0-25	NOT_LIS	CONCRETE	Independent Means	1983		100	100	200	1000	450	42	1	1	3	0	0	0	0-25	14	699.00	0.00	2-5	1
+	8090394258	CHU70000019239	2	Housing Association		4	Dorma Bungalow	Mid Terraced Dorma Bungalow	Brick		0-25	NOT_LIS	SLATE	Self-employed (full time)	1988		100	100	200	2000	450	37	1	2	3	0	0	0	0-25	14	699.00	0.00	2-5	4
+	8090394266	CHU70000019243	2	Rented - Private Unfurnished		4	Town House	Link Detached Town House	Stone Construction		0-50	NOT_LIS	SLATE	Full time education (student)	1992		150	100	250	1000	450	36	1	2	3	0	0	0	0-50	14	699.00	0.00	2-5	4
+	8090394274	CHU70000019237	2	Rented - Council Unfurnished		2	Dorma Bungalow	Detached Dorma Bungalow	Stone Construction		0-50	NOT_LIS	ASPHALT	Not employed due to disability	1984		150	100	250	1000	450	29	1	2	3	0	0	0	0-50	14	699.00	0.00	2-5	2
+	8090394290	CHU70000019238	2	Rented - Council Furnished		3	Bungalow	Link Detached Bungalow	Concrete		0-50	NOT_LIS	TILE	Retired	1987		200	100	300	1000	450	33	1	1	3	0	0	0	0-50	14	699.00	0.00	2-5	3
+	8090394308	CHU70000019229	2	Rented - Private Furnished		1	House	Link Detached House	Stone Construction		0-50	NOT_LIS	CONCRETE	Not employed due to disability	1984		150	100	250	1000	450	37	1	1	3	0	0	0	0-50	14	699.00	0.00	2-5	1
+	8090394316	CHU70000019244	2	Rented - Private Furnished		1	Town House	Mid Terraced Town House	Concrete		0-50	NOT_LIS	CONCRETE	Housewife/Househusband	1985		200	100	300	1000	450	41	1	1	3	0	0	0	0-50	14	699.00	0.00	2-5	1
+	8090394324	CHU70000019234	2	Owned	2	2	Bungalow	Link Detached Bungalow	Brick		0-25	NOT_LIS	ASPHALT	Employed (Full time)	1995		100	100	200	1000	450	40	1	2	3	0	0	0	0-25	14	699.00	0.00	2-5	2
+	8090394332	CHU70000019227	2	Mortgaged	3		House	Semi-Detached House	Concrete		0-50	NOT_LIS	TILE	Housewife/Househusband	1988		200	100	300	1000	450	36	1	1	3	0	0	0	0-50	14	699.00	0.00	2-5	3
+	8090394340	CHU70000019225	2	Owned	1	1	Flat	Flat - Basement	Brick		0-25	NOT_LIS	CONCRETE	Employed (Full time)	1985		100	100	200	1000	450	29	1	1	3	0	0	0	0-25	14	699.00	0.00	2-5	1
+	8090394357	CHU70000019236	2	Rented - Private Unfurnished		4	Bungalow	End Terraced Bungalow	Concrete		0-50	NOT_LIS	SLATE	Housewife/Househusband	1984		200	100	300	1000	450	33	1	2	3	0	0	0	0-50	14	699.00	0.00	2-5	4
+	8090394365	CHU70000019231	2	Rented - Council Furnished		3	House	End-Terraced House	Brick		0-25	NOT_LIS	TILE	Self-employed (full time)	1995		100	100	200	1000	450	43	1	1	3	0	0	0	0-25	14	699.00	0.00	2-5	3
+	8090394373	CHU70000019248	2	Owned	1	1	House	Detached House	Brick		0-25	NOT_LIS	CONCRETE	Self-employed (full time)	1984		100	100	200	1000	450	38	1	1	3	0	0	0	0-25	14	699.00	0.00	2-5	1
+	8090394381	CHU70000019242	2	Mortgaged	3		Town House	Detached Town House	Brick		0-25	NOT_LIS	TILE	Employed (Full time)	1985		100	100	200	1000	450	32	1	1	3	0	0	0	0-25	14	699.00	0.00	2-5	3
+	8090394399	CHU70000019230	2	Rented - Council Unfurnished		2	House	Mid Terraced House	Concrete		0-50	NOT_LIS	ASPHALT	Retired	1991		200	100	300	1000	450	32	1	2	3	0	0	0	0-50	14	699.00	0.00	2-5	2
