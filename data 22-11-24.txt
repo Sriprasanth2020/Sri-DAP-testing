@@ -1,0 +1,143 @@
+policy_number	accepts_policy_number	quote_persist_reference	policy_transaction_type_id	ownership	claim_free_year_buildings	claim_free_year_contents	property_type	property_sub_type	exterior_wall_type	property_built_era	flat_roof	listed_building	roof_type	employment_status	property_built_year	claims_history_count	voluntary_excess_amount	compulsory_excess_amount	policy_excess_amount	subsidence_excess_amount	escape_of_water_excess_amount	policyholder_age	accepts_coverage_product_id	preferred_payment_schedule_id	accepts_payment_schedule_id	contract_renewal_flag	floodre_ceded_flag	auto_renewal_intent_flag	flat_roof	cais_group_risk	credit_score	experian_point_of_quote_score	quote_to_inception_banding	no_of_bedrooms
+	8090427595	CHU70000024227	2	Mortgaged	3		House	Semi-Detached House	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Employed (Full time)	1960	0	400	100	500	1000	450	44	1	2	3	0	0	0	0-50	14	699.00	0.00	1	1
+	8090427603	CHU70000024228	2	Owned		1	House	Detached House	Brick		None	NOT_LIS	TILE	Full time education (student)	1971	0	100	100	200	1000	450	43	1	1	3	0	0	0	None	14	699.00	0.00	1	2
+	8090427611	CHU70000024229	2	Mortgaged	2	2	House	Link Detached House	Stone Construction		0-25	NOT_LIS	SLATE	Housewife/Househusband	1953	0	250	100	350	1000	450	42	1	2	3	0	0	0	0-25	14	699.00	0.00	1	3
+	8090427629	CHU70000024230	2	Owned	4		House	Mid Terraced House	Concrete		0-25	NOT_LIS	CONCRETE	Independent Means	1950	0	400	100	500	1000	450	41	1	1	3	0	0	0	0-25	14	699.00	0.00	1	1
+	8090427637	CHU70000024231	2	Mortgaged		3	House	End-Terraced House	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Not employed due to disability	1958	0	100	100	200	1000	450	40	1	2	3	0	0	0	0-50	14	699.00	0.00	1	2
+	8090427645	CHU70000024232	2	Owned	1	1	Bungalow	Semi-Detached Bungalow	Brick		50+	NOT_LIS	TILE	Retired	1973	0	250	100	350	1000	450	39	1	1	3	0	0	0	50+	14	699.00	0.00	1	3
+	8090427652	CHU70000024233	2	Mortgaged	2		Bungalow	Detached Bungalow	Stone Construction		0-50	NOT_LIS	SLATE	Self-employed (full time)	1967	0	400	100	500	1000	450	38	1	2	3	0	0	0	0-50	14	699.00	0.00	1	1
+	8090427660	CHU70000024234	2	Owned		4	Bungalow	Terraced Bungalow	Concrete		None	NOT_LIS	CONCRETE	Unemployed	1969	0	100	100	200	1000	450	37	1	1	3	0	0	0	None	14	699.00	0.00	1	2
+	8090427678	CHU70000024235	2	Mortgaged	3	3	Dorma Bungalow	Semi-Detached Dorma Bungalow	Timber Frame with Brick Walls		0-25	NOT_LIS	ASPHALT	Employed (Full time)	1967	0	250	100	350	1000	450	36	1	2	3	0	0	0	0-25	14	699.00	0.00	1	3
+	8090427686	CHU70000024236	2	Owned	1		Dorma Bungalow	Detached Dorma Bungalow	Brick		0-25	NOT_LIS	TILE	Full time education (student)	1979	0	400	100	500	1000	450	35	1	1	3	0	0	0	0-25	14	699.00	0.00	1	1
+	8090427694	CHU70000024237	2	Owned	4	4	Town House	Detached Town House	Concrete		50+	NOT_LIS	CONCRETE	Independent Means	1970	0	250	100	350	1000	450	43	1	1	3	0	0	0	50+	14	699.00	0.00	1	3
+	8090427702	CHU70000024238	2	Mortgaged	3		Town House	Terraced Town House	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Not employed due to disability	1950	0	400	100	500	1000	450	43	1	2	3	0	0	0	0-50	14	699.00	0.00	1	1
+	8090427710	CHU70000024239	2	Owned		1	House	Semi-Detached House	Brick		None	NOT_LIS	TILE	Retired	1963	0	100	100	200	1000	450	42	1	1	3	0	0	0	None	14	699.00	0.00	1	2
+	8090427728	CHU70000024241	2	Owned	4		House	Link Detached House	Concrete		0-25	NOT_LIS	CONCRETE	Unemployed	1979	0	400	100	500	1000	450	40	1	1	3	0	0	0	0-25	14	699.00	0.00	1	1
+	8090427736	CHU70000024242	2	Mortgaged		3	House	Mid Terraced House	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Employed (Full time)	1977	0	100	100	200	1000	450	39	1	2	3	0	0	0	0-50	14	699.00	0.00	1	2
+	8090427744	CHU70000024243	2	Owned	1	1	House	End-Terraced House	Brick		50+	NOT_LIS	TILE	Full time education (student)	1960	0	250	100	350	1000	450	38	1	1	3	0	0	0	50+	14	699.00	0.00	1	3
+	8090427751	CHU70000024244	2	Mortgaged	2		Bungalow	Semi-Detached Bungalow	Stone Construction		0-50	NOT_LIS	SLATE	Housewife/Househusband	1950	0	400	100	500	1000	450	37	1	2	3	0	0	0	0-50	14	699.00	0.00	1	1
+	8090427769	CHU70000024245	2	Owned		4	Bungalow	Detached Bungalow	Concrete		None	NOT_LIS	CONCRETE	Independent Means	1967	0	100	100	200	1000	450	36	1	1	3	0	0	0	None	14	699.00	0.00	1	2
+	8090427777	CHU70000024246	2	Mortgaged	3	3	Bungalow	Terraced Bungalow	Timber Frame with Brick Walls		0-25	NOT_LIS	ASPHALT	Not employed due to disability	1962	0	250	100	350	1000	450	35	1	2	3	0	0	0	0-25	14	699.00	0.00	1	3
+	8090427785	CHU70000024247	2	Mortgaged		2	Dorma Bungalow	Detached Dorma Bungalow	Stone Construction		0-50	NOT_LIS	SLATE	Self-employed (full time)	1953	0	100	100	200	1000	450	43	1	2	3	0	0	0	0-50	14	699.00	0.00	1	2
+	8090427793	CHU70000024248	2	Owned	4	4	Town House	Semi-Detached Town House	Concrete		50+	NOT_LIS	CONCRETE	Unemployed	1976	0	250	100	350	1000	450	42	1	1	3	0	0	0	50+	14	699.00	0.00	1	3
+	8090427801	CHU70000024249	2	Mortgaged	3		Town House	Detached Town House	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Employed (Full time)	1973	0	400	100	500	1000	450	42	1	2	3	0	0	0	0-50	14	699.00	0.00	1	1
+	8090427819	CHU70000024250	2	Owned		1	Town House	Terraced Town House	Brick		None	NOT_LIS	TILE	Full time education (student)	1957	0	100	100	200	1000	450	41	1	1	3	0	0	0	None	14	699.00	0.00	1	2
+	8090427827	CHU70000024251	2	Mortgaged	2	2	House	Semi-Detached House	Stone Construction		0-25	NOT_LIS	SLATE	Housewife/Househusband	1953	0	250	100	350	1000	450	40	1	2	3	0	0	0	0-25	14	699.00	0.00	1	3
+	8090427835	CHU70000024252	2	Owned	4		House	Detached House	Concrete		0-25	NOT_LIS	CONCRETE	Independent Means	1970	0	400	100	500	1000	450	39	1	1	3	0	0	0	0-25	14	699.00	0.00	1	1
+	8090427843	CHU70000024253	2	Mortgaged		3	House	Link Detached House	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Not employed due to disability	1953	0	100	100	200	1000	450	38	1	2	3	0	0	0	0-50	14	699.00	0.00	1	2
+	8090427850	CHU70000024254	2	Owned	1	1	House	Mid Terraced House	Brick		50+	NOT_LIS	TILE	Retired	1975	0	250	100	350	1000	450	37	1	1	3	0	0	0	50+	14	699.00	0.00	1	3
+	8090427868	CHU70000024255	2	Mortgaged	2		House	End-Terraced House	Stone Construction		0-50	NOT_LIS	SLATE	Self-employed (full time)	1953	0	400	100	500	1000	450	36	1	2	3	0	0	0	0-50	14	699.00	0.00	1	1
+	8090427876	CHU70000024256	2	Owned		4	Bungalow	Semi-Detached Bungalow	Concrete		None	NOT_LIS	CONCRETE	Unemployed	1952	0	100	100	200	1000	450	35	1	1	3	0	0	0	None	14	699.00	0.00	1	2
+	8090427884	CHU70000024257	2	Owned	1		Bungalow	Terraced Bungalow	Brick		0-25	NOT_LIS	TILE	Full time education (student)	1965	0	400	100	500	1000	450	44	1	1	3	0	0	0	0-25	14	699.00	0.00	1	1
+	8090427892	CHU70000024258	2	Mortgaged		2	Dorma Bungalow	Semi-Detached Dorma Bungalow	Stone Construction		0-50	NOT_LIS	SLATE	Housewife/Househusband	1969	0	100	100	200	1000	450	43	1	2	3	0	1	0	0-50	14	699.00	0.00	1	2
+	8090427900	CHU70000024259	2	Owned	4	4	Dorma Bungalow	Detached Dorma Bungalow	Concrete		50+	NOT_LIS	CONCRETE	Independent Means	1978	0	250	100	350	1000	450	41	1	1	3	0	0	0	50+	14	699.00	0.00	1	3
+	8090427918	CHU70000024260	2	Mortgaged	3		Town House	Semi-Detached Town House	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Not employed due to disability	1969	0	400	100	500	1000	450	41	1	2	3	0	0	0	0-50	14	699.00	0.00	1	1
+	8090427926	CHU70000024261	2	Owned		1	Town House	Detached Town House	Brick		None	NOT_LIS	TILE	Retired	1961	0	100	100	200	1000	450	40	1	1	3	0	0	0	None	14	699.00	0.00	1	2
+	8090427934	CHU70000024262	2	Mortgaged	2	2	Town House	Terraced Town House	Stone Construction		0-25	NOT_LIS	SLATE	Self-employed (full time)	1954	0	250	100	350	1000	450	39	1	2	3	0	0	0	0-25	14	699.00	0.00	1	3
+	8090427942	CHU70000024263	2	Owned	4		House	Semi-Detached House	Concrete		0-25	NOT_LIS	CONCRETE	Unemployed	1972	0	400	100	500	1000	450	38	1	1	3	0	0	0	0-25	14	699.00	0.00	1	1
+	8090427959	CHU70000024264	2	Mortgaged		3	House	Detached House	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Employed (Full time)	1977	0	100	100	200	1000	450	37	1	2	3	0	0	0	0-50	14	699.00	0.00	1	2
+	8090427967	CHU70000024265	2	Owned	1	1	House	Link Detached House	Brick		50+	NOT_LIS	TILE	Full time education (student)	1977	0	250	100	350	1000	450	36	1	1	3	0	0	0	50+	14	699.00	0.00	1	3
+	8090427975	CHU70000024266	2	Mortgaged	2		House	Mid Terraced House	Stone Construction		0-50	NOT_LIS	SLATE	Housewife/Househusband	1974	0	400	100	500	1000	450	35	1	2	3	0	0	0	0-50	14	699.00	0.00	1	1
+	8090427983	CHU70000024268	2	Owned	1		Bungalow	Detached Bungalow	Brick		0-25	NOT_LIS	TILE	Retired	1958	0	400	100	500	1000	450	43	1	1	3	0	0	0	0-25	14	699.00	0.00	1	1
+	8090427991	CHU70000024269	2	Mortgaged		2	Bungalow	Terraced Bungalow	Stone Construction		0-50	NOT_LIS	SLATE	Self-employed (full time)	1965	0	100	100	200	1000	450	41	1	2	3	0	0	0	0-50	14	699.00	0.00	1	2
+	8090428007	CHU70000024270	2	Owned	4	4	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		50+	NOT_LIS	CONCRETE	Unemployed	1961	0	250	100	350	2000	450	40	1	1	3	0	0	0	50+	14	699.00	0.00	1	3
+	8090428015	CHU70000024271	2	Mortgaged	3		Dorma Bungalow	Detached Dorma Bungalow	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Employed (Full time)	1968	0	400	100	500	1000	450	40	1	2	3	0	0	0	0-50	14	699.00	0.00	1	1
+	8090428023	CHU70000024272	2	Owned		1	Town House	Semi-Detached Town House	Brick		None	NOT_LIS	TILE	Full time education (student)	1969	0	100	100	200	1000	450	39	1	1	3	0	0	0	None	14	699.00	0.00	1	2
+	8090428031	CHU70000024273	2	Mortgaged	2	2	Town House	Detached Town House	Stone Construction		0-25	NOT_LIS	SLATE	Housewife/Househusband	1955	0	250	100	350	1000	450	38	1	2	3	0	0	0	0-25	14	699.00	0.00	1	3
+	8090428049	CHU70000024274	2	Owned	4		Town House	Terraced Town House	Concrete		0-25	NOT_LIS	CONCRETE	Independent Means	1955	0	400	100	500	1000	450	37	1	1	3	0	0	0	0-25	14	699.00	0.00	1	1
+	8090428056	CHU70000024275	2	Mortgaged		3	House	Semi-Detached House	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Not employed due to disability	1964	0	100	100	200	1000	450	36	1	2	3	0	0	0	0-50	14	699.00	0.00	1	2
+	8090428064	CHU70000024276	2	Owned	1	1	House	Detached House	Brick		50+	NOT_LIS	TILE	Retired	1979	0	250	100	350	1000	450	35	1	1	3	0	0	0	50+	14	699.00	0.00	1	3
+	8090428072	CHU70000024277	2	Owned		4	House	Mid Terraced House	Concrete		None	NOT_LIS	CONCRETE	Unemployed	1972	0	100	100	200	1000	450	44	1	1	3	0	0	0	None	14	699.00	0.00	1	2
+	8090428080	CHU70000024279	2	Owned	1		Bungalow	Semi-Detached Bungalow	Brick		0-25	NOT_LIS	TILE	Full time education (student)	1956	0	400	100	500	1000	450	42	1	1	3	0	0	0	0-25	14	699.00	0.00	1	1
+	8090428098	CHU70000024280	2	Mortgaged		2	Bungalow	Detached Bungalow	Stone Construction		0-50	NOT_LIS	SLATE	Housewife/Househusband	1955	0	100	100	200	2000	450	40	3	2	3	0	0	0	0-50	14	699.00	0.00	1	2
+	8090428106	CHU70000024281	2	Owned	4	4	Bungalow	Terraced Bungalow	Concrete		50+	NOT_LIS	CONCRETE	Independent Means	1972	0	250	100	350	1000	450	39	3	1	3	0	0	0	50+	14	699.00	0.00	1	3
+	8090428114	CHU70000024282	2	Mortgaged	3		Dorma Bungalow	Semi-Detached Dorma Bungalow	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Not employed due to disability	1950	0	400	100	500	1000	450	39	3	2	3	0	0	0	0-50	14	699.00	0.00	1	1
+	8090428122	CHU70000024283	2	Owned		1	Dorma Bungalow	Detached Dorma Bungalow	Brick		None	NOT_LIS	TILE	Retired	1967	0	100	100	200	1000	450	38	3	1	3	0	0	0	None	14	699.00	0.00	1	2
+	8090428130	CHU70000024284	2	Mortgaged	2	2	Town House	Semi-Detached Town House	Stone Construction		0-25	NOT_LIS	SLATE	Self-employed (full time)	1970	0	250	100	350	1000	450	37	3	2	3	0	0	0	0-25	14	699.00	0.00	1	3
+	8090428148	CHU70000024286	2	Mortgaged		3	Town House	Terraced Town House	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Employed (Full time)	1967	0	100	100	200	1000	450	35	3	2	3	0	0	0	0-50	14	699.00	0.00	1	2
+	8090428155	CHU70000024287	2	Mortgaged	2		House	Detached House	Stone Construction		0-50	NOT_LIS	SLATE	Housewife/Househusband	1964	0	400	100	500	1000	450	44	3	2	3	0	0	0	0-50	14	699.00	0.00	1	1
+	8090428163	CHU70000024288	2	Owned		4	House	Link Detached House	Concrete		None	NOT_LIS	CONCRETE	Independent Means	1958	0	100	100	200	1000	450	43	3	1	3	0	0	0	None	14	699.00	0.00	1	2
+	8090428171	CHU70000024289	2	Mortgaged	3	3	House	Mid Terraced House	Timber Frame with Brick Walls		0-25	NOT_LIS	ASPHALT	Not employed due to disability	1965	0	250	100	350	1000	450	42	3	2	3	0	0	0	0-25	14	699.00	0.00	1	3
+	8090428189	CHU70000024290	2	Owned	1		House	End-Terraced House	Brick		0-25	NOT_LIS	TILE	Retired	1964	0	400	100	500	1000	450	41	3	1	3	0	0	0	0-25	14	699.00	0.00	1	1
+	8090428197	CHU70000024291	2	Mortgaged		2	Bungalow	Semi-Detached Bungalow	Stone Construction		0-50	NOT_LIS	SLATE	Self-employed (full time)	1954	0	100	100	200	1000	450	39	3	2	3	0	0	0	0-50	14	699.00	0.00	1	2
+	8090428205	CHU70000024292	2	Owned	4	4	Bungalow	Detached Bungalow	Concrete		50+	NOT_LIS	CONCRETE	Unemployed	1963	0	250	100	350	1000	450	38	3	1	3	0	0	0	50+	14	699.00	0.00	1	3
+	8090428221	CHU70000024293	2	Mortgaged	3		Bungalow	Terraced Bungalow	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Employed (Full time)	1970	0	400	100	500	1000	450	38	3	2	3	0	0	0	0-50	14	699.00	0.00	1	1
+	8090428239	CHU70000024294	2	Owned		1	Dorma Bungalow	Semi-Detached Dorma Bungalow	Brick		None	NOT_LIS	TILE	Full time education (student)	1965	0	100	100	200	1000	450	37	3	1	3	0	0	0	None	14	699.00	0.00	1	2
+	8090428247	CHU70000024295	2	Mortgaged	2	2	Dorma Bungalow	Detached Dorma Bungalow	Stone Construction		0-25	NOT_LIS	SLATE	Housewife/Househusband	1967	0	250	100	350	1000	450	36	3	2	3	0	0	0	0-25	14	699.00	0.00	1	3
+	8090428254	CHU70000024297	2	Owned	1	1	Town House	Terraced Town House	Brick		50+	NOT_LIS	TILE	Retired	1970	0	250	100	350	1000	450	44	3	1	3	0	0	0	50+	14	699.00	0.00	1	3
+	8090428262	CHU70000024298	2	Mortgaged	2		House	Semi-Detached House	Stone Construction		0-50	NOT_LIS	SLATE	Self-employed (full time)	1969	0	400	100	500	1000	450	43	3	2	3	0	0	0	0-50	14	699.00	0.00	1	1
+	8090428270	CHU70000024299	2	Owned		4	House	Detached House	Concrete		None	NOT_LIS	CONCRETE	Unemployed	1969	0	100	100	200	1000	450	42	3	1	3	0	0	0	None	14	699.00	0.00	1	2
+	8090428288	CHU70000024301	2	Owned	1		House	Mid Terraced House	Brick		0-25	NOT_LIS	TILE	Full time education (student)	1977	0	400	100	500	1000	450	40	3	1	3	0	0	0	0-25	14	699.00	0.00	1	1
+	8090428296	CHU70000024302	2	Mortgaged		2	House	End-Terraced House	Stone Construction		0-50	NOT_LIS	SLATE	Housewife/Househusband	1961	0	100	100	200	1000	450	38	3	2	3	0	0	0	0-50	14	699.00	0.00	1	2
+	8090428304	CHU70000024303	2	Owned	4	4	Bungalow	Semi-Detached Bungalow	Concrete		50+	NOT_LIS	CONCRETE	Independent Means	1976	0	250	100	350	1000	450	37	3	1	3	0	0	0	50+	14	699.00	0.00	1	3
+	8090428312	CHU70000024305	2	Owned		1	Bungalow	Terraced Bungalow	Brick		None	NOT_LIS	TILE	Retired	1979	0	100	100	200	1000	450	36	3	1	3	0	0	0	None	14	699.00	0.00	1	2
+	8090428320	CHU70000024306	2	Mortgaged	2	2	Dorma Bungalow	Semi-Detached Dorma Bungalow	Stone Construction		0-25	NOT_LIS	SLATE	Self-employed (full time)	1972	0	250	100	350	1000	450	35	3	2	3	0	0	0	0-25	14	699.00	0.00	1	3
+	8090428338	CHU70000024307	2	Mortgaged		3	Town House	Semi-Detached Town House	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Employed (Full time)	1960	0	100	100	200	1000	450	44	3	2	3	0	0	0	0-50	14	699.00	0.00	1	2
+	8090428346	CHU70000024308	2	Owned	1	1	Town House	Detached Town House	Brick		50+	NOT_LIS	TILE	Full time education (student)	1972	0	250	100	350	1000	450	43	3	1	3	0	0	0	50+	14	699.00	0.00	1	3
+	8090428353	CHU70000024310	2	Owned		4	House	Semi-Detached House	Concrete		None	NOT_LIS	CONCRETE	Independent Means	1964	0	100	100	200	1000	450	41	3	1	3	0	0	0	None	14	699.00	0.00	1	2
+	8090428361	CHU70000024311	2	Mortgaged	3	3	House	Detached House	Timber Frame with Brick Walls		0-25	NOT_LIS	ASPHALT	Not employed due to disability	1970	0	250	100	350	1000	450	40	3	2	3	0	0	0	0-25	14	699.00	0.00	1	3
+	8090428379	CHU70000024312	2	Owned	1		House	Link Detached House	Brick		0-25	NOT_LIS	TILE	Retired	1967	0	400	100	500	1000	450	39	3	1	3	0	0	0	0-25	14	699.00	0.00	1	1
+	8090428387	CHU70000024313	2	Mortgaged		2	House	Mid Terraced House	Stone Construction		0-50	NOT_LIS	SLATE	Self-employed (full time)	1955	0	100	100	200	1000	450	38	3	2	3	0	0	0	0-50	14	699.00	0.00	1	2
+	8090428395	CHU70000024314	2	Owned	4	4	House	End-Terraced House	Concrete		50+	NOT_LIS	CONCRETE	Unemployed	1953	0	250	100	350	1000	450	36	3	1	3	0	0	0	50+	14	699.00	0.00	1	3
+	8090428403	CHU70000024315	2	Mortgaged	3		Bungalow	Semi-Detached Bungalow	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Employed (Full time)	1959	0	400	100	500	1000	450	36	3	2	3	0	0	0	0-50	14	699.00	0.00	1	1
+	8090428411	CHU70000024316	2	Owned		1	Bungalow	Detached Bungalow	Brick		None	NOT_LIS	TILE	Full time education (student)	1961	0	100	100	200	1000	450	35	3	1	3	0	0	0	None	14	699.00	0.00	1	2
+	8090428429	CHU70000024317	2	Owned	4		Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		0-25	NOT_LIS	CONCRETE	Independent Means	1972	0	400	100	500	1000	450	44	3	1	3	0	0	0	0-25	14	699.00	0.00	1	1
+	8090428437	CHU70000024318	2	Mortgaged		3	Dorma Bungalow	Detached Dorma Bungalow	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Not employed due to disability	1952	0	100	100	200	1000	450	43	3	2	3	0	1	0	0-50	14	699.00	0.00	1	2
+	8090428445	CHU70000024319	2	Owned	1	1	Town House	Semi-Detached Town House	Brick		50+	NOT_LIS	TILE	Retired	1962	0	250	100	350	1000	450	42	3	1	3	0	0	0	50+	14	699.00	0.00	1	3
+	8090428460	CHU70000024321	2	Owned		4	Town House	Terraced Town House	Concrete		None	NOT_LIS	CONCRETE	Unemployed	1971	0	100	100	200	1000	450	40	3	1	3	0	0	0	None	14	699.00	0.00	1	2
+	8090428478	CHU70000024322	2	Mortgaged	3	3	House	Semi-Detached House	Timber Frame with Brick Walls		0-25	NOT_LIS	ASPHALT	Employed (Full time)	1957	0	250	100	350	1000	450	39	3	2	3	0	0	0	0-25	14	699.00	0.00	1	3
+	8090428486	CHU70000024324	2	Mortgaged		2	House	Link Detached House	Stone Construction		0-50	NOT_LIS	SLATE	Housewife/Househusband	1961	0	100	100	200	1000	450	36	3	2	3	0	0	0	0-50	14	699.00	0.00	1	2
+	8090428494	CHU70000024325	2	Owned	4	4	House	Mid Terraced House	Concrete		50+	NOT_LIS	CONCRETE	Independent Means	1950	0	250	100	350	1000	450	35	3	1	3	0	0	0	50+	14	699.00	0.00	1	3
+	8090428502	CHU70000024329	2	Mortgaged		3	Dorma Bungalow	Semi-Detached Dorma Bungalow	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Employed (Full time)	1960	0	100	100	200	1000	450	42	1	2	3	0	0	0	0-50	14	699.00	0.00	1	2
+	8090428510	CHU70000024330	2	Owned	1	1	Dorma Bungalow	Detached Dorma Bungalow	Brick		50+	NOT_LIS	TILE	Full time education (student)	1951	0	250	100	350	2000	450	41	1	1	3	0	0	0	50+	14	699.00	0.00	1	3
+	8090428528	CHU70000024285	2	Owned	4		Town House	Detached Town House	Concrete		0-25	NOT_LIS	CONCRETE	Unemployed	1955	0	400	100	500	1000	450	36	1	1	3	0	0	0	0-25	14	699.00	0.00	1	1
+	8090428536	CHU70000024304	2	Mortgaged	3		Bungalow	Detached Bungalow	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Not employed due to disability	1964	0	400	100	500	1000	450	37	1	2	3	0	0	0	0-50	14	699.00	0.00	1	1
+	8090428544	CHU70000024309	2	Mortgaged	2		Town House	Terraced Town House	Stone Construction		0-50	NOT_LIS	SLATE	Housewife/Househusband	1967	0	400	100	500	1000	450	42	1	2	3	0	0	0	0-50	14	699.00	0.00	1	1
+	8090428551	CHU70000024320	2	Mortgaged	2		Town House	Detached Town House	Stone Construction		0-50	NOT_LIS	SLATE	Self-employed (full time)	1963	0	400	100	500	1000	450	41	1	2	3	0	0	0	0-50	14	699.00	0.00	1	1
+	8090428569	CHU70000024323	2	Owned	1		House	Detached House	Brick		0-25	NOT_LIS	TILE	Full time education (student)	1972	0	400	100	500	1000	450	38	1	1	3	0	0	0	0-25	14	699.00	0.00	1	1
+	8090428577	CHU70000024326	2	Mortgaged	3		House	End-Terraced House	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Not employed due to disability	1952	0	400	100	500	1000	450	35	1	2	3	0	0	0	0-50	14	699.00	0.00	1	1
+	8090428585	CHU70000024328	2	Owned	4		Bungalow	Terraced Bungalow	Concrete		0-25	NOT_LIS	CONCRETE	Unemployed	1954	0	400	100	500	1000	450	43	1	1	3	0	0	0	0-25	14	699.00	0.00	1	1
+	8090428593	CHU60000024411	2	Mortgaged	1	1	House	Detached House	Brick		None	NOT_LIS	TILE	Employed (Full time)	1998	1	150	100	250	1000	450	80	1	1	3	0	0	0	None	14	699.00	0.00	0	1
+	8090428601	CHU60000024412	2	Owned	2	3	House	Detached House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1899	1	150	100	250	1000	450	78	1	1	3	0	0	0	None	14	699.00	0.00	0	2
+	8090428619	CHU60000024414	2	Mortgaged	1	1	House	Detached House	Brick		None	NOT_LIS	TILE	Employed (Full time)	1998	1	150	100	250	1000	450	80	1	1	3	0	0	0	None	14	699.00	0.00	0	1
+	8090428627	CHU60000024415	2	Owned	2	3	House	Detached House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1899	1	150	100	250	1000	450	78	1	1	3	0	0	0	None	14	699.00	0.00	0	2
+	8090428635	CHU60000024416	2	Mortgaged	1	1	House	Detached House	Brick		None	NOT_LIS	TILE	Employed (Full time)	1998	1	150	100	250	1000	450	80	1	1	3	0	0	0	None	14	699.00	0.00	0	1
+	8090428643	CHU60000024417	2	Owned	2	3	House	Detached House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1899	1	150	100	250	1000	450	78	1	1	3	0	0	0	None	14	699.00	0.00	0	2
+	8090428650	CHU60000024419	2	Mortgaged	1	1	House	Detached House	Brick		None	NOT_LIS	TILE	Employed (Full time)	1998	1	150	100	250	1000	450	80	1	1	3	0	0	0	None	14	699.00	0.00	0	1
+	8090428668	CHU60000024420	2	Owned	2	3	House	Detached House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1899	1	150	100	250	1000	450	78	1	1	3	0	0	0	None	14	699.00	0.00	0	2
+	8090428676	CHU60000024421	2	Mortgaged	1	1	House	Detached House	Brick		None	NOT_LIS	TILE	Employed (Full time)	1998	1	150	100	250	1000	450	80	1	1	3	0	0	0	None	14	699.00	0.00	0	1
+	8090428684	CHU60000024422	2	Owned	2	3	House	Detached House	Brick		None	NOT_LIS	SLATE	Employed (Part time)	1899	1	150	100	250	1000	450	78	1	1	3	0	0	0	None	14	699.00	0.00	0	2
+	8090428692	CHU70000024296	2	Owned	4		Town House	Semi-Detached Town House	Concrete		0-25	NOT_LIS	CONCRETE	Independent Means	1969	0	400	100	500	1000	450	35	1	1	3	0	0	0	0-25	14	699.00	0.00	1	1
+	8090428726	CHU70000024332	2	Owned		4	Town House	Detached Town House	Concrete		None	NOT_LIS	CONCRETE	Independent Means	1963	0	100	100	200	1000	450	39	1	1	3	0	0	0	None	14	699.00	0.00	1	2
+	8090428734	CHU70000024334	2	Owned	1		House	Semi-Detached House	Brick		0-25	NOT_LIS	TILE	Retired	1976	0	400	100	500	1000	450	37	1	1	3	0	0	0	0-25	14	699.00	0.00	1	1
+	8090428742	CHU70000024335	2	Mortgaged		2	House	Detached House	Stone Construction		0-50	NOT_LIS	SLATE	Self-employed (full time)	1976	0	100	100	200	1000	450	36	1	2	3	0	0	0	0-50	14	699.00	0.00	1	2
+	8090428759	CHU70000024336	2	Owned	4	4	House	Link Detached House	Concrete		50+	NOT_LIS	CONCRETE	Unemployed	1968	0	250	100	350	1000	450	34	1	1	3	0	0	0	50+	14	699.00	0.00	1	3
+	8090428767	CHU70000024337	2	Owned		1	House	End-Terraced House	Brick		None	NOT_LIS	TILE	Full time education (student)	1977	0	100	100	200	1000	450	44	1	1	3	0	0	0	None	14	699.00	0.00	1	2
+	8090428775	CHU70000024338	2	Mortgaged	2	2	Bungalow	Semi-Detached Bungalow	Stone Construction		0-25	NOT_LIS	SLATE	Housewife/Househusband	1954	0	250	100	350	1000	450	43	1	2	3	0	1	0	0-25	14	699.00	0.00	1	3
+	8090428783	CHU70000024339	2	Owned	4		Bungalow	Detached Bungalow	Concrete		0-25	NOT_LIS	CONCRETE	Independent Means	1976	0	400	100	500	1000	450	42	1	1	3	0	0	0	0-25	14	699.00	0.00	1	1
+	8090428791	CHU70000024340	2	Mortgaged		3	Bungalow	Terraced Bungalow	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Not employed due to disability	1958	0	100	100	200	1000	450	41	1	2	3	0	0	0	0-50	14	699.00	0.00	1	2
+	8090428809	CHU70000024341	2	Owned	1	1	Dorma Bungalow	Semi-Detached Dorma Bungalow	Brick		50+	NOT_LIS	TILE	Retired	1976	0	250	100	350	1000	450	40	1	1	3	0	0	0	50+	14	699.00	0.00	1	3
+	8090428817	CHU70000024342	2	Mortgaged	2		Dorma Bungalow	Detached Dorma Bungalow	Stone Construction		0-50	NOT_LIS	SLATE	Self-employed (full time)	1952	0	400	100	500	1000	450	39	1	2	3	0	0	0	0-50	14	699.00	0.00	1	1
+	8090428825	CHU70000024343	2	Owned		4	Town House	Semi-Detached Town House	Concrete		None	NOT_LIS	CONCRETE	Unemployed	1978	0	100	100	200	1000	450	38	1	1	3	0	0	0	None	14	699.00	0.00	1	2
+	8090428833	CHU70000024344	2	Mortgaged	3	3	Town House	Detached Town House	Timber Frame with Brick Walls		0-25	NOT_LIS	ASPHALT	Employed (Full time)	1961	0	250	100	350	1000	450	37	1	2	3	0	0	0	0-25	14	699.00	0.00	1	3
+	8090428841	CHU70000024345	2	Owned	1		Town House	Terraced Town House	Brick		0-25	NOT_LIS	TILE	Full time education (student)	1969	0	400	100	500	1000	450	36	1	1	3	0	0	0	0-25	14	699.00	0.00	1	1
+	8090428858	CHU70000024346	2	Mortgaged		2	House	Semi-Detached House	Stone Construction		0-50	NOT_LIS	SLATE	Housewife/Househusband	1953	0	100	100	200	1000	450	34	1	2	3	0	0	0	0-50	14	699.00	0.00	1	2
+	8090428866	CHU70000024347	2	Mortgaged	3		House	Link Detached House	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Not employed due to disability	1975	0	400	100	500	1000	450	44	1	2	3	0	0	0	0-50	14	699.00	0.00	1	1
+	8090428874	CHU70000024348	2	Owned		1	House	Mid Terraced House	Brick		None	NOT_LIS	TILE	Retired	1977	0	100	100	200	1000	450	43	1	1	3	0	0	0	None	14	699.00	0.00	1	2
+	8090428882	CHU70000024349	2	Mortgaged	2	2	House	End-Terraced House	Stone Construction		0-25	NOT_LIS	SLATE	Self-employed (full time)	1977	0	250	100	350	1000	450	42	1	2	3	0	0	0	0-25	14	699.00	0.00	1	3
+	8090428890	CHU70000024350	2	Owned	4		Bungalow	Semi-Detached Bungalow	Concrete		0-25	NOT_LIS	CONCRETE	Unemployed	1967	0	400	100	500	1000	450	41	1	1	3	0	0	0	0-25	14	699.00	0.00	1	1
+	8090428908	CHU70000024351	2	Mortgaged		3	Bungalow	Detached Bungalow	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Employed (Full time)	1972	0	100	100	200	1000	450	40	1	2	3	0	0	0	0-50	14	699.00	0.00	1	2
+	8090428916	CHU70000024352	2	Owned	1	1	Bungalow	Terraced Bungalow	Brick		50+	NOT_LIS	TILE	Full time education (student)	1962	0	250	100	350	1000	450	39	1	1	3	0	0	0	50+	14	699.00	0.00	1	3
+	8090428924	CHU70000024353	2	Mortgaged	2		Dorma Bungalow	Semi-Detached Dorma Bungalow	Stone Construction		0-50	NOT_LIS	SLATE	Housewife/Househusband	1953	0	400	100	500	1000	450	38	1	2	3	0	0	0	0-50	14	699.00	0.00	1	1
+	8090428932	CHU70000024354	2	Owned		4	Dorma Bungalow	Detached Dorma Bungalow	Concrete		None	NOT_LIS	CONCRETE	Independent Means	1964	0	100	100	200	1000	450	37	1	1	3	0	0	0	None	14	699.00	0.00	1	2
+	8090428940	CHU70000024355	2	Mortgaged	3	3	Town House	Semi-Detached Town House	Timber Frame with Brick Walls		0-25	NOT_LIS	ASPHALT	Not employed due to disability	1955	0	250	100	350	1000	450	36	1	2	3	0	0	0	0-25	14	699.00	0.00	1	3
+	8090428957	CHU70000024356	2	Owned	1		Town House	Detached Town House	Brick		0-25	NOT_LIS	TILE	Retired	1960	0	400	100	500	1000	450	35	1	1	3	0	0	0	0-25	14	699.00	0.00	1	1
+	8090428965	CHU70000024357	2	Owned	4	4	House	Semi-Detached House	Concrete		50+	NOT_LIS	CONCRETE	Unemployed	1977	0	250	100	350	1000	450	43	1	1	3	0	0	0	50+	14	699.00	0.00	1	3
+	8090428973	CHU70000024358	2	Mortgaged	3		House	Detached House	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Employed (Full time)	1957	0	400	100	500	1000	450	43	1	2	4	0	0	0	0-50	14	699.00	0.00	1	1
+	8090428981	CHU70000024359	2	Owned		1	House	Link Detached House	Brick		None	NOT_LIS	TILE	Full time education (student)	1958	0	100	100	200	1000	450	42	1	1	4	0	0	0	None	14	699.00	0.00	1	2
+	8090428999	CHU70000024361	2	Owned	4		House	End-Terraced House	Concrete		0-25	NOT_LIS	CONCRETE	Independent Means	1960	0	400	100	500	1000	450	40	1	1	4	0	0	0	0-25	14	699.00	0.00	1	1
+	8090429005	CHU70000024362	2	Mortgaged		3	Bungalow	Semi-Detached Bungalow	Timber Frame with Brick Walls		0-50	NOT_LIS	ASPHALT	Not employed due to disability	1972	0	100	100	200	1000	450	39	1	2	4	0	0	0	0-50	14	699.00	0.00	1	2
+	8090429013	CHU70000024363	2	Owned	1	1	Bungalow	Detached Bungalow	Brick		50+	NOT_LIS	TILE	Retired	1951	0	250	100	350	1000	450	38	1	1	4	0	0	0	50+	14	699.00	0.00	1	3
+	8090429021	CHU70000024364	2	Mortgaged	2		Bungalow	Terraced Bungalow	Stone Construction		0-50	NOT_LIS	SLATE	Self-employed (full time)	1956	0	400	100	500	1000	450	37	1	2	4	0	0	0	0-50	14	699.00	0.00	1	1
+	8090429039	CHU70000024365	2	Owned		4	Dorma Bungalow	Semi-Detached Dorma Bungalow	Concrete		None	NOT_LIS	CONCRETE	Unemployed	1957	0	100	100	200	1000	450	36	1	1	4	0	0	0	None	14	699.00	0.00	1	2
+	8090429047	CHU70000024366	2	Mortgaged	3	3	Dorma Bungalow	Detached Dorma Bungalow	Timber Frame with Brick Walls		0-25	NOT_LIS	ASPHALT	Employed (Full time)	1958	0	250	100	350	1000	450	35	1	2	4	0	0	0	0-25	14	699.00	0.00	1	3
