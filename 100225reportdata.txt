@@ -1,0 +1,316 @@
+policy_number	accepts_policy_number	quote_persist_reference	policy_transaction_type_id	ownership	claim_free_year_buildings	claim_free_year_contents	property_type	property_sub_type	exterior_wall_type	property_built_era	flat_roof	listed_building	roof_type	employment_status	property_built_year	claims_history_count	voluntary_excess_amount	compulsory_excess_amount	policy_excess_amount	subsidence_excess_amount	escape_of_water_excess_amount	policyholder_age	accepts_coverage_product_id	preferred_payment_schedule_id	accepts_payment_schedule_id	contract_renewal_flag	floodre_ceded_flag	auto_renewal_intent_flag	flat_roof	cais_group_risk	credit_score	experian_point_of_quote_score	quote_to_inception_banding	no_of_bedrooms
+	8090498646	NAT60000002390	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	30	1	-2	3	0	0	1	0-50	14			0	2
+	8090498653	NAT60000002394	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	300	50	350	1000	450	25	1	-2	3	0	0	1	0-50	14			0	2
+	8090498661	NAT60000002396	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Self-employed (part-time)	2010	1	300	50	350	1000	450	25	1	-2	3	0	0	1	0-50	14			0	2
+	8090498679	NAT60000002398	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	26	1	-2	3	0	0	1	0-50	14			0	2
+	8090498687	NAT60000002400	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	300	50	350	1000	450	24	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090498695	NAT60000002402	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	28	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090498703	RBS60000000901	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	42	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090498711	RBS60000000903	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	43	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090498729	ULS60000000674	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	31	1	-2	3	0	0	1	0-50	14			0	2
+	8090498737	ULS60000000676	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	24	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090498745	ULS60000000677	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	25	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090498752	ULS60000000678	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	44	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090498760	ULS60000000679	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	31	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090498778	ULS60000000680	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	39	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090498786	NAT60000002404	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	33	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090498802	ULS60000000681	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	27	1	-2	3	0	0	1	0-50	14			0	2
+	8090498810	NAT60000002405	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	26	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090498828	ULS60000000682	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	36	1	-2	3	0	0	1	0-50	14			0	2
+	8090498836	NAT60000002406	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	40	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090498844	ULS60000000683	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	43	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090498851	NAT60000002407	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	38	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090498869	ULS60000000684	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	30	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090498877	ULS60000000685	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	26	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090498885	ULS60000000688	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	40	1	-2	3	0	0	1	0-50	14			0	2
+	8090498893	ULS60000000686	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	0	50	50	1000	450	44	1	-2	3	0	0	1	0-50	14			0	2
+	8090498901	ULS60000000687	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	0	50	50	1000	450	31	1	-2	3	0	0	1	0-50	14			0	2
+	8090498919	ULS60000000689	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	27	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090498927	ULS60000000692	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	25	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090498935	ULS60000000690	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	0	50	50	1000	450	33	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090498943	ULS60000000693	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	34	1	-2	3	0	0	1	0-50	14			0	2
+	8090498950	ULS60000000691	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	0	50	50	1000	450	24	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090498968	ULS60000000694	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	33	1	-2	3	0	0	1	0-50	14			0	2
+	8090498976	ULS60000000697	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	30	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090498984	ULS60000000695	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	0	50	50	1000	450	32	1	-2	3	0	0	1	0-50	14			0	2
+	8090498992	ULS60000000696	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	0	50	50	1000	450	38	1	-2	3	0	0	1	0-50	14			0	2
+	8090499008	ULS60000000698	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	26	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499016	ULS60000000699	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	0	50	50	1000	450	37	1	-2	3	0	0	1	0-50	14			0	2
+	8090499024	ULS60000000700	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	0	50	50	1000	450	38	1	-2	3	0	0	1	0-50	14			0	2
+	8090499032	ULS60000000701	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	26	1	-2	3	0	0	1	0-50	14			0	2
+	8090499040	ULS60000000704	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	44	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499057	ULS60000000702	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	0	50	50	1000	450	42	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499065	ULS60000000703	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	0	50	50	1000	450	33	1	-2	3	0	0	1	0-50	14			0	2
+	8090499073	ULS60000000705	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	28	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499081	ULS60000000706	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	27	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499099	ULS60000000709	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	37	1	-2	3	0	0	1	0-50	14			0	2
+	8090499107	ULS60000000707	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	0	50	50	1000	450	26	1	-2	3	0	0	1	0-50	14			0	2
+	8090499115	ULS60000000708	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	0	50	50	1000	450	27	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499123	ULS60000000710	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	32	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499149	ULS60000000711	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	40	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499156	ULS60000000714	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	43	1	-2	3	0	0	1	0-50	14			0	2
+	8090499164	ULS60000000717	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	44	1	-2	3	0	0	1	0-50	14			0	2
+	8090499172	ULS60000000715	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	0	50	50	1000	450	44	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499180	ULS60000000716	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	0	50	50	1000	450	33	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499206	ULS60000000719	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	26	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499214	ULS60000000718	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	0	50	50	1000	450	36	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499230	ULS60000000720	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	0	50	50	1000	450	24	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499248	ULS60000000721	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	28	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499255	ULS60000000722	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	0	50	50	1000	450	43	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499263	ULS60000000723	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	0	50	50	1000	450	24	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499271	ULS60000000724	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	45	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499297	ULS60000000726	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	300	50	350	1000	450	29	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499305	ULS60000000725	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	0	50	50	1000	450	42	1	-2	3	0	0	1	0-50	14			0	2
+	8090499313	ULS60000000727	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	0	50	50	1000	450	32	1	-2	3	0	0	1	0-50	14			0	2
+	8090499321	NAT60000002403	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Full time)	2010	0	150	50	200	1000	450	33	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499339	RBS60000000902	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	39	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499347	ULS60000000675	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	100	50	150	1000	450	34	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499354	NAT60000002393	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	200	50	250	1000	450	38	1	-2	3	0	0	1	0-50	14			0	2
+	8090499362	NAT60000002395	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	200	50	250	1000	450	33	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499370	NAT60000002397	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Voluntary	2010	0	250	50	300	1000	450	31	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499388	NAT60000002399	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	25	1	-2	3	0	0	1	0-50	14			0	2
+	8090499396	NAT60000002401	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	150	50	200	1000	450	42	1	-2	3	0	0	0	0-50	14			0	2
+	8090499420	ULS60000000728	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	150	50	200	1000	450	43	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499438	ULS60000000729	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	27	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499446	ULS60000000730	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	150	50	200	1000	450	34	1	-2	3	0	0	1	0-50	14			0	2
+	8090499453	ULS60000000732	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	150	50	200	1000	450	32	1	-2	3	0	0	1	0-50	14			0	2
+	8090499461	ULS60000000733	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	36	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499479	ULS60000000734	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	150	50	200	1000	450	40	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499487	ULS60000000735	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	150	50	200	1000	450	28	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499495	ULS60000000736	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Self-employed (part-time)	2010	1	150	50	200	1000	450	42	1	-2	3	0	0	1	0-50	14			0	2
+	8090499537	ULS60000000737	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	150	50	200	1000	450	29	1	-2	3	0	0	1	0-50	14			0	2
+	8090499545	ULS60000000738	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	28	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499552	ULS60000000739	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	150	50	200	1000	450	40	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499560	ULS60000000740	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	150	50	200	1000	450	35	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499578	ULS60000000741	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Self-employed (part-time)	2010	1	150	50	200	1000	450	44	1	-2	3	0	0	1	0-50	14			0	2
+	8090499586	ULS60000000742	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Voluntary	2010	0	150	50	200	1000	450	42	1	-2	3	0	0	1	0-50	14			0	2
+	8090499594	ULS60000000743	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	150	50	200	1000	450	42	1	-2	3	0	0	1	0-50	14			0	2
+	8090499602	ULS60000000745	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	26	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499610	ULS60000000746	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	150	50	200	1000	450	30	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499636	ULS60000000747	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	150	50	200	1000	450	42	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499644	RBS60000000905	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	150	50	200	1000	450	42	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499651	RBS60000000906	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	34	1	-2	3	0	0	1	0-50	14			0	2
+	8090499669	RBS60000000907	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	150	50	200	1000	450	27	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499677	RBS60000000908	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	150	50	200	1000	450	36	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499685	ULS60000000749	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	150	50	200	1000	450	40	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499701	ULS60000000750	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	39	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499719	RBS60000000909	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	150	50	200	1000	450	37	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499727	ULS60000000751	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	150	50	200	1000	450	30	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499735	RBS60000000910	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	44	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499743	ULS60000000752	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	150	50	200	1000	450	28	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499750	RBS60000000911	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	150	50	200	1000	450	34	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499768	RBS60000000912	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	150	50	200	1000	450	33	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499776	RBS60000000913	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Self-employed (part-time)	2010	1	150	50	200	1000	450	32	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499784	RBS60000000914	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	150	50	200	1000	450	37	1	-2	3	0	0	1	0-50	14			0	2
+	8090499792	RBS60000000915	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	25	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499818	NAT60000002410	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	150	50	200	1000	450	30	1	-2	3	0	0	1	0-50	14			0	2
+	8090499826	RBS60000000916	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	150	50	200	1000	450	37	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499834	NAT60000002411	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	40	1	-2	3	0	0	1	0-50	14			0	2
+	8090499842	NAT60000002413	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	150	50	200	1000	450	35	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499859	RBS60000000919	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Voluntary	2010	0	150	50	200	1000	450	41	1	-2	3	0	0	1	0-50	14			0	2
+	8090499867	NAT60000002414	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Self-employed (part-time)	2010	1	150	50	200	1000	450	28	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499875	RBS60000000920	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	150	50	200	1000	450	30	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499883	NAT60000002415	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Voluntary	2010	0	150	50	200	1000	450	32	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499891	RBS60000000921	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	41	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499909	NAT60000002416	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	150	50	200	1000	450	34	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499917	RBS60000000922	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	150	50	200	1000	450	45	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499925	NAT60000002417	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	37	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499933	RBS60000000923	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	150	50	200	1000	450	39	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499941	NAT60000002418	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	150	50	200	1000	450	27	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499958	NAT60000002419	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	150	50	200	1000	450	34	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499974	RBS60000000917	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	150	50	200	1000	450	30	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499982	RBS60000000918	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Self-employed (part-time)	2010	1	0	50	50	1000	450	43	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090499990	RBS60000000924	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	150	50	200	1000	450	24	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500003	RBS60000000925	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	25	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500011	NAT60000002412	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	0	50	50	1000	450	35	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500029	RBS60000000926	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	150	50	200	1000	450	30	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500037	RBS60000000927	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	150	50	200	1000	450	36	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500045	RBS60000000928	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Self-employed (part-time)	2010	1	150	50	200	1000	450	36	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500052	RBS60000000929	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Voluntary	2010	0	150	50	200	1000	450	36	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500060	NAT60000002421	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	150	50	200	1000	450	26	1	-2	3	0	0	1	0-50	14			0	2
+	8090500078	RBS60000000930	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	150	50	200	1000	450	31	1	-2	3	0	0	1	0-50	14			0	2
+	8090500086	NAT60000002422	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	26	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500094	RBS60000000931	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	36	1	-2	3	0	0	1	0-50	14			0	2
+	8090500102	NAT60000002423	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	150	50	200	1000	450	43	1	-2	3	0	0	1	0-50	14			0	2
+	8090500128	RBS60000000932	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	150	50	200	1000	450	26	1	-2	3	0	0	1	0-50	14			0	2
+	8090500136	NAT60000002424	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	150	50	200	1000	450	32	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500144	RBS60000000933	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	150	50	200	1000	450	42	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500151	NAT60000002425	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Self-employed (part-time)	2010	1	150	50	200	1000	450	31	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500169	NAT60000002426	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Voluntary	2010	0	150	50	200	1000	450	37	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500177	NAT60000002427	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	150	50	200	1000	450	26	1	-2	3	0	0	1	0-50	14			0	2
+	8090500185	NAT60000002428	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	33	1	-2	3	0	0	1	0-50	14			0	2
+	8090500193	RBS60000000934	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	150	50	200	1000	450	37	1	-2	3	0	0	1	0-50	14			0	2
+	8090500201	RBS60000000935	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	44	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500219	NAT60000002429	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	150	50	200	1000	450	42	1	-2	3	0	0	1	0-50	14			0	2
+	8090500227	RBS60000000936	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	150	50	200	1000	450	32	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500235	NAT60000002430	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	150	50	200	1000	450	42	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500250	RBS60000000937	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	150	50	200	1000	450	36	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500268	RBS60000000938	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Self-employed (part-time)	2010	1	150	50	200	1000	450	35	1	-2	3	0	0	1	0-50	14			0	2
+	8090500276	RBS60000000939	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Voluntary	2010	0	150	50	200	1000	450	43	1	-2	3	0	0	1	0-50	14			0	2
+	8090500284	NAT60000002431	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	150	50	200	1000	450	35	1	-2	3	0	0	1	0-50	14			0	2
+	8090500292	RBS60000000940	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	150	50	200	1000	450	34	1	-2	3	0	0	1	0-50	14			0	2
+	8090500300	NAT60000002432	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	30	1	-2	3	0	0	1	0-50	14			0	2
+	8090500318	RBS60000000941	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	41	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500326	NAT60000002433	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	150	50	200	1000	450	36	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500334	RBS60000000942	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	150	50	200	1000	450	43	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500342	NAT60000002435	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	150	50	200	1000	450	41	1	-2	3	0	0	1	0-50	14			0	2
+	8090500359	RBS60000000943	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	150	50	200	1000	450	29	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500367	NAT60000002436	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Self-employed (part-time)	2010	1	150	50	200	1000	450	35	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500375	NAT60000002437	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Voluntary	2010	0	150	50	200	1000	450	43	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500391	NAT60000002438	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	150	50	200	1000	450	43	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500409	NAT60000002439	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	31	1	-2	3	0	0	1	0-50	14			0	2
+	8090500417	NAT60000002440	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	150	50	200	1000	450	27	1	-2	3	0	0	1	0-50	14			0	2
+	8090500425	NAT60000002441	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	150	50	200	1000	450	35	1	-2	3	0	0	1	0-50	14			0	2
+	8090500433	RBS60000000944	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	150	50	200	1000	450	45	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500441	RBS60000000945	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	28	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500458	NAT60000002442	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Self-employed (part-time)	2010	1	150	50	200	1000	450	39	1	-2	3	0	0	1	0-50	14			0	2
+	8090500466	RBS60000000946	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	150	50	200	1000	450	27	1	-2	3	0	0	1	0-50	14			0	2
+	8090500474	NAT60000002443	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Voluntary	2010	0	150	50	200	1000	450	41	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500482	RBS60000000947	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	150	50	200	1000	450	44	1	-2	3	0	0	1	0-50	14			0	2
+	8090500490	NAT60000002444	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	150	50	200	1000	450	34	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500516	RBS60000000948	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Self-employed (part-time)	2010	1	150	50	200	1000	450	34	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500524	NAT60000002445	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	40	1	-2	3	0	0	1	0-50	14			0	2
+	8090500532	RBS60000000949	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Voluntary	2010	0	150	50	200	1000	450	37	1	-2	3	0	0	1	0-50	14			0	2
+	8090500540	NAT60000002446	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	150	50	200	1000	450	40	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500557	RBS60000000950	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	150	50	200	1000	450	39	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500565	RBS60000000951	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	37	1	-2	3	0	0	1	0-50	14			0	2
+	8090500573	RBS60000000952	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	150	50	200	1000	450	27	1	-2	3	0	0	1	0-50	14			0	2
+	8090500599	RBS60000000953	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	150	50	200	1000	450	26	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500607	NAT60000002447	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	150	50	200	1000	450	27	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500615	NAT60000002449	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	32	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500623	NAT60000002450	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	150	50	200	1000	450	44	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500631	NAT60000002451	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	150	50	200	1000	450	30	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500649	NAT60000002452	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Self-employed (part-time)	2010	1	150	50	200	1000	450	32	1	-2	3	0	0	1	0-50	14			0	2
+	8090500656	RBS60000000954	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	150	50	200	1000	450	30	1	-2	3	0	0	1	0-50	14			0	2
+	8090500664	NAT60000002453	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Voluntary	2010	0	150	50	200	1000	450	32	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500672	RBS60000000955	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	42	1	-2	3	0	0	1	0-50	14			0	2
+	8090500680	NAT60000002454	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	150	50	200	1000	450	42	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500698	RBS60000000956	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	150	50	200	1000	450	28	1	-2	3	0	0	1	0-50	14			0	2
+	8090500706	NAT60000002455	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	42	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500714	RBS60000000957	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	150	50	200	1000	450	31	1	-2	3	0	0	1	0-50	14			0	2
+	8090500722	NAT60000002456	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	150	50	200	1000	450	33	1	-2	3	0	0	1	0-50	14			0	2
+	8090500748	RBS60000000958	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Self-employed (part-time)	2010	1	150	50	200	1000	450	25	1	-2	3	0	0	1	0-50	14			0	2
+	8090500755	NAT60000002457	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	150	50	200	1000	450	25	1	-2	3	0	0	1	0-50	14			0	2
+	8090500763	RBS60000000959	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Voluntary	2010	0	150	50	200	1000	450	27	1	-2	3	0	0	1	0-50	14			0	2
+	8090500771	NAT60000002458	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Self-employed (part-time)	2010	1	150	50	200	1000	450	33	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500789	RBS60000000960	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	150	50	200	1000	450	29	1	-2	3	0	0	1	0-50	14			0	2
+	8090500797	NAT60000002459	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Voluntary	2010	0	150	50	200	1000	450	34	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500805	RBS60000000961	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	33	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500813	NAT60000002460	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	150	50	200	1000	450	24	1	-2	3	0	0	1	0-50	14			0	2
+	8090500821	RBS60000000962	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	150	50	200	1000	450	25	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500839	RBS60000000963	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	150	50	200	1000	450	24	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500847	NAT60000002461	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	35	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500854	RBS60000000964	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Self-employed (part-time)	2010	1	150	50	200	1000	450	42	1	-2	3	0	0	1	0-50	14			0	2
+	8090500862	NAT60000002462	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	150	50	200	1000	450	34	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500870	RBS60000000965	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Voluntary	2010	0	150	50	200	1000	450	35	1	-2	3	0	0	1	0-50	14			0	2
+	8090500888	RBS60000000966	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	150	50	200	1000	450	38	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500896	RBS60000000967	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	33	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500912	RBS60000000968	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	150	50	200	1000	450	43	1	-2	3	0	0	1	0-50	14			0	2
+	8090500920	NAT60000002463	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	150	50	200	1000	450	26	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500938	RBS60000000969	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	150	50	200	1000	450	32	1	-2	3	0	0	1	0-50	14			0	2
+	8090500946	NAT60000002464	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	42	1	-2	3	0	0	1	0-50	14			0	2
+	8090500953	RBS60000000970	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Self-employed (part-time)	2010	1	150	50	200	1000	450	34	1	-2	3	0	0	1	0-50	14			0	2
+	8090500961	NAT60000002465	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	150	50	200	1000	450	43	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090500979	RBS60000000971	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Voluntary	2010	0	150	50	200	1000	450	24	1	-2	3	0	0	1	0-50	14			0	2
+	8090500995	NAT60000002466	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	150	50	200	1000	450	41	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090501001	NAT60000002467	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Self-employed (part-time)	2010	1	150	50	200	1000	450	43	1	-2	3	0	0	1	0-50	14			0	2
+	8090501019	RBS60000000972	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	150	50	200	1000	450	41	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090501027	NAT60000002469	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Voluntary	2010	0	150	50	200	1000	450	38	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090501035	NAT60000002470	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	150	50	200	1000	450	30	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090501043	RBS60000000973	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	26	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090501050	NAT60000002471	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	38	1	-2	3	0	0	1	0-50	14			0	2
+	8090501068	RBS60000000974	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	150	50	200	1000	450	30	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090501076	NAT60000002472	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	150	50	200	1000	450	31	1	-2	3	0	0	1	0-50	14			0	2
+	8090501084	RBS60000000975	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	150	50	200	1000	450	43	1	-2	3	0	0	1	0-50	14			0	2
+	8090501092	RBS60000000976	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Self-employed (part-time)	2010	1	150	50	200	1000	450	28	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090501118	ULS60000000767	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	150	50	200	1000	450	34	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090501126	ULS60000000768	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	150	50	200	1000	450	36	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090501605	RBS60000000979	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	0	50	50	1000	450	25	3	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090501613	RBS60000000980	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	0	50	50	1000	450	43	3	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090501621	RBS60000000981	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	0	50	50	1000	450	34	3	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090501639	RBS60000000982	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	0	50	50	1000	450	28	3	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090501647	RBS60000000983	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Self-employed (part-time)	2010	1	0	50	50	1000	450	42	3	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090501654	RBS60000000984	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Voluntary	2010	0	0	50	50	1000	450	32	3	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090501662	RBS60000000985	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	0	50	50	1000	450	35	3	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090501670	NAT60000002496	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	0	50	50	1000	450	42	3	-2	3	0	0	1	0-50	14			0	2
+	8090501688	NAT60000002497	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	0	50	50	1000	450	27	3	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090501696	NAT60000002498	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	0	50	50	1000	450	43	3	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090501704	NAT60000002499	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	0	50	50	1000	450	31	3	-2	3	0	0	1	0-50	14			0	2
+	8090501712	NAT60000002500	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	0	50	50	1000	450	38	3	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090501720	NAT60000002501	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	0	50	50	1000	450	25	3	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090501738	NAT60000002502	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Self-employed (part-time)	2010	1	0	50	50	1000	450	31	3	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090501746	NAT60000002377	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	0	50	50	1000	450	40	1	-2	3	0	0	1	0-50	14	699.00	0.00	1	2
+	8090501803	NAT60000002375	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Self-employed (part-time)	2010	1	0	50	50	1000	450	33	1	-2	3	0	0	1	0-50	14			1	2
+	8090501811	NAT60000002379	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Self-employed (part-time)	2010	1	0	50	50	1000	450	25	1	-2	3	0	0	1	0-50	14	699.00	0.00	1	2
+	8090501829	NAT60000002381	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	0	50	50	1000	450	30	1	-2	3	0	0	1	0-50	14	699.00	0.00	1	2
+	8090501845	RBS60000000881	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	0	50	50	1000	450	25	1	-2	3	0	0	1	0-50	14	699.00	0.00	1	2
+	8090501852	RBS60000000891	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	0	50	50	1000	450	44	1	-2	3	0	0	1	0-50	14	699.00	0.00	1	2
+	8090501860	RBS60000000899	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	0	50	50	1000	450	36	1	-2	3	0	0	1	0-50	14	699.00	0.00	1	2
+	8090501936	ULS60000000649	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	0	50	50	1000	450	34	1	-2	3	0	0	1	0-50	14	699.00	0.00	1	2
+	8090501944	ULS60000000650	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	0	50	50	1000	450	40	1	-2	3	0	0	1	0-50	14	699.00	0.00	1	2
+	8090501951	ULS60000000652	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	0	50	50	1000	450	26	1	-2	3	0	0	1	0-50	14	699.00	0.00	1	2
+	8090501969	ULS60000000665	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Self-employed (part-time)	2010	1	0	50	50	1000	450	31	1	-2	3	0	0	1	0-50	14			1	2
+	8090501977	ULS60000000668	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	0	50	50	1000	450	35	1	-2	3	0	0	1	0-50	14	699.00	0.00	1	2
+	8090501985	NAT60000002385	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	0	50	50	1000	450	44	1	-2	3	0	0	1	0-50	14			1	2
+	8090501993	NAT60000002368	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	0	50	50	1000	450	27	1	-2	3	0	0	1	0-50	14	699.00	0.00	1	2
+	8090502009	NAT60000002382	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	0	50	50	1000	450	37	1	-2	3	0	0	1	0-50	14	699.00	0.00	1	2
+	8090502017	RBS60000000882	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Self-employed (part-time)	2010	1	0	50	50	1000	450	36	1	-2	3	0	0	1	0-50	14	699.00	0.00	1	2
+	8090502025	RBS60000000883	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Voluntary	2010	0	0	50	50	1000	450	35	1	-2	3	0	0	1	0-50	14			1	2
+	8090502033	RBS60000000895	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Voluntary	2010	0	0	50	50	1000	450	40	1	-2	3	0	0	1	0-50	14	699.00	0.00	1	2
+	8090502041	RBS60000000892	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	0	50	50	1000	450	44	1	-2	3	0	0	1	0-50	14	699.00	0.00	1	2
+	8090502058	ULS60000000663	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	0	50	50	1000	450	40	1	-2	3	0	0	1	0-50	14	699.00	0.00	1	2
+	8090502066	ULS60000000713	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	0	50	50	1000	450	40	1	-2	3	0	0	1	0-50	14			1	2
+	8090502074	ULS60000000655	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	0	50	50	1000	450	31	1	-2	3	0	0	1	0-50	14	699.00	0.00	1	2
+	8090502082	ULS60000000673	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	0	50	50	1000	450	30	1	-2	3	0	0	1	0-50	14	699.00	0.00	1	2
+	8090502090	NAT60000002369	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	0	50	50	1000	450	31	1	-2	3	0	0	1	0-50	14	699.00	0.00	1	2
+	8090502108	NAT60000002387	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	0	50	50	1000	450	36	1	-2	3	0	0	1	0-50	14			1	2
+	8090502116	RBS60000000876	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	0	50	50	1000	450	39	1	-2	3	0	0	1	0-50	14	699.00	0.00	1	2
+	8090502124	RBS60000000879	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	0	50	50	1000	450	38	1	-2	3	0	0	1	0-50	14	699.00	0.00	1	2
+	8090502132	RBS60000000887	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	0	50	50	1000	450	30	1	-2	3	0	0	1	0-50	14	699.00	0.00	1	2
+	8090502140	RBS60000000900	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Self-employed (part-time)	2010	1	0	50	50	1000	450	32	1	-2	3	0	0	1	0-50	14	699.00	0.00	1	2
+	8090502157	ULS60000000712	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	0	50	50	1000	450	43	1	-2	3	0	0	1	0-50	14			1	2
+	8090502165	ULS60000000656	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	0	50	50	1000	450	33	1	-2	3	0	0	1	0-50	14			1	2
+	8090502173	ULS60000000669	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	0	50	50	1000	450	38	1	-2	3	0	0	1	0-50	14			1	2
+	8090502181	ULS60000000670	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	0	50	50	1000	450	37	1	-2	3	0	0	1	0-50	14	699.00	0.00	1	2
+	8090502199	NAT60000002370	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	0	50	50	1000	450	36	1	-2	3	0	0	1	0-50	14	699.00	0.00	1	2
+	8090502207	NAT60000002373	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	0	50	50	1000	450	31	1	-2	3	0	0	1	0-50	14	699.00	0.00	1	2
+	8090502215	NAT60000002366	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	0	50	50	1000	450	41	1	-2	3	0	1	1	0-50	14	699.00	0.00	1	2
+	8090502223	NAT60000002384	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	0	50	50	1000	450	40	1	-2	3	0	0	1	0-50	14			1	2
+	8090502231	RBS60000000877	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	0	50	50	1000	450	39	1	-2	3	0	0	1	0-50	14	699.00	0.00	1	2
+	8090502249	RBS60000000898	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	0	50	50	1000	450	32	1	-2	3	0	0	1	0-50	14	699.00	0.00	1	2
+	8090502256	RBS60000000880	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	1	0	50	50	1000	450	40	1	-2	3	0	0	1	0-50	14			1	2
+	8090502264	ULS60000000659	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Self-employed (part-time)	2010	1	0	50	50	1000	450	32	1	-2	3	0	0	1	0-50	14	699.00	0.00	1	2
+	8090502272	ULS60000000664	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Self-employed (full time)	2010	0	0	50	50	1000	450	30	1	-2	3	0	0	1	0-50	14	699.00	0.00	1	2
+	8090502280	NAT60000002389	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	0	50	50	1000	450	31	1	-2	3	0	0	1	0-50	14			1	2
+	8090502298	NAT60000002391	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	0	50	50	1000	450	40	1	-2	3	0	0	1	0-50	14	699.00	0.00	1	2
+	8090502306	RBS60000000884	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	0	50	50	1000	450	28	1	-2	3	0	0	1	0-50	14	699.00	0.00	1	2
+	8090502322	ULS60000000822	2	Owned			House	Detached House	Brick		None	GRA1	TILE	Voluntary	1995	0	150	50	200	1000	450	25	1	-2	3	0	0	0	None	14	699.00	0.00	0	4
+	8090502330	ULS60000000821	2	Rented - Private			House	End-Terraced House	Concrete		0-50	GRA1	SLATE	Retired	2010	0	0	50	50	1000	450	34	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090502348	ULS60000000820	2	Owned			Bungalow	Detached Bungalow	Brick		0-50	GRA1	TILE	Employed (Part time)	2010	0	100	50	150	1000	450	37	1	-2	3	0	0	1	0-50	14	699.00	0.00	0	2
+	8090502355	ULS60000000819	2	Rented - Private			House	Semi-Detached House	Stone Construction		0-50	GRA1	SLATE	Employed (Full time)	2010	1	0	50	50	1000	450	34	1	-2	3	0	0	0	0-50	14			0	2
+	8090502363	NAT60000002495	2	Undefined			House/Flat Share - Own Lock	House/Flat Share - Own Lock-Undefined	Undefined					Employed (Part time)		0	0	50	50	0	200	44	2	-2	3	0	0	1		14			6-10	
+	8090502371	NAT60000002494	2	Undefined			House/Flat Share - Own Lock	House/Flat Share - Own Lock-Undefined	Undefined					Employed (Full time)		1	0	50	50	0	200	44	2	-2	3	0	0	1		14			6-10	
+	8090502389	NAT60000002493	2	Undefined			House/Flat Share - Own Lock	House/Flat Share - Own Lock-Undefined	Undefined					Voluntary		0	0	50	50	0	200	35	2	-2	3	0	0	1		14	699.00	0.00	6-10	
+	8090502397	NAT60000002492	2	Undefined			House/Flat Share - Own Lock	House/Flat Share - Own Lock-Undefined	Undefined					Self-employed (part-time)		1	0	50	50	0	200	26	2	-2	3	0	0	1		14			6-10	
+	8090502405	NAT60000002491	2	Undefined			House/Flat Share - Own Lock	House/Flat Share - Own Lock-Undefined	Undefined					Self-employed (full time)		0	0	50	50	0	200	39	2	-2	3	0	0	1		14	699.00	0.00	6-10	
+	8090502413	NAT60000002490	2	Undefined			House/Flat Share - Own Lock	House/Flat Share - Own Lock-Undefined	Undefined					Retired		1	0	50	50	0	200	36	2	-2	3	0	0	1		14	699.00	0.00	6-10	
+	8090502421	NAT60000002489	2	Undefined			House/Flat Share - Own Lock	House/Flat Share - Own Lock-Undefined	Undefined					Employed (Part time)		0	0	50	50	0	200	35	2	-2	3	0	0	1		14	699.00	0.00	6-10	
+	8090502439	NAT60000002488	2	Undefined			House/Flat Share - Own Lock	House/Flat Share - Own Lock-Undefined	Undefined					Employed (Full time)		1	0	50	50	0	200	25	2	-2	3	0	0	1		14			6-10	
+	8090502447	NAT60000002487	2	Undefined			House/Flat Share - Own Lock	House/Flat Share - Own Lock-Undefined	Undefined					Voluntary		0	0	50	50	0	200	33	2	-2	3	0	0	1		14	699.00	0.00	6-10	
+	8090502454	NAT60000002486	2	Undefined			House/Flat Share - Own Lock	House/Flat Share - Own Lock-Undefined	Undefined					Self-employed (part-time)		1	0	50	50	0	200	26	2	-2	3	0	0	1		14	699.00	0.00	6-10	
+	8090502462	NAT60000002485	2	Undefined			House/Flat Share - Own Lock	House/Flat Share - Own Lock-Undefined	Undefined					Self-employed (full time)		0	0	50	50	0	200	37	2	-2	3	0	0	1		14	699.00	0.00	6-10	
+	8090502470	NAT60000002484	2	Undefined			House/Flat Share - Own Lock	House/Flat Share - Own Lock-Undefined	Undefined					Retired		1	0	50	50	0	200	40	2	-2	3	0	0	1		14	699.00	0.00	6-10	
+	8090502488	NAT60000002483	2	Undefined			House/Flat Share - Own Lock	House/Flat Share - Own Lock-Undefined	Undefined					Employed (Part time)		0	0	50	50	0	200	30	2	-2	3	0	0	1		14	699.00	0.00	6-10	
+	8090502496	NAT60000002482	2	Undefined			House/Flat Share - Own Lock	House/Flat Share - Own Lock-Undefined	Undefined					Employed (Full time)		1	0	50	50	0	200	32	2	-2	3	0	0	1		14	699.00	0.00	6-10	
+	8090502504	NAT60000002481	2	Undefined			House/Flat Share - Own Lock	House/Flat Share - Own Lock-Undefined	Undefined					Voluntary		0	0	50	50	0	200	39	2	-2	3	0	0	1		14	699.00	0.00	6-10	
+	8090502512	NAT60000002480	2	Undefined			House/Flat Share - Own Lock	House/Flat Share - Own Lock-Undefined	Undefined					Self-employed (part-time)		1	0	50	50	0	200	24	2	-2	3	0	0	1		14	699.00	0.00	6-10	
+	8090502520	NAT60000002479	2	Undefined			House/Flat Share - Own Lock	House/Flat Share - Own Lock-Undefined	Undefined					Self-employed (full time)		0	0	50	50	0	200	34	2	-2	3	0	0	1		14	699.00	0.00	6-10	
+	8090502538	NAT60000002478	2	Undefined			House/Flat Share - Own Lock	House/Flat Share - Own Lock-Undefined	Undefined					Retired		1	0	50	50	0	200	28	2	-2	3	0	0	1		14	699.00	0.00	6-10	
+	8090502546	NAT60000002477	2	Undefined			House/Flat Share - Own Lock	House/Flat Share - Own Lock-Undefined	Undefined					Employed (Part time)		0	0	50	50	0	200	30	2	-2	3	0	0	1		14	699.00	0.00	6-10	
+	8090502553	NAT60000002476	2	Undefined			House/Flat Share - Own Lock	House/Flat Share - Own Lock-Undefined	Undefined					Employed (Full time)		1	0	50	50	0	200	28	2	-2	3	0	0	1		14			6-10	
+	8090502611	NAT60000002507	2	Rented - Private			Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	TILE	Voluntary	1955	0	0	50	50	1000	450	38	1	-2	4	0	0	0	None	14	699.00	0.00	0	2
+	8090502629	NAT60000002508	2	Rented - Private			Bungalow	Semi-Detached Bungalow	Brick		None	NOT_LIS	TILE	Voluntary	1955	0	0	50	50	1000	450	38	1	-2	4	0	0	0	None	14	699.00	0.00	0	2
+	8090502637	RBS60000000989	2	Rented - Private			Flat	Flat - Ground Floor	Brick		None	NOT_LIS	TILE	Employed (Full time)	1955	1	0	50	50	2000	450	41	1	-2	4	0	0	0	None	14	699.00	0.00	0	2
+	8090502645	RBS60000000990	2	Rented - Private			Flat	Flat - Ground Floor	Brick		None	NOT_LIS	TILE	Employed (Full time)	1955	1	0	50	50	2000	450	41	1	-2	4	0	0	0	None	14	699.00	0.00	0	2
+	8090502652	ULS60000000823	2	Owned			House	Mid Terraced House	Brick		None	NOT_LIS	TILE	Employed (Part time)	1983	0	0	50	50	1000	450	36	1	-2	4	0	0	0	None	14	699.00	0.00	0	3
+	8090502678	ULS60000000824	2	Owned			House	Mid Terraced House	Brick		None	NOT_LIS	TILE	Employed (Part time)	1983	0	0	50	50	1000	450	36	1	-2	4	0	0	0	None	14	699.00	0.00	0	3
