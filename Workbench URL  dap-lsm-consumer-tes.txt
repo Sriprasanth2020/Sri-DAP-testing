@@ -1,0 +1,5 @@
+Workbench URL : dap-lsm-consumer-test.dlg-ci-cdotest-externaldata.serverlessplatform.co.uk
+	Database : dapdw_consumer_test
+	Port : 5439
+		USERNAME : svc_home_tableau
+		PASSWORD : G*W_(:23?5+t2Fmf
