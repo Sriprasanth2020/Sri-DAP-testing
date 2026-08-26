@@ -3,3 +3,6 @@ Workbench URL : dap-lsm-consumer-test.dlg-ci-cdotest-externaldata.serverlessplat
 	Port : 5439
 		USERNAME : svc_home_tableau
 		PASSWORD : G*W_(:23?5+t2Fmf
+jdbc:redshift://dlg-dap-sandpit-lsm-test.622394616638.eu-west-1.redshift-serverless.amazonaws.com:5439/sandpit_test
+
+jdbc:redshift://dlg-dap-sandpit-lsm-test.622394616638.eu-west-1.redshift-serverless.amazonaws.com:5439/sandpit_test
