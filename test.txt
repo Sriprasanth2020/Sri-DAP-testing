@@ -1,0 +1,708 @@
+1) New business
+
+select A.policy_number,A.quote_persist_reference,A.originating_channel_id,A.policy_sequence,D.policy_transaction_type_code,C.sub_channel_code,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_insured_risk A,
+dapdw_consumer_test.dap_lsm_home.dim_policy_cancel_reason B,
+dapdw_consumer_test.dap_lsm_home.dim_channel C,
+dapdw_consumer_test.dap_lsm_home.dim_policy_transaction_type D
+where A.contract_cancel_reason_id=B.policy_cancel_reason_id
+and A.originating_channel_id=C.channel_id
+and A.policy_transaction_type_id=D.policy_transaction_type_id 
+and A.policy_number='8091047871';
+
+select distinct A.policy_number,A.quote_persist_reference,D.originating_channel_id,B.policy_transaction_type_code,C.sub_channel_code,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_quoted_risk A,
+dapdw_consumer_test.dap_lsm_home.dim_policy_transaction_type B,
+dapdw_consumer_test.dap_lsm_home.dim_channel C,
+dapdw_consumer_test.dap_lsm_home.fact_insured_risk D
+where A.policy_transaction_type_id=B.policy_transaction_type_id
+and A.originating_channel_id=C.channel_id
+and A.quote_persist_reference=D.quote_persist_reference 
+and A.quote_persist_reference='DLI60000031489';
+
+
+select distinct A.policy_number,A.quote_persist_reference,D.originating_channel_id,B.policy_transaction_type_code,C.sub_channel_code,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_quote_conversion_declines_trading A,
+dapdw_consumer_test.dap_lsm_home.dim_policy_transaction_type B,
+dapdw_consumer_test.dap_lsm_home.dim_channel C,
+dapdw_consumer_test.dap_lsm_home.fact_insured_risk D
+where A.policy_transaction_type_id=B.policy_transaction_type_id
+and A.originating_channel_id=C.channel_id
+and A.quote_persist_reference=D.quote_persist_reference 
+and A.quote_persist_reference='DLI60000031489';
+-------
+2) MTA
+
+select A.policy_number,A.quote_persist_reference,A.originating_channel_id,A.policy_sequence,D.policy_transaction_type_code,C.sub_channel_code,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_insured_risk A,
+dapdw_consumer_test.dap_lsm_home.dim_policy_cancel_reason B,
+dapdw_consumer_test.dap_lsm_home.dim_channel C,
+dapdw_consumer_test.dap_lsm_home.dim_policy_transaction_type D
+where A.contract_cancel_reason_id=B.policy_cancel_reason_id
+and A.originating_channel_id=C.channel_id
+and A.policy_transaction_type_id=D.policy_transaction_type_id 
+and A.policy_number='8091047871';
+
+select distinct A.policy_number,A.quote_persist_reference,D.originating_channel_id,B.policy_transaction_type_code,C.sub_channel_code,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_quoted_risk A,
+dapdw_consumer_test.dap_lsm_home.dim_policy_transaction_type B,
+dapdw_consumer_test.dap_lsm_home.dim_channel C,
+dapdw_consumer_test.dap_lsm_home.fact_insured_risk D
+where A.policy_transaction_type_id=B.policy_transaction_type_id
+and A.originating_channel_id=C.channel_id
+and A.quote_persist_reference=D.quote_persist_reference 
+and A.quote_persist_reference='DLI60000031489';
+
+
+select distinct A.policy_number,A.quote_persist_reference,D.originating_channel_id,B.policy_transaction_type_code,C.sub_channel_code,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_quote_conversion_declines_trading A,
+dapdw_consumer_test.dap_lsm_home.dim_policy_transaction_type B,
+dapdw_consumer_test.dap_lsm_home.dim_channel C,
+dapdw_consumer_test.dap_lsm_home.fact_insured_risk D
+where A.policy_transaction_type_id=B.policy_transaction_type_id
+and A.originating_channel_id=C.channel_id
+and A.quote_persist_reference=D.quote_persist_reference 
+and A.quote_persist_reference='DLI60000031489';
+-------------
+3) Cancellation
+
+select A.policy_number,A.quote_persist_reference,A.originating_channel_id,A.policy_sequence,D.policy_transaction_type_code,C.sub_channel_code,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_insured_risk A,
+dapdw_consumer_test.dap_lsm_home.dim_policy_cancel_reason B,
+dapdw_consumer_test.dap_lsm_home.dim_channel C,
+dapdw_consumer_test.dap_lsm_home.dim_policy_transaction_type D
+where A.contract_cancel_reason_id=B.policy_cancel_reason_id
+and A.originating_channel_id=C.channel_id
+and A.policy_transaction_type_id=D.policy_transaction_type_id 
+and A.policy_number='8091020159';
+
+----
+4) brand
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,C.brand_code,B.channel_code,B.sub_channel_code
+from dapdw_consumer_test.dap_lsm_home.fact_insured_risk A,
+dapdw_consumer_test.dap_lsm_home.dim_channel B,
+dapdw_consumer_test.dap_lsm_home.dim_brand C
+where A.originating_channel_id=B.channel_id
+and A.brand_id=C.brand_id 
+and A.policy_number='8090976203';
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,C.brand_code,B.channel_code,B.sub_channel_code,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_quoted_risk A,
+dapdw_consumer_test.dap_lsm_home.dim_channel B,
+dapdw_consumer_test.dap_lsm_home.dim_brand C
+where A.originating_channel_id=B.channel_id
+and A.brand_id=C.brand_id 
+and A.quote_persist_reference='PRV70000124336';
+
+select A.policy_number,A.quote_persist_reference,A.originating_channel_id,C.brand_code,B.channel_code,B.sub_channel_code,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_quote_conversion_declines_trading A,
+dapdw_consumer_test.dap_lsm_home.dim_channel B,
+dapdw_consumer_test.dap_lsm_home.dim_brand C
+where A.originating_channel_id=B.channel_id
+and A.brand_id=C.brand_id 
+and A.quote_persist_reference='PRV70000124336';
+-----
+
+5) dd payment
+
+select A.policy_number,A.quote_persist_reference,A.originating_channel_id,B.payment_schedule_id,B.payment_schedule_code,C.channel_code,C.sub_channel_code,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_insured_risk A,
+dapdw_consumer_test.dap_lsm_home.dim_payment_schedule B,
+dapdw_consumer_test.dap_lsm_home.dim_channel C
+where A.payment_schedule_id=B.payment_schedule_id
+and A.originating_channel_id=C.channel_id 
+and A.policy_number='8090959696';
+
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,D.payment_schedule_id,B.payment_schedule_code,C.channel_code,C.sub_channel_code,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_quoted_risk A,
+dapdw_consumer_test.dap_lsm_home.dim_payment_schedule B,
+dapdw_consumer_test.dap_lsm_home.dim_channel C,
+dapdw_consumer_test.dap_lsm_home.fact_insured_risk D
+where D.payment_schedule_id=B.payment_schedule_id
+and A.originating_channel_id=C.channel_id 
+and A.quote_persist_reference=D.quote_persist_reference
+and A.quote_persist_reference='DLI60000032848';
+
+select  A.policy_number,A.quote_persist_reference,A.originating_channel_id,D.payment_schedule_id,B.payment_schedule_code,C.channel_code,C.sub_channel_code,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_quote_conversion_declines_trading A,
+dapdw_consumer_test.dap_lsm_home.dim_payment_schedule B,
+dapdw_consumer_test.dap_lsm_home.dim_channel C,
+dapdw_consumer_test.dap_lsm_home.fact_insured_risk D
+where D.payment_schedule_id=B.payment_schedule_id
+and A.originating_channel_id=C.channel_id 
+and A.quote_persist_reference=D.quote_persist_reference
+and A.quote_persist_reference='DLI60000032848';
+-----
+6) Guidware
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,B.channel_code,B.sub_channel_code,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_insured_risk A,
+dapdw_consumer_test.dap_lsm_home.dim_channel B
+where A.originating_channel_id=B.channel_id 
+and A.policy_number='8090938336';
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,B.channel_code,B.sub_channel_code,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_quoted_risk A,
+dapdw_consumer_test.dap_lsm_home.dim_channel B
+where A.originating_channel_id=B.channel_id 
+and A.quote_persist_reference='DLI60000029185';
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,B.channel_code,B.sub_channel_code,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_quote_conversion_declines_trading A,
+dapdw_consumer_test.dap_lsm_home.dim_channel B
+where A.originating_channel_id=B.channel_id 
+and A.quote_persist_reference='DLI60000029185';
+----
+7) Digital
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,B.channel_code,B.sub_channel_code,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_insured_risk A,
+dapdw_consumer_test.dap_lsm_home.dim_channel B
+where A.originating_channel_id=B.channel_id 
+and A.policy_number='8090947030';
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,B.channel_code,B.sub_channel_code,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_quoted_risk A,
+dapdw_consumer_test.dap_lsm_home.dim_channel B
+where A.originating_channel_id=B.channel_id 
+and A.quote_persist_reference='DLI80000029424';
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,B.channel_code,B.sub_channel_code,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_quote_conversion_declines_trading A,
+dapdw_consumer_test.dap_lsm_home.dim_channel B
+where A.originating_channel_id=B.channel_id 
+and A.quote_persist_reference='DLI80000029424';
+----
+8) PCW
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,B.channel_code,B.sub_channel_code,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_insured_risk A,
+dapdw_consumer_test.dap_lsm_home.dim_channel B
+where A.originating_channel_id=B.channel_id 
+and A.policy_number='8090954804';
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,B.channel_code,B.sub_channel_code,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_quoted_risk A,
+dapdw_consumer_test.dap_lsm_home.dim_channel B
+where A.originating_channel_id=B.channel_id 
+and A.quote_persist_reference='DLI60000031488';
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,B.channel_code,B.sub_channel_code,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_quote_conversion_declines_trading A,
+dapdw_consumer_test.dap_lsm_home.dim_channel B
+where A.originating_channel_id=B.channel_id 
+and A.quote_persist_reference='DLI60000031488';
+------
+9) BUilding Cover
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,B.channel_code,B.sub_channel_code,A.cover_type_id,C.cover_type_code,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_insured_risk A,
+dapdw_consumer_test.dap_lsm_home.dim_channel B,
+dapdw_consumer_test.dap_lsm_home.dim_cover_type C
+where A.originating_channel_id=B.channel_id 
+and A.cover_type_id=C.cover_type_id
+and A.policy_number='8090952899';
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,B.channel_code,B.sub_channel_code,A.cover_type_id,C.cover_type_code,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_quoted_risk A,
+dapdw_consumer_test.dap_lsm_home.dim_channel B,
+dapdw_consumer_test.dap_lsm_home.dim_cover_type C
+where A.originating_channel_id=B.channel_id 
+and A.cover_type_id=C.cover_type_id
+and A.quote_persist_reference='DLI60000029786';
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,B.channel_code,B.sub_channel_code,A.cover_type_id,C.cover_type_code,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_quote_conversion_declines_trading A,
+dapdw_consumer_test.dap_lsm_home.dim_channel B,
+dapdw_consumer_test.dap_lsm_home.dim_cover_type C
+where A.originating_channel_id=B.channel_id 
+and A.cover_type_id=C.cover_type_id
+and A.quote_persist_reference='DLI60000029786';
+-----
+10) contents cover
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,B.channel_code,B.sub_channel_code,A.cover_type_id,C.cover_type_code,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_insured_risk A,
+dapdw_consumer_test.dap_lsm_home.dim_channel B,
+dapdw_consumer_test.dap_lsm_home.dim_cover_type C
+where A.originating_channel_id=B.channel_id 
+and A.cover_type_id=C.cover_type_id
+and A.policy_number='8090959704';
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,B.channel_code,B.sub_channel_code,A.cover_type_id,C.cover_type_code,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_quoted_risk A,
+dapdw_consumer_test.dap_lsm_home.dim_channel B,
+dapdw_consumer_test.dap_lsm_home.dim_cover_type C
+where A.originating_channel_id=B.channel_id 
+and A.cover_type_id=C.cover_type_id
+and A.quote_persist_reference='DLI60000032849';
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,B.channel_code,B.sub_channel_code,A.cover_type_id,C.cover_type_code,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_quote_conversion_declines_trading A,
+dapdw_consumer_test.dap_lsm_home.dim_channel B,
+dapdw_consumer_test.dap_lsm_home.dim_cover_type C
+where A.originating_channel_id=B.channel_id 
+and A.cover_type_id=C.cover_type_id
+and A.quote_persist_reference='DLI60000032849';
+-----
+11) BUilding & contents cover
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,B.channel_code,B.sub_channel_code,A.cover_type_id,C.cover_type_code,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_insured_risk A,
+dapdw_consumer_test.dap_lsm_home.dim_channel B,
+dapdw_consumer_test.dap_lsm_home.dim_cover_type C
+where A.originating_channel_id=B.channel_id 
+and A.cover_type_id=C.cover_type_id
+and A.policy_number='8090958235';
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,B.channel_code,B.sub_channel_code,A.cover_type_id,C.cover_type_code,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_quoted_risk A,
+dapdw_consumer_test.dap_lsm_home.dim_channel B,
+dapdw_consumer_test.dap_lsm_home.dim_cover_type C
+where A.originating_channel_id=B.channel_id 
+and A.cover_type_id=C.cover_type_id
+and A.quote_persist_reference='DLI70000032695';
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,B.channel_code,B.sub_channel_code,A.cover_type_id,C.cover_type_code,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_quote_conversion_declines_trading A,
+dapdw_consumer_test.dap_lsm_home.dim_channel B,
+dapdw_consumer_test.dap_lsm_home.dim_cover_type C
+where A.originating_channel_id=B.channel_id 
+and A.cover_type_id=C.cover_type_id
+and A.quote_persist_reference='DLI70000032695';
+-----------
+12) HE24 
+
+
+select distinct policy_number,quote_persist_reference,originating_channel_id,he24_flag,transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_insured_risk 
+where policy_number='8090954754';  
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,B.he24_flag
+from dapdw_consumer_test.dap_lsm_home.fact_quoted_risk A,
+dapdw_consumer_test.dap_lsm_home.fact_insured_risk B
+where A.quote_persist_reference=B.quote_persist_reference 
+and A.quote_persist_reference='DLI60000031459';
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,B.he24_flag
+from dapdw_consumer_test.dap_lsm_home.fact_quote_conversion_declines_trading A,
+dapdw_consumer_test.dap_lsm_home.fact_insured_risk B
+where A.quote_persist_reference=B.quote_persist_reference 
+and A.quote_persist_reference='DLI60000031459';
+
+----
+13) FLP
+select distinct policy_number,quote_persist_reference,originating_channel_id,flp_flag,transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_insured_risk 
+where policy_number='8090954754';  
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,B.flp_flag
+from dapdw_consumer_test.dap_lsm_home.fact_quoted_risk A,
+dapdw_consumer_test.dap_lsm_home.fact_insured_risk B
+where A.quote_persist_reference=B.quote_persist_reference 
+and A.quote_persist_reference='DLI60000031459';
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,B.flp_flag
+from dapdw_consumer_test.dap_lsm_home.fact_quote_conversion_declines_trading A,
+dapdw_consumer_test.dap_lsm_home.fact_insured_risk B
+where A.quote_persist_reference=B.quote_persist_reference 
+and A.quote_persist_reference='DLI60000031459';
+
+------
+14) Building cover acc_damage addon
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,A.cover_type_id,B.cover_type_code,A.acc_damage_buildings_flag,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_insured_risk A,
+dapdw_consumer_test.dap_lsm_home.dim_cover_type B
+where A.cover_type_id=B.cover_type_id
+and A.policy_number='8090954754';
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,C.cover_type_id,B.cover_type_code,C.acc_damage_buildings_flag
+from dapdw_consumer_test.dap_lsm_home.fact_quoted_risk A,
+dapdw_consumer_test.dap_lsm_home.dim_cover_type B,
+dapdw_consumer_test.dap_lsm_home.fact_insured_risk C
+where A.cover_type_id=B.cover_type_id
+and A.quote_persist_reference=C.quote_persist_reference
+and A.quote_persist_reference='DLI60000031459';
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,C.cover_type_id,B.cover_type_code,C.acc_damage_buildings_flag
+from dapdw_consumer_test.dap_lsm_home.fact_quote_conversion_declines_trading A,
+dapdw_consumer_test.dap_lsm_home.dim_cover_type B,
+dapdw_consumer_test.dap_lsm_home.fact_insured_risk C
+where A.cover_type_id=B.cover_type_id
+and A.quote_persist_reference=C.quote_persist_reference
+and A.quote_persist_reference='DLI60000031459';
+-----
+15) content cover acc_damage addon
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,A.cover_type_id,B.cover_type_code,A.acc_damage_contents_flag,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_insured_risk A,
+dapdw_consumer_test.dap_lsm_home.dim_cover_type B
+where A.cover_type_id=B.cover_type_id
+and A.policy_number='8090959720';
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,C.cover_type_id,B.cover_type_code,C.acc_damage_contents_flag
+from dapdw_consumer_test.dap_lsm_home.fact_quoted_risk A,
+dapdw_consumer_test.dap_lsm_home.dim_cover_type B,
+dapdw_consumer_test.dap_lsm_home.fact_insured_risk C
+where A.cover_type_id=B.cover_type_id
+and A.quote_persist_reference=C.quote_persist_reference
+and A.quote_persist_reference='DLI70000032852';  
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,C.cover_type_id,B.cover_type_code,C.acc_damage_contents_flag
+from dapdw_consumer_test.dap_lsm_home.fact_quote_conversion_declines_trading A,
+dapdw_consumer_test.dap_lsm_home.dim_cover_type B,
+dapdw_consumer_test.dap_lsm_home.fact_insured_risk C
+where A.cover_type_id=B.cover_type_id
+and A.quote_persist_reference=C.quote_persist_reference
+and A.quote_persist_reference='DLI70000032852';
+------
+16) JPH
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,A.policy_sequence,B.policy_holder_type,A.coverage_product_id,C.coverage_product_code,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_insured_risk A,
+dapdw_consumer_test.dap_lsm_home.dim_policy_holder B,
+dapdw_consumer_test.dap_lsm_home.dim_coverage_product C
+where A.coverage_product_id=C.coverage_product_id
+and A.policy_number=B.policy_number
+and A.policy_number='8091012719';
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,B.policy_holder_type,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_quoted_risk A,
+dapdw_consumer_test.dap_lsm_home.dim_policy_holder B
+where A.policy_number=B.policy_number
+and A.quote_persist_reference='DLI70000044269';
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,B.policy_holder_type,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_quote_conversion_declines_trading A,
+dapdw_consumer_test.dap_lsm_home.dim_policy_holder B
+where A.policy_number=B.policy_number
+and A.quote_persist_reference='DLI70000044269';
+-----
+17) floodre
+
+select distinct policy_number,quote_persist_reference,originating_channel_id,floodre_ceded_flag,current_flood_ind,transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_insured_risk 
+where policy_number='8091020159';
+
+select distinct policy_number,quote_persist_reference,originating_channel_id,floodre_ceded_flag,current_flood_ind
+from dapdw_consumer_test.dap_lsm_home.fact_quoted_risk 
+where quote_persist_reference='DLI70000046755'
+
+select distinct policy_number,quote_persist_reference,originating_channel_id,floodre_ceded_flag,current_flood_ind
+from dapdw_consumer_test.dap_lsm_home.fact_quote_conversion_declines_trading 
+where quote_persist_reference='DLI70000046755';
+
+-----
+18) with_alarm
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,A.installed_maintained_alarm_ind,A.coverage_product_id,B.coverage_product_code
+ from dapdw_consumer_test.dap_lsm_home.fact_insured_risk A,
+ dapdw_consumer_test.dap_lsm_home.dim_coverage_product B
+where A.coverage_product_id=B.coverage_product_id
+and A.policy_number= 8091012719;
+
+
+select distinct policy_number,quote_persist_reference,originating_channel_id,installed_maintained_alarm_ind
+ from dapdw_consumer_test.dap_lsm_home.fact_quoted_risk 
+where quote_persist_reference='DLI70000044269'
+
+select distinct policy_number,quote_persist_reference,originating_channel_id,installed_maintained_alarm_ind
+ from dapdw_consumer_test.dap_lsm_home.fact_quote_conversion_declines_trading 
+where quote_persist_reference='DLI70000044269'
+
+-------
+19) without_alaram
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,A.installed_maintained_alarm_ind,A.coverage_product_id,B.coverage_product_code
+ from dapdw_consumer_test.dap_lsm_home.fact_insured_risk A,
+ dapdw_consumer_test.dap_lsm_home.dim_coverage_product B
+where A.coverage_product_id=B.coverage_product_id
+and A.policy_number= 8091012719;
+
+
+select distinct policy_number,quote_persist_reference,originating_channel_id,installed_maintained_alarm_ind
+ from dapdw_consumer_test.dap_lsm_home.fact_quoted_risk 
+where quote_persist_reference='DLI70000044269'
+
+select distinct policy_number,quote_persist_reference,originating_channel_id,installed_maintained_alarm_ind
+ from dapdw_consumer_test.dap_lsm_home.fact_quote_conversion_declines_trading 
+where quote_persist_reference='DLI70000044269';
+------
+20) permanent resident ind
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,A.permanent_resident_ind,A.coverage_product_id,B.coverage_product_code,A.transaction_created_date_id
+ from dapdw_consumer_test.dap_lsm_home.fact_insured_risk A,
+ dapdw_consumer_test.dap_lsm_home.dim_coverage_product B
+where A.coverage_product_id=B.coverage_product_id
+--and  A.policy_number= 8090951438;
+
+select distinct policy_number,quote_persist_reference,originating_channel_id,permanent_resident_ind
+ from dapdw_consumer_test.dap_lsm_home.fact_quoted_risk 
+where quote_persist_reference='DLI60000029635';
+
+select distinct policy_number,quote_persist_reference,originating_channel_id,permanent_resident_ind
+ from dapdw_consumer_test.dap_lsm_home.fact_quote_conversion_declines_trading 
+where quote_persist_reference='DLI60000029635';
+
+------
+21) with_adult
+
+adult
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,A.no_of_adults,A.coverage_product_id,B.coverage_product_code,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_insured_risk A,
+ dapdw_consumer_test.dap_lsm_home.dim_coverage_product B
+where A.coverage_product_id=B.coverage_product_id
+and  policy_number='8091053739';  
+
+select distinct policy_number,quote_persist_reference,originating_channel_id,no_of_adults
+from dapdw_consumer_test.dap_lsm_home.fact_quoted_risk 
+where quote_persist_reference='DLI60000053522';
+
+select distinct policy_number,quote_persist_reference,originating_channel_id,no_of_adults
+from dapdw_consumer_test.dap_lsm_home.fact_quote_conversion_declines_trading 
+where quote_persist_reference='DLI60000053522';
+
+------
+22) without_alaram
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,A.no_of_adults,A.coverage_product_id,B.coverage_product_code,A.transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_insured_risk A,
+ dapdw_consumer_test.dap_lsm_home.dim_coverage_product B
+where A.coverage_product_id=B.coverage_product_id
+and  policy_number='8091053739';  
+
+select distinct policy_number,quote_persist_reference,originating_channel_id,no_of_adults
+from dapdw_consumer_test.dap_lsm_home.fact_quoted_risk 
+where quote_persist_reference='DLI60000053522';
+
+select distinct policy_number,quote_persist_reference,originating_channel_id,no_of_adults
+from dapdw_consumer_test.dap_lsm_home.fact_quote_conversion_declines_trading 
+where quote_persist_reference='DLI60000053522';
+----
+23) with_child
+
+select distinct policy_number,quote_persist_reference,originating_channel_id,no_of_children,transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_insured_risk 
+where policy_number='8091035405'; 
+ 
+select distinct policy_number,quote_persist_reference,originating_channel_id,no_of_children
+from dapdw_consumer_test.dap_lsm_home.fact_quoted_risk 
+where quote_persist_reference='DLI70000051048';
+
+select distinct policy_number,quote_persist_reference,originating_channel_id,no_of_children
+from dapdw_consumer_test.dap_lsm_home.fact_quote_conversion_declines_trading 
+where quote_persist_reference='DLI70000051048';
+
+----
+24) without_child
+
+select distinct policy_number,quote_persist_reference,originating_channel_id,no_of_children,transaction_created_date_id
+from dapdw_consumer_test.dap_lsm_home.fact_insured_risk 
+where policy_number='8091035405'; 
+ 
+select distinct policy_number,quote_persist_reference,originating_channel_id,no_of_children
+from dapdw_consumer_test.dap_lsm_home.fact_quoted_risk 
+where quote_persist_reference='DLI70000051048';
+
+select distinct policy_number,quote_persist_reference,originating_channel_id,no_of_children
+from dapdw_consumer_test.dap_lsm_home.fact_quote_conversion_declines_trading 
+where quote_persist_reference='DLI70000051048';
+----
+25) builings premium
+
+select distinct A.policy_number,A.quote_persist_reference,C.originating_channel_id,C.declared_buildings_sum_insured,C.buildings_premium,C.coverage_product_id,B.coverage_product_code
+ from dapdw_consumer_test.dap_lsm_home.fact_insured_risk A,
+ dapdw_consumer_test.dap_lsm_home.dim_coverage_product B,
+ dapdw_consumer_test.dap_lsm_home.fact_insured_risk C
+where A.coverage_product_id=B.coverage_product_id
+and A.quote_persist_reference=C.quote_persist_reference
+and A.policy_number= '8091047822';
+
+
+select distinct A.policy_number,A.quote_persist_reference,C.originating_channel_id,C.declared_buildings_sum_insured,C.buildings_premium,C.coverage_product_id,B.coverage_product_code
+ from dapdw_consumer_test.dap_lsm_home.fact_quoted_risk A,
+ dapdw_consumer_test.dap_lsm_home.dim_coverage_product B,
+ dapdw_consumer_test.dap_lsm_home.fact_insured_risk C
+where C.coverage_product_id=B.coverage_product_id
+and A.quote_persist_reference=C.quote_persist_reference
+and A.quote_persist_reference= 'DLI60000051642';
+
+select distinct A.policy_number,A.quote_persist_reference,C.originating_channel_id,C.declared_buildings_sum_insured,C.buildings_premium,C.coverage_product_id,B.coverage_product_code
+ from dapdw_consumer_test.dap_lsm_home.fact_quote_conversion_declines_trading A,
+ dapdw_consumer_test.dap_lsm_home.dim_coverage_product B,
+ dapdw_consumer_test.dap_lsm_home.fact_insured_risk C
+where C.coverage_product_id=B.coverage_product_id
+and A.quote_persist_reference=C.quote_persist_reference
+and A.quote_persist_reference= 'DLI60000051642';
+
+-----
+26) contents premium
+
+select distinct A.policy_number,A.quote_persist_reference,C.originating_channel_id,C.declared_contents_sum_insured,C.contents_premium,C.coverage_product_id,B.coverage_product_code
+ from dapdw_consumer_test.dap_lsm_home.fact_insured_risk A,
+ dapdw_consumer_test.dap_lsm_home.dim_coverage_product B,
+ dapdw_consumer_test.dap_lsm_home.fact_insured_risk C
+where A.coverage_product_id=B.coverage_product_id
+and A.quote_persist_reference=C.quote_persist_reference
+and A.policy_number= '8091047822';
+
+
+select distinct A.policy_number,A.quote_persist_reference,C.originating_channel_id,C.declared_contents_sum_insured,C.contents_premium,C.coverage_product_id,B.coverage_product_code
+ from dapdw_consumer_test.dap_lsm_home.fact_quoted_risk A,
+ dapdw_consumer_test.dap_lsm_home.dim_coverage_product B,
+ dapdw_consumer_test.dap_lsm_home.fact_insured_risk C
+where C.coverage_product_id=B.coverage_product_id
+and A.quote_persist_reference=C.quote_persist_reference
+and A.quote_persist_reference= 'DLI60000051642';
+
+select distinct A.policy_number,A.quote_persist_reference,C.originating_channel_id,C.declared_contents_sum_insured,C.contents_premium,C.coverage_product_id,B.coverage_product_code
+ from dapdw_consumer_test.dap_lsm_home.fact_quote_conversion_declines_trading A,
+ dapdw_consumer_test.dap_lsm_home.dim_coverage_product B,
+ dapdw_consumer_test.dap_lsm_home.fact_insured_risk C
+where C.coverage_product_id=B.coverage_product_id
+and A.quote_persist_reference=C.quote_persist_reference
+and A.quote_persist_reference= 'DLI60000051642';
+
+----
+27) b& c premium
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,A.cycles_sum_insured,A.annualised_total_premium,A.cycles_premium,A.contents_delta_premium,A.buildings_delta_premium,
+A.annualised_total_delta_premium,A.coverage_product_id,B.coverage_product_code
+ from dapdw_consumer_test.dap_lsm_home.fact_insured_risk A,
+ dapdw_consumer_test.dap_lsm_home.dim_coverage_product B
+where A.coverage_product_id=B.coverage_product_id
+and A.policy_number= '8090959522';
+
+
+select distinct A.policy_number,A.quote_persist_reference,C.originating_channel_id,C.cycles_sum_insured,C.annualised_total_premium,C.cycles_premium,C.contents_delta_premium,C.buildings_delta_premium,
+C.annualised_total_delta_premium,C.coverage_product_id,B.coverage_product_code
+ from dapdw_consumer_test.dap_lsm_home.fact_quoted_risk A,
+ dapdw_consumer_test.dap_lsm_home.dim_coverage_product B,
+ dapdw_consumer_test.dap_lsm_home.fact_insured_risk C
+where C.coverage_product_id=B.coverage_product_id
+and A.quote_persist_reference=C.quote_persist_reference
+and A.quote_persist_reference= 'DLI60000032811';
+
+	select distinct A.policy_number,A.quote_persist_reference,C.originating_channel_id,C.cycles_sum_insured,C.annualised_total_premium,C.cycles_premium,C.contents_delta_premium,C.buildings_delta_premium,
+C.annualised_total_delta_premium,C.coverage_product_id,B.coverage_product_code
+ from dapdw_consumer_test.dap_lsm_home.fact_quote_conversion_declines_trading A,
+ dapdw_consumer_test.dap_lsm_home.dim_coverage_product B,
+ dapdw_consumer_test.dap_lsm_home.fact_insured_risk C
+where C.coverage_product_id=B.coverage_product_id
+and A.quote_persist_reference=C.quote_persist_reference
+and A.quote_persist_reference= 'DLI60000032811';
+----
+28) Personal possessions
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,A.personal_possessions_premium,A.personal_possessions_delta_premium,A.coverage_product_id,B.coverage_product_code
+ from dapdw_consumer_test.dap_lsm_home.fact_insured_risk A,
+ dapdw_consumer_test.dap_lsm_home.dim_coverage_product B
+where A.coverage_product_id=B.coverage_product_id
+and A.policy_number= '8090995138';
+
+
+select distinct A.policy_number,A.quote_persist_reference,C.originating_channel_id,C.personal_possessions_premium,C.personal_possessions_delta_premium,C.coverage_product_id,B.coverage_product_code
+ from dapdw_consumer_test.dap_lsm_home.fact_quoted_risk A,
+ dapdw_consumer_test.dap_lsm_home.dim_coverage_product B,
+ dapdw_consumer_test.dap_lsm_home.fact_insured_risk C
+where C.coverage_product_id=B.coverage_product_id
+and A.quote_persist_reference=C.quote_persist_reference
+and A.quote_persist_reference= 'DLI60000038154';
+
+select distinct A.policy_number,A.quote_persist_reference,C.originating_channel_id,C.personal_possessions_premium,C.personal_possessions_delta_premium,C.coverage_product_id,B.coverage_product_code
+ from dapdw_consumer_test.dap_lsm_home.fact_quote_conversion_declines_trading A,
+ dapdw_consumer_test.dap_lsm_home.dim_coverage_product B,
+ dapdw_consumer_test.dap_lsm_home.fact_insured_risk C
+where C.coverage_product_id=B.coverage_product_id
+and A.quote_persist_reference=C.quote_persist_reference
+and A.quote_persist_reference= 'DLI60000038154';
+-------
+29) HE24 premium
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,A.he24_premium,A.coverage_product_id,B.coverage_product_code,A.transaction_created_date_id
+ from dapdw_consumer_test.dap_lsm_home.fact_insured_risk A,
+ dapdw_consumer_test.dap_lsm_home.dim_coverage_product B
+where A.coverage_product_id=B.coverage_product_id
+--and A.policy_number= 8090999163;
+
+and A.originating_channel_id=7
+and A.brand_id=2 
+and A.he24_premium!='0'
+order by transaction_created_date_id desc limit 10000;
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,B.he24_premium
+ from dapdw_consumer_test.dap_lsm_home.fact_quoted_risk A,
+  dapdw_consumer_test.dap_lsm_home.fact_insured_risk B
+where A.quote_persist_reference=B.quote_persist_reference
+and A.quote_persist_reference='DLI60000032849'
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,B.he24_premium
+ from dapdw_consumer_test.dap_lsm_home.fact_quote_conversion_declines_trading A,
+  dapdw_consumer_test.dap_lsm_home.fact_insured_risk B
+where A.quote_persist_reference=B.quote_persist_reference
+and A.quote_persist_reference='DLI70000051446'
+---
+
+30) FLP premium
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,A.flp_premium,A.coverage_product_id,B.coverage_product_code,A.transaction_created_date_id
+ from dapdw_consumer_test.dap_lsm_home.fact_insured_risk A,
+ dapdw_consumer_test.dap_lsm_home.dim_coverage_product B
+where A.coverage_product_id=B.coverage_product_id
+and A.policy_number= 8090958565;
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,B.flp_premium
+ from dapdw_consumer_test.dap_lsm_home.fact_quoted_risk A,
+  dapdw_consumer_test.dap_lsm_home.fact_insured_risk B
+where A.quote_persist_reference=B.quote_persist_reference
+and A.quote_persist_reference='DLI60000032741'
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,B.flp_premium
+ from dapdw_consumer_test.dap_lsm_home.fact_quote_conversion_declines_trading A,
+  dapdw_consumer_test.dap_lsm_home.fact_insured_risk B
+where A.quote_persist_reference=B.quote_persist_reference
+and A.quote_persist_reference='DLI60000032741'
+----
+31) acc-amage-cover_premium
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,A.acc_damage_buildings_premium,A.acc_damage_contents_premium,A.coverage_product_id,B.coverage_product_code,A.transaction_created_date_id
+ from dapdw_consumer_test.dap_lsm_home.fact_insured_risk A,
+ dapdw_consumer_test.dap_lsm_home.dim_coverage_product B
+where A.coverage_product_id=B.coverage_product_id
+and A.policy_number= '8090995138';
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,B.acc_damage_buildings_premium,B.acc_damage_contents_premium
+ from dapdw_consumer_test.dap_lsm_home.fact_quoted_risk A,
+  dapdw_consumer_test.dap_lsm_home.fact_insured_risk B
+where A.quote_persist_reference=B.quote_persist_reference
+and A.quote_persist_reference='DLI60000038154'
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,B.acc_damage_buildings_premium,B.acc_damage_contents_premium
+ from dapdw_consumer_test.dap_lsm_home.fact_quote_conversion_declines_trading A,
+  dapdw_consumer_test.dap_lsm_home.fact_insured_risk B
+where A.quote_persist_reference=B.quote_persist_reference
+and A.quote_persist_reference='DLI60000038154'
+-----
+32) bike outside
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,A.specified_bikes_outside_premium,A.unspecified_personal_possessions_outside_premium,A.coverage_product_id,B.coverage_product_code,A.transaction_created_date_id
+ from dapdw_consumer_test.dap_lsm_home.fact_insured_risk A,
+ dapdw_consumer_test.dap_lsm_home.dim_coverage_product B
+where A.coverage_product_id=B.coverage_product_id
+and A.policy_number= '8090995138';
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,B.specified_bikes_outside_premium,B.unspecified_personal_possessions_outside_premium
+ from dapdw_consumer_test.dap_lsm_home.fact_quoted_risk A,
+  dapdw_consumer_test.dap_lsm_home.fact_insured_risk B
+where A.quote_persist_reference=B.quote_persist_reference
+and A.quote_persist_reference='DLI60000038154'
+
+select distinct A.policy_number,A.quote_persist_reference,A.originating_channel_id,B.specified_bikes_outside_premium,B.unspecified_personal_possessions_outside_premium
+ from dapdw_consumer_test.dap_lsm_home.fact_quote_conversion_declines_trading A,
+  dapdw_consumer_test.dap_lsm_home.fact_insured_risk B
+where A.quote_persist_reference=B.quote_persist_reference
+and A.quote_persist_reference='DLI60000038154'
+------
+
+33) 
